@@ -1,0 +1,17 @@
+D:\E3 PSI\8. Semestar\working\web-shop\web-shop\BackendWebApp\WebShopAPI\WebShopAPI.DataLayer\bin\Debug\net6.0\WebShopAPI.DataLayer.deps.json
+D:\E3 PSI\8. Semestar\working\web-shop\web-shop\BackendWebApp\WebShopAPI\WebShopAPI.DataLayer\bin\Debug\net6.0\WebShopAPI.DataLayer.runtimeconfig.json
+D:\E3 PSI\8. Semestar\working\web-shop\web-shop\BackendWebApp\WebShopAPI\WebShopAPI.DataLayer\bin\Debug\net6.0\WebShopAPI.DataLayer.dll
+D:\E3 PSI\8. Semestar\working\web-shop\web-shop\BackendWebApp\WebShopAPI\WebShopAPI.DataLayer\bin\Debug\net6.0\WebShopAPI.DataLayer.pdb
+D:\E3 PSI\8. Semestar\working\web-shop\web-shop\BackendWebApp\WebShopAPI\WebShopAPI.DataLayer\bin\Debug\net6.0\WebShopAPI.Models.dll
+D:\E3 PSI\8. Semestar\working\web-shop\web-shop\BackendWebApp\WebShopAPI\WebShopAPI.DataLayer\bin\Debug\net6.0\WebShopAPI.Models.pdb
+D:\E3 PSI\8. Semestar\working\web-shop\web-shop\BackendWebApp\WebShopAPI\WebShopAPI.DataLayer\obj\Debug\net6.0\WebShopAPI.DataLayer.csproj.AssemblyReference.cache
+D:\E3 PSI\8. Semestar\working\web-shop\web-shop\BackendWebApp\WebShopAPI\WebShopAPI.DataLayer\obj\Debug\net6.0\WebShopAPI.DataLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\E3 PSI\8. Semestar\working\web-shop\web-shop\BackendWebApp\WebShopAPI\WebShopAPI.DataLayer\obj\Debug\net6.0\WebShopAPI.DataLayer.AssemblyInfoInputs.cache
+D:\E3 PSI\8. Semestar\working\web-shop\web-shop\BackendWebApp\WebShopAPI\WebShopAPI.DataLayer\obj\Debug\net6.0\WebShopAPI.DataLayer.AssemblyInfo.cs
+D:\E3 PSI\8. Semestar\working\web-shop\web-shop\BackendWebApp\WebShopAPI\WebShopAPI.DataLayer\obj\Debug\net6.0\WebShopAPI.DataLayer.csproj.CoreCompileInputs.cache
+D:\E3 PSI\8. Semestar\working\web-shop\web-shop\BackendWebApp\WebShopAPI\WebShopAPI.DataLayer\obj\Debug\net6.0\WebShopAPI.DataLayer.csproj.CopyComplete
+D:\E3 PSI\8. Semestar\working\web-shop\web-shop\BackendWebApp\WebShopAPI\WebShopAPI.DataLayer\obj\Debug\net6.0\WebShopAPI.DataLayer.dll
+D:\E3 PSI\8. Semestar\working\web-shop\web-shop\BackendWebApp\WebShopAPI\WebShopAPI.DataLayer\obj\Debug\net6.0\refint\WebShopAPI.DataLayer.dll
+D:\E3 PSI\8. Semestar\working\web-shop\web-shop\BackendWebApp\WebShopAPI\WebShopAPI.DataLayer\obj\Debug\net6.0\WebShopAPI.DataLayer.pdb
+D:\E3 PSI\8. Semestar\working\web-shop\web-shop\BackendWebApp\WebShopAPI\WebShopAPI.DataLayer\obj\Debug\net6.0\WebShopAPI.DataLayer.genruntimeconfig.cache
+D:\E3 PSI\8. Semestar\working\web-shop\web-shop\BackendWebApp\WebShopAPI\WebShopAPI.DataLayer\obj\Debug\net6.0\ref\WebShopAPI.DataLayer.dll

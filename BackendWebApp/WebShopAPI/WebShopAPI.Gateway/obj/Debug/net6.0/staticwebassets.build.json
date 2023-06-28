@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "eA+JynYi2Ju/gy789OqZif82p3nv5nwIUr+PoIZlv9A=",
+  "Source": "WebShopAPI.Gateway",
+  "BasePath": "_content/WebShopAPI.Gateway",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
