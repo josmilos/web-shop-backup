@@ -70,19 +70,6 @@ namespace WebShopAPI.Services
                 dbProduct.Quantity = dbProduct.Quantity - product.Quantity;
                 _productDb.UpdateProduct(dbProduct);
             }
-            /*
-            try
-            {
-                User buyer = await _daprClient.InvokeMethodAsync<User>(HttpMethod.Get, "userswebapi", $"api/users/{order.UserBuyerId}");
-                //User buyer = _userDb.GetById(order.UserBuyerId);
-                //order.UserBuyer = buyer;
-            }
-            catch(Exception ex)
-            {
-                response["statusCode"] = "500";
-                response["message"] = "The server has encountered a situation it does not know how to handle.";
-                return response;
-            }*/
 
             try
             {

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "X+Y+Q34XWXs4zB1t2oBRj+AbmVQYQlP8g87BTQsRtYHJC166U/2Zl41mnEltfp/pNj5ml7W8qBvTtRZBRhjHFA==",
+  "dgSpecHash": "WHXCC2UnAlZVm2Ts23/zZatRXMqv+LHqSVHvgcViVvZqtY7ecw1NqzpBUdwxvjXqrnpXgIImJ4qZhaZNzQsFYw==",
   "success": true,
-  "projectFilePath": "D:\\E3 PSI\\8. Semestar\\working\\web-shop\\web-shop\\BackendWebApp\\WebShopAPI\\WebShopAPI.Models\\WebShopAPI.Models.csproj",
+  "projectFilePath": "D:\\E3 PSI\\8. Semestar\\workingV1\\web-shop\\web-shopv2\\BackendWebApp\\WebShopAPI\\WebShopAPI.Models\\WebShopAPI.Models.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

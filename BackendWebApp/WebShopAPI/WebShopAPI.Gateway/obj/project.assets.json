@@ -2304,11 +2304,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\E3 PSI\\8. Semestar\\working\\web-shop\\web-shop\\BackendWebApp\\WebShopAPI\\WebShopAPI.Gateway\\WebShopAPI.Gateway.csproj",
+      "projectUniqueName": "D:\\E3 PSI\\8. Semestar\\workingV1\\web-shop\\web-shopv2\\BackendWebApp\\WebShopAPI\\WebShopAPI.Gateway\\WebShopAPI.Gateway.csproj",
       "projectName": "WebShopAPI.Gateway",
-      "projectPath": "D:\\E3 PSI\\8. Semestar\\working\\web-shop\\web-shop\\BackendWebApp\\WebShopAPI\\WebShopAPI.Gateway\\WebShopAPI.Gateway.csproj",
+      "projectPath": "D:\\E3 PSI\\8. Semestar\\workingV1\\web-shop\\web-shopv2\\BackendWebApp\\WebShopAPI\\WebShopAPI.Gateway\\WebShopAPI.Gateway.csproj",
       "packagesPath": "C:\\Users\\Milos\\.nuget\\packages\\",
-      "outputPath": "D:\\E3 PSI\\8. Semestar\\working\\web-shop\\web-shop\\BackendWebApp\\WebShopAPI\\WebShopAPI.Gateway\\obj\\",
+      "outputPath": "D:\\E3 PSI\\8. Semestar\\workingV1\\web-shop\\web-shopv2\\BackendWebApp\\WebShopAPI\\WebShopAPI.Gateway\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Milos\\AppData\\Roaming\\NuGet\\NuGet.Config",

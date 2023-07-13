@@ -1,13 +1,13 @@
 {
   "Version": 1,
-  "Hash": "3bmZ4+Q4qcv3QDGNbe/7IIDQxLrXNYUBluurAI5wmPw=",
+  "Hash": "1dQGa4FVvAoKwt0BUJwekrv9r1GKhj7NAQoCiht1ivk=",
   "Source": "WebShopAPI",
   "BasePath": "_content/WebShopAPI",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [
     {
-      "Identity": "D:\\E3 PSI\\8. Semestar\\working\\web-shop\\web-shop\\BackendWebApp\\WebShopAPI\\UserMS\\UserMS.csproj",
+      "Identity": "D:\\E3 PSI\\8. Semestar\\workingV1\\web-shop\\web-shopv2\\BackendWebApp\\WebShopAPI\\UserMS\\UserMS.csproj",
       "Version": 2,
       "Source": "UserMS",
       "GetPublishAssetsTargets": "ComputeReferencedStaticWebAssetsPublishManifest;GetCurrentProjectPublishStaticWebAssetItems",
@@ -18,7 +18,7 @@
       "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework"
     },
     {
-      "Identity": "D:\\E3 PSI\\8. Semestar\\working\\web-shop\\web-shop\\BackendWebApp\\WebShopAPI\\WebShopAPI.Gateway\\WebShopAPI.Gateway.csproj",
+      "Identity": "D:\\E3 PSI\\8. Semestar\\workingV1\\web-shop\\web-shopv2\\BackendWebApp\\WebShopAPI\\WebShopAPI.Gateway\\WebShopAPI.Gateway.csproj",
       "Version": 2,
       "Source": "WebShopAPI.Gateway",
       "GetPublishAssetsTargets": "ComputeReferencedStaticWebAssetsPublishManifest;GetCurrentProjectPublishStaticWebAssetItems",

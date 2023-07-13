@@ -3311,3 +3311,1266 @@
 2023-06-28 19:31:27.895 +02:00 [INF] requestId: 0HMRNVDAISQN6:00000061, previousRequestId: no previous request id, message: 200 (OK) status code, request uri: https://localhost:7108/api/orders/history-seller/2
 2023-06-28 19:31:27.900 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7068/api/orders/history-seller/2 application/json - - 200 789242 application/json;+charset=utf-8 111.4809ms
 2023-06-28 19:31:27.901 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7068/api/orders/history-seller/2 application/json - - 200 789242 application/json;+charset=utf-8 111.4809ms
+2023-06-28 23:07:39.359 +02:00 [INF] User profile is available. Using 'C:\Users\Milos\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2023-06-28 23:07:39.944 +02:00 [INF] Now listening on: https://localhost:7068
+2023-06-28 23:07:39.952 +02:00 [INF] Now listening on: https://localhost:7068
+2023-06-28 23:07:39.952 +02:00 [INF] Now listening on: http://localhost:5182
+2023-06-28 23:07:39.952 +02:00 [INF] Now listening on: http://localhost:5182
+2023-06-28 23:07:39.955 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-06-28 23:07:39.957 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-06-28 23:07:39.958 +02:00 [INF] Hosting environment: Development
+2023-06-28 23:07:39.958 +02:00 [INF] Hosting environment: Development
+2023-06-28 23:07:39.958 +02:00 [INF] Content root path: D:\E3 PSI\8. Semestar\workingV1\web-shop\web-shopv2\BackendWebApp\WebShopAPI\WebShopAPI.Gateway
+2023-06-28 23:07:39.958 +02:00 [INF] Content root path: D:\E3 PSI\8. Semestar\workingV1\web-shop\web-shopv2\BackendWebApp\WebShopAPI\WebShopAPI.Gateway
+2023-06-28 23:07:40.962 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7068/swagger - -
+2023-06-28 23:07:40.966 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7068/swagger - -
+2023-06-28 23:07:41.242 +02:00 [INF] requestId: 0HMRO3EQKI2SJ:00000001, previousRequestId: no previous request id, message: EndpointRateLimiting is not enabled for /swagger/index.html
+2023-06-28 23:07:41.243 +02:00 [INF] requestId: 0HMRO3EQKI2SJ:00000001, previousRequestId: no previous request id, message: EndpointRateLimiting is not enabled for /swagger/index.html
+2023-06-28 23:07:41.258 +02:00 [INF] requestId: 0HMRO3EQKI2SJ:00000001, previousRequestId: no previous request id, message: No authentication needed for /swagger
+2023-06-28 23:07:41.258 +02:00 [INF] requestId: 0HMRO3EQKI2SJ:00000001, previousRequestId: no previous request id, message: No authentication needed for /swagger
+2023-06-28 23:07:41.264 +02:00 [INF] requestId: 0HMRO3EQKI2SJ:00000001, previousRequestId: no previous request id, message: /swagger/index.html route does not require user to be authorised
+2023-06-28 23:07:41.264 +02:00 [INF] requestId: 0HMRO3EQKI2SJ:00000001, previousRequestId: no previous request id, message: /swagger/index.html route does not require user to be authorised
+2023-06-28 23:07:41.427 +02:00 [INF] requestId: 0HMRO3EQKI2SJ:00000001, previousRequestId: no previous request id, message: 200 (OK) status code, request uri: https://localhost:7108/swagger/index.html
+2023-06-28 23:07:41.427 +02:00 [INF] requestId: 0HMRO3EQKI2SJ:00000001, previousRequestId: no previous request id, message: 200 (OK) status code, request uri: https://localhost:7108/swagger/index.html
+2023-06-28 23:07:41.567 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7068/swagger - - - 200 - text/html;+charset=utf-8 609.5723ms
+2023-06-28 23:07:41.567 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7068/swagger - - - 200 - text/html;+charset=utf-8 609.5723ms
+2023-06-28 23:07:41.576 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7068/swagger-ui.css - -
+2023-06-28 23:07:41.576 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7068/_framework/aspnetcore-browser-refresh.js - -
+2023-06-28 23:07:41.577 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7068/swagger-ui-bundle.js - -
+2023-06-28 23:07:41.577 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7068/swagger-ui-standalone-preset.js - -
+2023-06-28 23:07:41.577 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7068/swagger-ui-bundle.js - -
+2023-06-28 23:07:41.577 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7068/swagger-ui-standalone-preset.js - -
+2023-06-28 23:07:41.577 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7068/_framework/aspnetcore-browser-refresh.js - -
+2023-06-28 23:07:41.577 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7068/swagger-ui.css - -
+2023-06-28 23:07:41.583 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7068/_vs/browserLink - -
+2023-06-28 23:07:41.584 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7068/_vs/browserLink - -
+2023-06-28 23:07:41.594 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7068/_framework/aspnetcore-browser-refresh.js - - - 200 12006 application/javascript;+charset=utf-8 17.5063ms
+2023-06-28 23:07:41.594 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7068/_framework/aspnetcore-browser-refresh.js - - - 200 12006 application/javascript;+charset=utf-8 17.5063ms
+2023-06-28 23:07:41.595 +02:00 [WRN] requestId: 0HMRO3EQKI2SJ:00000007, previousRequestId: no previous request id, message: DownstreamRouteFinderMiddleware setting pipeline errors. IDownstreamRouteFinder returned Error Code: UnableToFindDownstreamRouteError Message: Failed to match Route configuration for upstream path: /swagger-ui-bundle.js, verb: GET.
+2023-06-28 23:07:41.596 +02:00 [WRN] requestId: 0HMRO3EQKI2SJ:00000003, previousRequestId: no previous request id, message: DownstreamRouteFinderMiddleware setting pipeline errors. IDownstreamRouteFinder returned Error Code: UnableToFindDownstreamRouteError Message: Failed to match Route configuration for upstream path: /swagger-ui.css, verb: GET.
+2023-06-28 23:07:41.596 +02:00 [WRN] requestId: 0HMRO3EQKI2SJ:00000003, previousRequestId: no previous request id, message: DownstreamRouteFinderMiddleware setting pipeline errors. IDownstreamRouteFinder returned Error Code: UnableToFindDownstreamRouteError Message: Failed to match Route configuration for upstream path: /swagger-ui.css, verb: GET.
+2023-06-28 23:07:41.596 +02:00 [WRN] requestId: 0HMRO3EQKI2SJ:00000007, previousRequestId: no previous request id, message: DownstreamRouteFinderMiddleware setting pipeline errors. IDownstreamRouteFinder returned Error Code: UnableToFindDownstreamRouteError Message: Failed to match Route configuration for upstream path: /swagger-ui-bundle.js, verb: GET.
+2023-06-28 23:07:41.596 +02:00 [WRN] requestId: 0HMRO3EQKI2SJ:00000003, previousRequestId: no previous request id, message: Error Code: UnableToFindDownstreamRouteError Message: Failed to match Route configuration for upstream path: /swagger-ui.css, verb: GET. errors found in ResponderMiddleware. Setting error response for request path:/swagger-ui.css, request method: GET
+2023-06-28 23:07:41.596 +02:00 [WRN] requestId: 0HMRO3EQKI2SJ:00000007, previousRequestId: no previous request id, message: Error Code: UnableToFindDownstreamRouteError Message: Failed to match Route configuration for upstream path: /swagger-ui-bundle.js, verb: GET. errors found in ResponderMiddleware. Setting error response for request path:/swagger-ui-bundle.js, request method: GET
+2023-06-28 23:07:41.596 +02:00 [WRN] requestId: 0HMRO3EQKI2SJ:00000003, previousRequestId: no previous request id, message: Error Code: UnableToFindDownstreamRouteError Message: Failed to match Route configuration for upstream path: /swagger-ui.css, verb: GET. errors found in ResponderMiddleware. Setting error response for request path:/swagger-ui.css, request method: GET
+2023-06-28 23:07:41.596 +02:00 [WRN] requestId: 0HMRO3EQKI2SJ:00000007, previousRequestId: no previous request id, message: Error Code: UnableToFindDownstreamRouteError Message: Failed to match Route configuration for upstream path: /swagger-ui-bundle.js, verb: GET. errors found in ResponderMiddleware. Setting error response for request path:/swagger-ui-bundle.js, request method: GET
+2023-06-28 23:07:41.603 +02:00 [WRN] requestId: 0HMRO3EQKI2SJ:00000009, previousRequestId: no previous request id, message: DownstreamRouteFinderMiddleware setting pipeline errors. IDownstreamRouteFinder returned Error Code: UnableToFindDownstreamRouteError Message: Failed to match Route configuration for upstream path: /swagger-ui-standalone-preset.js, verb: GET.
+2023-06-28 23:07:41.603 +02:00 [WRN] requestId: 0HMRO3EQKI2SJ:00000009, previousRequestId: no previous request id, message: DownstreamRouteFinderMiddleware setting pipeline errors. IDownstreamRouteFinder returned Error Code: UnableToFindDownstreamRouteError Message: Failed to match Route configuration for upstream path: /swagger-ui-standalone-preset.js, verb: GET.
+2023-06-28 23:07:41.603 +02:00 [WRN] requestId: 0HMRO3EQKI2SJ:00000009, previousRequestId: no previous request id, message: Error Code: UnableToFindDownstreamRouteError Message: Failed to match Route configuration for upstream path: /swagger-ui-standalone-preset.js, verb: GET. errors found in ResponderMiddleware. Setting error response for request path:/swagger-ui-standalone-preset.js, request method: GET
+2023-06-28 23:07:41.603 +02:00 [WRN] requestId: 0HMRO3EQKI2SJ:00000009, previousRequestId: no previous request id, message: Error Code: UnableToFindDownstreamRouteError Message: Failed to match Route configuration for upstream path: /swagger-ui-standalone-preset.js, verb: GET. errors found in ResponderMiddleware. Setting error response for request path:/swagger-ui-standalone-preset.js, request method: GET
+2023-06-28 23:07:41.603 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7068/swagger-ui-bundle.js - - - 404 0 - 26.9982ms
+2023-06-28 23:07:41.603 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7068/swagger-ui.css - - - 404 0 - 27.0364ms
+2023-06-28 23:07:41.603 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7068/swagger-ui-standalone-preset.js - - - 404 0 - 26.5828ms
+2023-06-28 23:07:41.603 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7068/swagger-ui.css - - - 404 0 - 27.0364ms
+2023-06-28 23:07:41.603 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7068/swagger-ui-standalone-preset.js - - - 404 0 - 26.5828ms
+2023-06-28 23:07:41.603 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7068/swagger-ui-bundle.js - - - 404 0 - 26.9982ms
+2023-06-28 23:07:41.610 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7068/_framework/aspnetcore-browser-refresh.js - -
+2023-06-28 23:07:41.610 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7068/_framework/aspnetcore-browser-refresh.js - -
+2023-06-28 23:07:41.611 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7068/_framework/aspnetcore-browser-refresh.js - - - 200 12006 application/javascript;+charset=utf-8 0.5341ms
+2023-06-28 23:07:41.611 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7068/_framework/aspnetcore-browser-refresh.js - - - 200 12006 application/javascript;+charset=utf-8 0.5341ms
+2023-06-28 23:07:41.613 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7068/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 29.7728ms
+2023-06-28 23:07:41.613 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7068/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 29.7728ms
+2023-06-28 23:07:50.730 +02:00 [INF] Request starting HTTP/2 OPTIONS https://localhost:7068/api/users/login - -
+2023-06-28 23:07:50.730 +02:00 [INF] Request starting HTTP/2 OPTIONS https://localhost:7068/api/users/login - -
+2023-06-28 23:07:50.736 +02:00 [INF] CORS policy execution successful.
+2023-06-28 23:07:50.736 +02:00 [INF] CORS policy execution successful.
+2023-06-28 23:07:50.738 +02:00 [INF] Request finished HTTP/2 OPTIONS https://localhost:7068/api/users/login - - - 204 - - 8.2193ms
+2023-06-28 23:07:50.738 +02:00 [INF] Request finished HTTP/2 OPTIONS https://localhost:7068/api/users/login - - - 204 - - 8.2193ms
+2023-06-28 23:07:50.740 +02:00 [INF] Request starting HTTP/2 POST https://localhost:7068/api/users/login application/json 72
+2023-06-28 23:07:50.740 +02:00 [INF] Request starting HTTP/2 POST https://localhost:7068/api/users/login application/json 72
+2023-06-28 23:07:50.740 +02:00 [INF] CORS policy execution successful.
+2023-06-28 23:07:50.740 +02:00 [INF] CORS policy execution successful.
+2023-06-28 23:07:50.748 +02:00 [INF] requestId: 0HMRO3EQKI2SK:00000003, previousRequestId: no previous request id, message: EndpointRateLimiting is not enabled for /api/users/login
+2023-06-28 23:07:50.748 +02:00 [INF] requestId: 0HMRO3EQKI2SK:00000003, previousRequestId: no previous request id, message: EndpointRateLimiting is not enabled for /api/users/login
+2023-06-28 23:07:50.748 +02:00 [INF] requestId: 0HMRO3EQKI2SK:00000003, previousRequestId: no previous request id, message: No authentication needed for /api/users/login
+2023-06-28 23:07:50.748 +02:00 [INF] requestId: 0HMRO3EQKI2SK:00000003, previousRequestId: no previous request id, message: No authentication needed for /api/users/login
+2023-06-28 23:07:50.748 +02:00 [INF] requestId: 0HMRO3EQKI2SK:00000003, previousRequestId: no previous request id, message: /api/users/login route does not require user to be authorised
+2023-06-28 23:07:50.748 +02:00 [INF] requestId: 0HMRO3EQKI2SK:00000003, previousRequestId: no previous request id, message: /api/users/login route does not require user to be authorised
+2023-06-28 23:07:53.716 +02:00 [INF] requestId: 0HMRO3EQKI2SK:00000003, previousRequestId: no previous request id, message: 200 (OK) status code, request uri: https://localhost:7066/api/users/login
+2023-06-28 23:07:53.716 +02:00 [INF] requestId: 0HMRO3EQKI2SK:00000003, previousRequestId: no previous request id, message: 200 (OK) status code, request uri: https://localhost:7066/api/users/login
+2023-06-28 23:07:53.718 +02:00 [INF] Request finished HTTP/2 POST https://localhost:7068/api/users/login application/json 72 - 200 350 application/json;+charset=utf-8 2978.0005ms
+2023-06-28 23:07:53.718 +02:00 [INF] Request finished HTTP/2 POST https://localhost:7068/api/users/login application/json 72 - 200 350 application/json;+charset=utf-8 2978.0005ms
+2023-06-28 23:07:55.047 +02:00 [INF] Request starting HTTP/2 OPTIONS https://localhost:7068/api/orders/history-seller/2 - -
+2023-06-28 23:07:55.047 +02:00 [INF] Request starting HTTP/2 OPTIONS https://localhost:7068/api/orders/history-seller/2 - -
+2023-06-28 23:07:55.047 +02:00 [INF] CORS policy execution successful.
+2023-06-28 23:07:55.047 +02:00 [INF] CORS policy execution successful.
+2023-06-28 23:07:55.048 +02:00 [INF] Request finished HTTP/2 OPTIONS https://localhost:7068/api/orders/history-seller/2 - - - 204 - - 0.3734ms
+2023-06-28 23:07:55.048 +02:00 [INF] Request finished HTTP/2 OPTIONS https://localhost:7068/api/orders/history-seller/2 - - - 204 - - 0.3734ms
+2023-06-28 23:07:55.050 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7068/api/orders/history-seller/2 application/json -
+2023-06-28 23:07:55.050 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7068/api/orders/history-seller/2 application/json -
+2023-06-28 23:07:55.051 +02:00 [INF] CORS policy execution successful.
+2023-06-28 23:07:55.051 +02:00 [INF] CORS policy execution successful.
+2023-06-28 23:07:55.051 +02:00 [INF] requestId: 0HMRO3EQKI2SK:00000007, previousRequestId: no previous request id, message: EndpointRateLimiting is not enabled for /api/orders/{id}
+2023-06-28 23:07:55.051 +02:00 [INF] requestId: 0HMRO3EQKI2SK:00000007, previousRequestId: no previous request id, message: EndpointRateLimiting is not enabled for /api/orders/{id}
+2023-06-28 23:07:55.051 +02:00 [INF] requestId: 0HMRO3EQKI2SK:00000007, previousRequestId: no previous request id, message: No authentication needed for /api/orders/history-seller/2
+2023-06-28 23:07:55.051 +02:00 [INF] requestId: 0HMRO3EQKI2SK:00000007, previousRequestId: no previous request id, message: No authentication needed for /api/orders/history-seller/2
+2023-06-28 23:07:55.051 +02:00 [INF] requestId: 0HMRO3EQKI2SK:00000007, previousRequestId: no previous request id, message: /api/orders/{id} route does not require user to be authorised
+2023-06-28 23:07:55.051 +02:00 [INF] requestId: 0HMRO3EQKI2SK:00000007, previousRequestId: no previous request id, message: /api/orders/{id} route does not require user to be authorised
+2023-06-28 23:07:55.527 +02:00 [WRN] requestId: 0HMRO3EQKI2SK:00000007, previousRequestId: no previous request id, message: 403 (Forbidden) status code, request uri: https://localhost:7108/api/orders/history-seller/2
+2023-06-28 23:07:55.527 +02:00 [WRN] requestId: 0HMRO3EQKI2SK:00000007, previousRequestId: no previous request id, message: 403 (Forbidden) status code, request uri: https://localhost:7108/api/orders/history-seller/2
+2023-06-28 23:07:55.528 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7068/api/orders/history-seller/2 application/json - - 403 0 - 477.6837ms
+2023-06-28 23:07:55.528 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7068/api/orders/history-seller/2 application/json - - 403 0 - 477.6837ms
+2023-06-28 23:07:57.856 +02:00 [INF] Request starting HTTP/2 OPTIONS https://localhost:7068/api/orders/history-buyer/3 - -
+2023-06-28 23:07:57.856 +02:00 [INF] Request starting HTTP/2 OPTIONS https://localhost:7068/api/orders/history-buyer/3 - -
+2023-06-28 23:07:57.857 +02:00 [INF] CORS policy execution successful.
+2023-06-28 23:07:57.857 +02:00 [INF] CORS policy execution successful.
+2023-06-28 23:07:57.857 +02:00 [INF] Request finished HTTP/2 OPTIONS https://localhost:7068/api/orders/history-buyer/3 - - - 204 - - 0.3694ms
+2023-06-28 23:07:57.857 +02:00 [INF] Request finished HTTP/2 OPTIONS https://localhost:7068/api/orders/history-buyer/3 - - - 204 - - 0.3694ms
+2023-06-28 23:07:57.859 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7068/api/orders/history-buyer/3 application/json -
+2023-06-28 23:07:57.859 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7068/api/orders/history-buyer/3 application/json -
+2023-06-28 23:07:57.859 +02:00 [INF] CORS policy execution successful.
+2023-06-28 23:07:57.859 +02:00 [INF] CORS policy execution successful.
+2023-06-28 23:07:57.859 +02:00 [INF] requestId: 0HMRO3EQKI2SK:0000000B, previousRequestId: no previous request id, message: EndpointRateLimiting is not enabled for /api/orders/{id}
+2023-06-28 23:07:57.859 +02:00 [INF] requestId: 0HMRO3EQKI2SK:0000000B, previousRequestId: no previous request id, message: EndpointRateLimiting is not enabled for /api/orders/{id}
+2023-06-28 23:07:57.859 +02:00 [INF] requestId: 0HMRO3EQKI2SK:0000000B, previousRequestId: no previous request id, message: No authentication needed for /api/orders/history-buyer/3
+2023-06-28 23:07:57.859 +02:00 [INF] requestId: 0HMRO3EQKI2SK:0000000B, previousRequestId: no previous request id, message: No authentication needed for /api/orders/history-buyer/3
+2023-06-28 23:07:57.859 +02:00 [INF] requestId: 0HMRO3EQKI2SK:0000000B, previousRequestId: no previous request id, message: /api/orders/{id} route does not require user to be authorised
+2023-06-28 23:07:57.859 +02:00 [INF] requestId: 0HMRO3EQKI2SK:0000000B, previousRequestId: no previous request id, message: /api/orders/{id} route does not require user to be authorised
+2023-06-28 23:08:00.741 +02:00 [INF] requestId: 0HMRO3EQKI2SK:0000000B, previousRequestId: no previous request id, message: 200 (OK) status code, request uri: https://localhost:7108/api/orders/history-buyer/3
+2023-06-28 23:08:00.741 +02:00 [INF] requestId: 0HMRO3EQKI2SK:0000000B, previousRequestId: no previous request id, message: 200 (OK) status code, request uri: https://localhost:7108/api/orders/history-buyer/3
+2023-06-28 23:08:00.760 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7068/api/orders/history-buyer/3 application/json - - 200 789242 application/json;+charset=utf-8 2901.4906ms
+2023-06-28 23:08:00.760 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7068/api/orders/history-buyer/3 application/json - - 200 789242 application/json;+charset=utf-8 2901.4906ms
+2023-06-28 23:13:06.938 +02:00 [INF] Request starting HTTP/2 OPTIONS https://localhost:7068/api/orders/history-buyer/3 - -
+2023-06-28 23:13:06.938 +02:00 [INF] Request starting HTTP/2 OPTIONS https://localhost:7068/api/orders/history-buyer/3 - -
+2023-06-28 23:13:06.938 +02:00 [INF] CORS policy execution successful.
+2023-06-28 23:13:06.938 +02:00 [INF] CORS policy execution successful.
+2023-06-28 23:13:06.938 +02:00 [INF] Request finished HTTP/2 OPTIONS https://localhost:7068/api/orders/history-buyer/3 - - - 204 - - 0.4347ms
+2023-06-28 23:13:06.938 +02:00 [INF] Request finished HTTP/2 OPTIONS https://localhost:7068/api/orders/history-buyer/3 - - - 204 - - 0.4347ms
+2023-06-28 23:13:06.943 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7068/api/orders/history-buyer/3 application/json -
+2023-06-28 23:13:06.943 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7068/api/orders/history-buyer/3 application/json -
+2023-06-28 23:13:06.943 +02:00 [INF] CORS policy execution successful.
+2023-06-28 23:13:06.943 +02:00 [INF] CORS policy execution successful.
+2023-06-28 23:13:06.944 +02:00 [INF] requestId: 0HMRO3EQKI2SK:0000000F, previousRequestId: no previous request id, message: EndpointRateLimiting is not enabled for /api/orders/{id}
+2023-06-28 23:13:06.944 +02:00 [INF] requestId: 0HMRO3EQKI2SK:0000000F, previousRequestId: no previous request id, message: EndpointRateLimiting is not enabled for /api/orders/{id}
+2023-06-28 23:13:06.944 +02:00 [INF] requestId: 0HMRO3EQKI2SK:0000000F, previousRequestId: no previous request id, message: No authentication needed for /api/orders/history-buyer/3
+2023-06-28 23:13:06.944 +02:00 [INF] requestId: 0HMRO3EQKI2SK:0000000F, previousRequestId: no previous request id, message: No authentication needed for /api/orders/history-buyer/3
+2023-06-28 23:13:06.944 +02:00 [INF] requestId: 0HMRO3EQKI2SK:0000000F, previousRequestId: no previous request id, message: /api/orders/{id} route does not require user to be authorised
+2023-06-28 23:13:06.944 +02:00 [INF] requestId: 0HMRO3EQKI2SK:0000000F, previousRequestId: no previous request id, message: /api/orders/{id} route does not require user to be authorised
+2023-06-28 23:13:07.095 +02:00 [INF] requestId: 0HMRO3EQKI2SK:0000000F, previousRequestId: no previous request id, message: 200 (OK) status code, request uri: https://localhost:7108/api/orders/history-buyer/3
+2023-06-28 23:13:07.095 +02:00 [INF] requestId: 0HMRO3EQKI2SK:0000000F, previousRequestId: no previous request id, message: 200 (OK) status code, request uri: https://localhost:7108/api/orders/history-buyer/3
+2023-06-28 23:13:07.100 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7068/api/orders/history-buyer/3 application/json - - 200 789242 application/json;+charset=utf-8 156.8132ms
+2023-06-28 23:13:07.100 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7068/api/orders/history-buyer/3 application/json - - 200 789242 application/json;+charset=utf-8 156.8132ms
+2023-06-28 23:13:13.619 +02:00 [INF] Request starting HTTP/2 OPTIONS https://localhost:7068/api/orders/history-buyer/3 - -
+2023-06-28 23:13:13.619 +02:00 [INF] Request starting HTTP/2 OPTIONS https://localhost:7068/api/orders/history-buyer/3 - -
+2023-06-28 23:13:13.619 +02:00 [INF] CORS policy execution successful.
+2023-06-28 23:13:13.619 +02:00 [INF] CORS policy execution successful.
+2023-06-28 23:13:13.619 +02:00 [INF] Request finished HTTP/2 OPTIONS https://localhost:7068/api/orders/history-buyer/3 - - - 204 - - 0.4237ms
+2023-06-28 23:13:13.619 +02:00 [INF] Request finished HTTP/2 OPTIONS https://localhost:7068/api/orders/history-buyer/3 - - - 204 - - 0.4237ms
+2023-06-28 23:13:13.621 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7068/api/orders/history-buyer/3 application/json -
+2023-06-28 23:13:13.621 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7068/api/orders/history-buyer/3 application/json -
+2023-06-28 23:13:13.621 +02:00 [INF] CORS policy execution successful.
+2023-06-28 23:13:13.621 +02:00 [INF] CORS policy execution successful.
+2023-06-28 23:13:13.621 +02:00 [INF] requestId: 0HMRO3EQKI2SK:00000013, previousRequestId: no previous request id, message: EndpointRateLimiting is not enabled for /api/orders/{id}
+2023-06-28 23:13:13.621 +02:00 [INF] requestId: 0HMRO3EQKI2SK:00000013, previousRequestId: no previous request id, message: EndpointRateLimiting is not enabled for /api/orders/{id}
+2023-06-28 23:13:13.622 +02:00 [INF] requestId: 0HMRO3EQKI2SK:00000013, previousRequestId: no previous request id, message: No authentication needed for /api/orders/history-buyer/3
+2023-06-28 23:13:13.622 +02:00 [INF] requestId: 0HMRO3EQKI2SK:00000013, previousRequestId: no previous request id, message: No authentication needed for /api/orders/history-buyer/3
+2023-06-28 23:13:13.622 +02:00 [INF] requestId: 0HMRO3EQKI2SK:00000013, previousRequestId: no previous request id, message: /api/orders/{id} route does not require user to be authorised
+2023-06-28 23:13:13.622 +02:00 [INF] requestId: 0HMRO3EQKI2SK:00000013, previousRequestId: no previous request id, message: /api/orders/{id} route does not require user to be authorised
+2023-06-28 23:13:13.730 +02:00 [INF] requestId: 0HMRO3EQKI2SK:00000013, previousRequestId: no previous request id, message: 200 (OK) status code, request uri: https://localhost:7108/api/orders/history-buyer/3
+2023-06-28 23:13:13.731 +02:00 [INF] requestId: 0HMRO3EQKI2SK:00000013, previousRequestId: no previous request id, message: 200 (OK) status code, request uri: https://localhost:7108/api/orders/history-buyer/3
+2023-06-28 23:13:13.735 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7068/api/orders/history-buyer/3 application/json - - 200 789242 application/json;+charset=utf-8 114.3453ms
+2023-06-28 23:13:13.735 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7068/api/orders/history-buyer/3 application/json - - 200 789242 application/json;+charset=utf-8 114.3453ms
+2023-06-28 23:13:14.737 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7068/api/orders/history-buyer/3 application/json -
+2023-06-28 23:13:14.737 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7068/api/orders/history-buyer/3 application/json -
+2023-06-28 23:13:14.737 +02:00 [INF] CORS policy execution successful.
+2023-06-28 23:13:14.737 +02:00 [INF] CORS policy execution successful.
+2023-06-28 23:13:14.738 +02:00 [INF] requestId: 0HMRO3EQKI2SK:00000015, previousRequestId: no previous request id, message: EndpointRateLimiting is not enabled for /api/orders/{id}
+2023-06-28 23:13:14.738 +02:00 [INF] requestId: 0HMRO3EQKI2SK:00000015, previousRequestId: no previous request id, message: EndpointRateLimiting is not enabled for /api/orders/{id}
+2023-06-28 23:13:14.738 +02:00 [INF] requestId: 0HMRO3EQKI2SK:00000015, previousRequestId: no previous request id, message: No authentication needed for /api/orders/history-buyer/3
+2023-06-28 23:13:14.738 +02:00 [INF] requestId: 0HMRO3EQKI2SK:00000015, previousRequestId: no previous request id, message: No authentication needed for /api/orders/history-buyer/3
+2023-06-28 23:13:14.738 +02:00 [INF] requestId: 0HMRO3EQKI2SK:00000015, previousRequestId: no previous request id, message: /api/orders/{id} route does not require user to be authorised
+2023-06-28 23:13:14.738 +02:00 [INF] requestId: 0HMRO3EQKI2SK:00000015, previousRequestId: no previous request id, message: /api/orders/{id} route does not require user to be authorised
+2023-06-28 23:13:14.811 +02:00 [INF] requestId: 0HMRO3EQKI2SK:00000015, previousRequestId: no previous request id, message: 200 (OK) status code, request uri: https://localhost:7108/api/orders/history-buyer/3
+2023-06-28 23:13:14.811 +02:00 [INF] requestId: 0HMRO3EQKI2SK:00000015, previousRequestId: no previous request id, message: 200 (OK) status code, request uri: https://localhost:7108/api/orders/history-buyer/3
+2023-06-28 23:13:14.815 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7068/api/orders/history-buyer/3 application/json - - 200 789242 application/json;+charset=utf-8 77.3685ms
+2023-06-28 23:13:14.815 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7068/api/orders/history-buyer/3 application/json - - 200 789242 application/json;+charset=utf-8 77.3685ms
+2023-06-28 23:13:16.589 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7068/api/orders/history-buyer/3 application/json -
+2023-06-28 23:13:16.589 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7068/api/orders/history-buyer/3 application/json -
+2023-06-28 23:13:16.590 +02:00 [INF] CORS policy execution successful.
+2023-06-28 23:13:16.590 +02:00 [INF] CORS policy execution successful.
+2023-06-28 23:13:16.590 +02:00 [INF] requestId: 0HMRO3EQKI2SK:00000017, previousRequestId: no previous request id, message: EndpointRateLimiting is not enabled for /api/orders/{id}
+2023-06-28 23:13:16.590 +02:00 [INF] requestId: 0HMRO3EQKI2SK:00000017, previousRequestId: no previous request id, message: EndpointRateLimiting is not enabled for /api/orders/{id}
+2023-06-28 23:13:16.590 +02:00 [INF] requestId: 0HMRO3EQKI2SK:00000017, previousRequestId: no previous request id, message: No authentication needed for /api/orders/history-buyer/3
+2023-06-28 23:13:16.590 +02:00 [INF] requestId: 0HMRO3EQKI2SK:00000017, previousRequestId: no previous request id, message: No authentication needed for /api/orders/history-buyer/3
+2023-06-28 23:13:16.590 +02:00 [INF] requestId: 0HMRO3EQKI2SK:00000017, previousRequestId: no previous request id, message: /api/orders/{id} route does not require user to be authorised
+2023-06-28 23:13:16.590 +02:00 [INF] requestId: 0HMRO3EQKI2SK:00000017, previousRequestId: no previous request id, message: /api/orders/{id} route does not require user to be authorised
+2023-06-28 23:13:16.652 +02:00 [INF] requestId: 0HMRO3EQKI2SK:00000017, previousRequestId: no previous request id, message: 200 (OK) status code, request uri: https://localhost:7108/api/orders/history-buyer/3
+2023-06-28 23:13:16.652 +02:00 [INF] requestId: 0HMRO3EQKI2SK:00000017, previousRequestId: no previous request id, message: 200 (OK) status code, request uri: https://localhost:7108/api/orders/history-buyer/3
+2023-06-28 23:13:16.655 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7068/api/orders/history-buyer/3 application/json - - 200 789242 application/json;+charset=utf-8 65.7998ms
+2023-06-28 23:13:16.655 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7068/api/orders/history-buyer/3 application/json - - 200 789242 application/json;+charset=utf-8 65.7998ms
+2023-06-28 23:15:58.974 +02:00 [INF] Request starting HTTP/2 OPTIONS https://localhost:7068/api/orders/history-buyer/3 - -
+2023-06-28 23:15:58.974 +02:00 [INF] Request starting HTTP/2 OPTIONS https://localhost:7068/api/orders/history-buyer/3 - -
+2023-06-28 23:15:58.974 +02:00 [INF] CORS policy execution successful.
+2023-06-28 23:15:58.975 +02:00 [INF] CORS policy execution successful.
+2023-06-28 23:15:58.979 +02:00 [INF] Request finished HTTP/2 OPTIONS https://localhost:7068/api/orders/history-buyer/3 - - - 204 - - 5.3417ms
+2023-06-28 23:15:58.979 +02:00 [INF] Request finished HTTP/2 OPTIONS https://localhost:7068/api/orders/history-buyer/3 - - - 204 - - 5.3417ms
+2023-06-28 23:15:58.981 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7068/api/orders/history-buyer/3 application/json -
+2023-06-28 23:15:58.981 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7068/api/orders/history-buyer/3 application/json -
+2023-06-28 23:15:58.981 +02:00 [INF] CORS policy execution successful.
+2023-06-28 23:15:58.981 +02:00 [INF] CORS policy execution successful.
+2023-06-28 23:15:58.981 +02:00 [INF] requestId: 0HMRO3EQKI2SK:0000001B, previousRequestId: no previous request id, message: EndpointRateLimiting is not enabled for /api/orders/{id}
+2023-06-28 23:15:58.981 +02:00 [INF] requestId: 0HMRO3EQKI2SK:0000001B, previousRequestId: no previous request id, message: EndpointRateLimiting is not enabled for /api/orders/{id}
+2023-06-28 23:15:58.981 +02:00 [INF] requestId: 0HMRO3EQKI2SK:0000001B, previousRequestId: no previous request id, message: No authentication needed for /api/orders/history-buyer/3
+2023-06-28 23:15:58.981 +02:00 [INF] requestId: 0HMRO3EQKI2SK:0000001B, previousRequestId: no previous request id, message: No authentication needed for /api/orders/history-buyer/3
+2023-06-28 23:15:58.981 +02:00 [INF] requestId: 0HMRO3EQKI2SK:0000001B, previousRequestId: no previous request id, message: /api/orders/{id} route does not require user to be authorised
+2023-06-28 23:15:58.981 +02:00 [INF] requestId: 0HMRO3EQKI2SK:0000001B, previousRequestId: no previous request id, message: /api/orders/{id} route does not require user to be authorised
+2023-06-28 23:15:59.096 +02:00 [INF] requestId: 0HMRO3EQKI2SK:0000001B, previousRequestId: no previous request id, message: 200 (OK) status code, request uri: https://localhost:7108/api/orders/history-buyer/3
+2023-06-28 23:15:59.096 +02:00 [INF] requestId: 0HMRO3EQKI2SK:0000001B, previousRequestId: no previous request id, message: 200 (OK) status code, request uri: https://localhost:7108/api/orders/history-buyer/3
+2023-06-28 23:15:59.106 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7068/api/orders/history-buyer/3 application/json - - 200 789242 application/json;+charset=utf-8 125.1314ms
+2023-06-28 23:15:59.106 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7068/api/orders/history-buyer/3 application/json - - 200 789242 application/json;+charset=utf-8 125.1314ms
+2023-06-28 23:16:17.672 +02:00 [INF] Request starting HTTP/2 OPTIONS https://localhost:7068/api/orders/history-buyer/3 - -
+2023-06-28 23:16:17.672 +02:00 [INF] Request starting HTTP/2 OPTIONS https://localhost:7068/api/orders/history-buyer/3 - -
+2023-06-28 23:16:17.672 +02:00 [INF] CORS policy execution successful.
+2023-06-28 23:16:17.672 +02:00 [INF] CORS policy execution successful.
+2023-06-28 23:16:17.672 +02:00 [INF] Request finished HTTP/2 OPTIONS https://localhost:7068/api/orders/history-buyer/3 - - - 204 - - 0.3947ms
+2023-06-28 23:16:17.672 +02:00 [INF] Request finished HTTP/2 OPTIONS https://localhost:7068/api/orders/history-buyer/3 - - - 204 - - 0.3947ms
+2023-06-28 23:16:17.678 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7068/api/orders/history-buyer/3 application/json -
+2023-06-28 23:16:17.678 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7068/api/orders/history-buyer/3 application/json -
+2023-06-28 23:16:17.678 +02:00 [INF] CORS policy execution successful.
+2023-06-28 23:16:17.678 +02:00 [INF] CORS policy execution successful.
+2023-06-28 23:16:17.678 +02:00 [INF] requestId: 0HMRO3EQKI2SK:0000001F, previousRequestId: no previous request id, message: EndpointRateLimiting is not enabled for /api/orders/{id}
+2023-06-28 23:16:17.678 +02:00 [INF] requestId: 0HMRO3EQKI2SK:0000001F, previousRequestId: no previous request id, message: EndpointRateLimiting is not enabled for /api/orders/{id}
+2023-06-28 23:16:17.678 +02:00 [INF] requestId: 0HMRO3EQKI2SK:0000001F, previousRequestId: no previous request id, message: No authentication needed for /api/orders/history-buyer/3
+2023-06-28 23:16:17.678 +02:00 [INF] requestId: 0HMRO3EQKI2SK:0000001F, previousRequestId: no previous request id, message: No authentication needed for /api/orders/history-buyer/3
+2023-06-28 23:16:17.678 +02:00 [INF] requestId: 0HMRO3EQKI2SK:0000001F, previousRequestId: no previous request id, message: /api/orders/{id} route does not require user to be authorised
+2023-06-28 23:16:17.678 +02:00 [INF] requestId: 0HMRO3EQKI2SK:0000001F, previousRequestId: no previous request id, message: /api/orders/{id} route does not require user to be authorised
+2023-06-28 23:16:17.739 +02:00 [INF] requestId: 0HMRO3EQKI2SK:0000001F, previousRequestId: no previous request id, message: 200 (OK) status code, request uri: https://localhost:7108/api/orders/history-buyer/3
+2023-06-28 23:16:17.739 +02:00 [INF] requestId: 0HMRO3EQKI2SK:0000001F, previousRequestId: no previous request id, message: 200 (OK) status code, request uri: https://localhost:7108/api/orders/history-buyer/3
+2023-06-28 23:16:17.748 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7068/api/orders/history-buyer/3 application/json - - 200 789242 application/json;+charset=utf-8 70.2431ms
+2023-06-28 23:16:17.748 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7068/api/orders/history-buyer/3 application/json - - 200 789242 application/json;+charset=utf-8 70.2431ms
+2023-06-28 23:16:34.233 +02:00 [INF] Request starting HTTP/2 OPTIONS https://localhost:7068/api/orders/history-buyer/3 - -
+2023-06-28 23:16:34.233 +02:00 [INF] Request starting HTTP/2 OPTIONS https://localhost:7068/api/orders/history-buyer/3 - -
+2023-06-28 23:16:34.234 +02:00 [INF] CORS policy execution successful.
+2023-06-28 23:16:34.234 +02:00 [INF] CORS policy execution successful.
+2023-06-28 23:16:34.234 +02:00 [INF] Request finished HTTP/2 OPTIONS https://localhost:7068/api/orders/history-buyer/3 - - - 204 - - 0.5565ms
+2023-06-28 23:16:34.234 +02:00 [INF] Request finished HTTP/2 OPTIONS https://localhost:7068/api/orders/history-buyer/3 - - - 204 - - 0.5565ms
+2023-06-28 23:16:34.239 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7068/api/orders/history-buyer/3 application/json -
+2023-06-28 23:16:34.239 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7068/api/orders/history-buyer/3 application/json -
+2023-06-28 23:16:34.240 +02:00 [INF] CORS policy execution successful.
+2023-06-28 23:16:34.240 +02:00 [INF] CORS policy execution successful.
+2023-06-28 23:16:34.240 +02:00 [INF] requestId: 0HMRO3EQKI2SK:00000023, previousRequestId: no previous request id, message: EndpointRateLimiting is not enabled for /api/orders/{id}
+2023-06-28 23:16:34.240 +02:00 [INF] requestId: 0HMRO3EQKI2SK:00000023, previousRequestId: no previous request id, message: EndpointRateLimiting is not enabled for /api/orders/{id}
+2023-06-28 23:16:34.240 +02:00 [INF] requestId: 0HMRO3EQKI2SK:00000023, previousRequestId: no previous request id, message: No authentication needed for /api/orders/history-buyer/3
+2023-06-28 23:16:34.240 +02:00 [INF] requestId: 0HMRO3EQKI2SK:00000023, previousRequestId: no previous request id, message: No authentication needed for /api/orders/history-buyer/3
+2023-06-28 23:16:34.240 +02:00 [INF] requestId: 0HMRO3EQKI2SK:00000023, previousRequestId: no previous request id, message: /api/orders/{id} route does not require user to be authorised
+2023-06-28 23:16:34.240 +02:00 [INF] requestId: 0HMRO3EQKI2SK:00000023, previousRequestId: no previous request id, message: /api/orders/{id} route does not require user to be authorised
+2023-06-28 23:16:34.305 +02:00 [INF] requestId: 0HMRO3EQKI2SK:00000023, previousRequestId: no previous request id, message: 200 (OK) status code, request uri: https://localhost:7108/api/orders/history-buyer/3
+2023-06-28 23:16:34.305 +02:00 [INF] requestId: 0HMRO3EQKI2SK:00000023, previousRequestId: no previous request id, message: 200 (OK) status code, request uri: https://localhost:7108/api/orders/history-buyer/3
+2023-06-28 23:16:34.310 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7068/api/orders/history-buyer/3 application/json - - 200 789242 application/json;+charset=utf-8 70.8014ms
+2023-06-28 23:16:34.310 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7068/api/orders/history-buyer/3 application/json - - 200 789242 application/json;+charset=utf-8 70.8014ms
+2023-06-28 23:16:56.292 +02:00 [INF] Request starting HTTP/2 OPTIONS https://localhost:7068/api/orders/history-buyer/3 - -
+2023-06-28 23:16:56.292 +02:00 [INF] Request starting HTTP/2 OPTIONS https://localhost:7068/api/orders/history-buyer/3 - -
+2023-06-28 23:16:56.292 +02:00 [INF] CORS policy execution successful.
+2023-06-28 23:16:56.292 +02:00 [INF] CORS policy execution successful.
+2023-06-28 23:16:56.294 +02:00 [INF] Request finished HTTP/2 OPTIONS https://localhost:7068/api/orders/history-buyer/3 - - - 204 - - 1.3169ms
+2023-06-28 23:16:56.296 +02:00 [INF] Request finished HTTP/2 OPTIONS https://localhost:7068/api/orders/history-buyer/3 - - - 204 - - 1.3169ms
+2023-06-28 23:16:56.329 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7068/api/orders/history-buyer/3 application/json -
+2023-06-28 23:16:56.329 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7068/api/orders/history-buyer/3 application/json -
+2023-06-28 23:16:56.329 +02:00 [INF] CORS policy execution successful.
+2023-06-28 23:16:56.329 +02:00 [INF] CORS policy execution successful.
+2023-06-28 23:16:56.329 +02:00 [INF] requestId: 0HMRO3EQKI2SK:00000027, previousRequestId: no previous request id, message: EndpointRateLimiting is not enabled for /api/orders/{id}
+2023-06-28 23:16:56.329 +02:00 [INF] requestId: 0HMRO3EQKI2SK:00000027, previousRequestId: no previous request id, message: EndpointRateLimiting is not enabled for /api/orders/{id}
+2023-06-28 23:16:56.330 +02:00 [INF] requestId: 0HMRO3EQKI2SK:00000027, previousRequestId: no previous request id, message: No authentication needed for /api/orders/history-buyer/3
+2023-06-28 23:16:56.330 +02:00 [INF] requestId: 0HMRO3EQKI2SK:00000027, previousRequestId: no previous request id, message: No authentication needed for /api/orders/history-buyer/3
+2023-06-28 23:16:56.330 +02:00 [INF] requestId: 0HMRO3EQKI2SK:00000027, previousRequestId: no previous request id, message: /api/orders/{id} route does not require user to be authorised
+2023-06-28 23:16:56.330 +02:00 [INF] requestId: 0HMRO3EQKI2SK:00000027, previousRequestId: no previous request id, message: /api/orders/{id} route does not require user to be authorised
+2023-06-28 23:16:56.412 +02:00 [INF] requestId: 0HMRO3EQKI2SK:00000027, previousRequestId: no previous request id, message: 200 (OK) status code, request uri: https://localhost:7108/api/orders/history-buyer/3
+2023-06-28 23:16:56.412 +02:00 [INF] requestId: 0HMRO3EQKI2SK:00000027, previousRequestId: no previous request id, message: 200 (OK) status code, request uri: https://localhost:7108/api/orders/history-buyer/3
+2023-06-28 23:16:56.424 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7068/api/orders/history-buyer/3 application/json - - 200 789242 application/json;+charset=utf-8 95.0349ms
+2023-06-28 23:16:56.424 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7068/api/orders/history-buyer/3 application/json - - 200 789242 application/json;+charset=utf-8 95.0349ms
+2023-06-28 23:17:04.798 +02:00 [INF] Request starting HTTP/2 OPTIONS https://localhost:7068/api/orders/history-buyer/3 - -
+2023-06-28 23:17:04.798 +02:00 [INF] Request starting HTTP/2 OPTIONS https://localhost:7068/api/orders/history-buyer/3 - -
+2023-06-28 23:17:04.798 +02:00 [INF] CORS policy execution successful.
+2023-06-28 23:17:04.798 +02:00 [INF] CORS policy execution successful.
+2023-06-28 23:17:04.798 +02:00 [INF] Request finished HTTP/2 OPTIONS https://localhost:7068/api/orders/history-buyer/3 - - - 204 - - 0.2453ms
+2023-06-28 23:17:04.798 +02:00 [INF] Request finished HTTP/2 OPTIONS https://localhost:7068/api/orders/history-buyer/3 - - - 204 - - 0.2453ms
+2023-06-28 23:17:04.800 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7068/api/orders/history-buyer/3 application/json -
+2023-06-28 23:17:04.800 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7068/api/orders/history-buyer/3 application/json -
+2023-06-28 23:17:04.800 +02:00 [INF] CORS policy execution successful.
+2023-06-28 23:17:04.800 +02:00 [INF] CORS policy execution successful.
+2023-06-28 23:17:04.800 +02:00 [INF] requestId: 0HMRO3EQKI2SK:0000002B, previousRequestId: no previous request id, message: EndpointRateLimiting is not enabled for /api/orders/{id}
+2023-06-28 23:17:04.800 +02:00 [INF] requestId: 0HMRO3EQKI2SK:0000002B, previousRequestId: no previous request id, message: EndpointRateLimiting is not enabled for /api/orders/{id}
+2023-06-28 23:17:04.800 +02:00 [INF] requestId: 0HMRO3EQKI2SK:0000002B, previousRequestId: no previous request id, message: No authentication needed for /api/orders/history-buyer/3
+2023-06-28 23:17:04.800 +02:00 [INF] requestId: 0HMRO3EQKI2SK:0000002B, previousRequestId: no previous request id, message: No authentication needed for /api/orders/history-buyer/3
+2023-06-28 23:17:04.800 +02:00 [INF] requestId: 0HMRO3EQKI2SK:0000002B, previousRequestId: no previous request id, message: /api/orders/{id} route does not require user to be authorised
+2023-06-28 23:17:04.800 +02:00 [INF] requestId: 0HMRO3EQKI2SK:0000002B, previousRequestId: no previous request id, message: /api/orders/{id} route does not require user to be authorised
+2023-06-28 23:17:04.872 +02:00 [INF] requestId: 0HMRO3EQKI2SK:0000002B, previousRequestId: no previous request id, message: 200 (OK) status code, request uri: https://localhost:7108/api/orders/history-buyer/3
+2023-06-28 23:17:04.872 +02:00 [INF] requestId: 0HMRO3EQKI2SK:0000002B, previousRequestId: no previous request id, message: 200 (OK) status code, request uri: https://localhost:7108/api/orders/history-buyer/3
+2023-06-28 23:17:04.877 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7068/api/orders/history-buyer/3 application/json - - 200 789242 application/json;+charset=utf-8 77.3049ms
+2023-06-28 23:17:04.877 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7068/api/orders/history-buyer/3 application/json - - 200 789242 application/json;+charset=utf-8 77.3049ms
+2023-06-28 23:17:22.163 +02:00 [INF] Request starting HTTP/2 OPTIONS https://localhost:7068/api/products/all - -
+2023-06-28 23:17:22.163 +02:00 [INF] Request starting HTTP/2 OPTIONS https://localhost:7068/api/products/all - -
+2023-06-28 23:17:22.163 +02:00 [INF] CORS policy execution successful.
+2023-06-28 23:17:22.163 +02:00 [INF] CORS policy execution successful.
+2023-06-28 23:17:22.163 +02:00 [INF] Request finished HTTP/2 OPTIONS https://localhost:7068/api/products/all - - - 204 - - 0.4131ms
+2023-06-28 23:17:22.163 +02:00 [INF] Request finished HTTP/2 OPTIONS https://localhost:7068/api/products/all - - - 204 - - 0.4131ms
+2023-06-28 23:17:22.169 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7068/api/products/all application/json -
+2023-06-28 23:17:22.169 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7068/api/products/all application/json -
+2023-06-28 23:17:22.169 +02:00 [INF] CORS policy execution successful.
+2023-06-28 23:17:22.169 +02:00 [INF] CORS policy execution successful.
+2023-06-28 23:17:22.170 +02:00 [INF] requestId: 0HMRO3EQKI2SK:0000002F, previousRequestId: no previous request id, message: EndpointRateLimiting is not enabled for /api/products/all
+2023-06-28 23:17:22.170 +02:00 [INF] requestId: 0HMRO3EQKI2SK:0000002F, previousRequestId: no previous request id, message: EndpointRateLimiting is not enabled for /api/products/all
+2023-06-28 23:17:22.170 +02:00 [INF] requestId: 0HMRO3EQKI2SK:0000002F, previousRequestId: no previous request id, message: No authentication needed for /api/products/all
+2023-06-28 23:17:22.170 +02:00 [INF] requestId: 0HMRO3EQKI2SK:0000002F, previousRequestId: no previous request id, message: No authentication needed for /api/products/all
+2023-06-28 23:17:22.170 +02:00 [INF] requestId: 0HMRO3EQKI2SK:0000002F, previousRequestId: no previous request id, message: /api/products/all route does not require user to be authorised
+2023-06-28 23:17:22.170 +02:00 [INF] requestId: 0HMRO3EQKI2SK:0000002F, previousRequestId: no previous request id, message: /api/products/all route does not require user to be authorised
+2023-06-28 23:17:22.219 +02:00 [INF] requestId: 0HMRO3EQKI2SK:0000002F, previousRequestId: no previous request id, message: 200 (OK) status code, request uri: https://localhost:7108/api/products/all
+2023-06-28 23:17:22.219 +02:00 [INF] requestId: 0HMRO3EQKI2SK:0000002F, previousRequestId: no previous request id, message: 200 (OK) status code, request uri: https://localhost:7108/api/products/all
+2023-06-28 23:17:22.222 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7068/api/products/all application/json - - 200 174491 application/json;+charset=utf-8 52.6378ms
+2023-06-28 23:17:22.222 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7068/api/products/all application/json - - 200 174491 application/json;+charset=utf-8 52.6378ms
+2023-06-28 23:17:23.648 +02:00 [INF] Request starting HTTP/2 OPTIONS https://localhost:7068/api/users/3 - -
+2023-06-28 23:17:23.648 +02:00 [INF] Request starting HTTP/2 OPTIONS https://localhost:7068/api/users/3 - -
+2023-06-28 23:17:23.648 +02:00 [INF] CORS policy execution successful.
+2023-06-28 23:17:23.648 +02:00 [INF] CORS policy execution successful.
+2023-06-28 23:17:23.648 +02:00 [INF] Request finished HTTP/2 OPTIONS https://localhost:7068/api/users/3 - - - 204 - - 0.3314ms
+2023-06-28 23:17:23.648 +02:00 [INF] Request finished HTTP/2 OPTIONS https://localhost:7068/api/users/3 - - - 204 - - 0.3314ms
+2023-06-28 23:17:23.655 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7068/api/users/3 application/json -
+2023-06-28 23:17:23.655 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7068/api/users/3 application/json -
+2023-06-28 23:17:23.655 +02:00 [INF] CORS policy execution successful.
+2023-06-28 23:17:23.655 +02:00 [INF] CORS policy execution successful.
+2023-06-28 23:17:23.655 +02:00 [INF] requestId: 0HMRO3EQKI2SK:00000033, previousRequestId: no previous request id, message: EndpointRateLimiting is not enabled for /api/users/{id}
+2023-06-28 23:17:23.655 +02:00 [INF] requestId: 0HMRO3EQKI2SK:00000033, previousRequestId: no previous request id, message: EndpointRateLimiting is not enabled for /api/users/{id}
+2023-06-28 23:17:23.655 +02:00 [INF] requestId: 0HMRO3EQKI2SK:00000033, previousRequestId: no previous request id, message: No authentication needed for /api/users/3
+2023-06-28 23:17:23.655 +02:00 [INF] requestId: 0HMRO3EQKI2SK:00000033, previousRequestId: no previous request id, message: No authentication needed for /api/users/3
+2023-06-28 23:17:23.655 +02:00 [INF] requestId: 0HMRO3EQKI2SK:00000033, previousRequestId: no previous request id, message: /api/users/{id} route does not require user to be authorised
+2023-06-28 23:17:23.655 +02:00 [INF] requestId: 0HMRO3EQKI2SK:00000033, previousRequestId: no previous request id, message: /api/users/{id} route does not require user to be authorised
+2023-06-28 23:17:23.859 +02:00 [INF] requestId: 0HMRO3EQKI2SK:00000033, previousRequestId: no previous request id, message: 200 (OK) status code, request uri: https://localhost:7066/api/users/3
+2023-06-28 23:17:23.859 +02:00 [INF] requestId: 0HMRO3EQKI2SK:00000033, previousRequestId: no previous request id, message: 200 (OK) status code, request uri: https://localhost:7066/api/users/3
+2023-06-28 23:17:23.861 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7068/api/users/3 application/json - - 200 83358 application/json;+charset=utf-8 206.4349ms
+2023-06-28 23:17:23.861 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7068/api/users/3 application/json - - 200 83358 application/json;+charset=utf-8 206.4349ms
+2023-06-28 23:17:27.722 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7068/api/users/3 application/json -
+2023-06-28 23:17:27.722 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7068/api/users/3 application/json -
+2023-06-28 23:17:27.722 +02:00 [INF] CORS policy execution successful.
+2023-06-28 23:17:27.722 +02:00 [INF] CORS policy execution successful.
+2023-06-28 23:17:27.722 +02:00 [INF] requestId: 0HMRO3EQKI2SK:00000035, previousRequestId: no previous request id, message: EndpointRateLimiting is not enabled for /api/users/{id}
+2023-06-28 23:17:27.722 +02:00 [INF] requestId: 0HMRO3EQKI2SK:00000035, previousRequestId: no previous request id, message: EndpointRateLimiting is not enabled for /api/users/{id}
+2023-06-28 23:17:27.722 +02:00 [INF] requestId: 0HMRO3EQKI2SK:00000035, previousRequestId: no previous request id, message: No authentication needed for /api/users/3
+2023-06-28 23:17:27.722 +02:00 [INF] requestId: 0HMRO3EQKI2SK:00000035, previousRequestId: no previous request id, message: No authentication needed for /api/users/3
+2023-06-28 23:17:27.722 +02:00 [INF] requestId: 0HMRO3EQKI2SK:00000035, previousRequestId: no previous request id, message: /api/users/{id} route does not require user to be authorised
+2023-06-28 23:17:27.722 +02:00 [INF] requestId: 0HMRO3EQKI2SK:00000035, previousRequestId: no previous request id, message: /api/users/{id} route does not require user to be authorised
+2023-06-28 23:17:27.783 +02:00 [INF] requestId: 0HMRO3EQKI2SK:00000035, previousRequestId: no previous request id, message: 200 (OK) status code, request uri: https://localhost:7066/api/users/3
+2023-06-28 23:17:27.783 +02:00 [INF] requestId: 0HMRO3EQKI2SK:00000035, previousRequestId: no previous request id, message: 200 (OK) status code, request uri: https://localhost:7066/api/users/3
+2023-06-28 23:17:27.785 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7068/api/users/3 application/json - - 200 83358 application/json;+charset=utf-8 63.0128ms
+2023-06-28 23:17:27.785 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7068/api/users/3 application/json - - 200 83358 application/json;+charset=utf-8 63.0128ms
+2023-06-28 23:17:36.934 +02:00 [INF] Request starting HTTP/2 OPTIONS https://localhost:7068/api/users/edit/3 - -
+2023-06-28 23:17:36.935 +02:00 [INF] Request starting HTTP/2 OPTIONS https://localhost:7068/api/users/edit/3 - -
+2023-06-28 23:17:36.935 +02:00 [INF] CORS policy execution successful.
+2023-06-28 23:17:36.935 +02:00 [INF] CORS policy execution successful.
+2023-06-28 23:17:36.935 +02:00 [INF] Request finished HTTP/2 OPTIONS https://localhost:7068/api/users/edit/3 - - - 204 - - 0.2397ms
+2023-06-28 23:17:36.935 +02:00 [INF] Request finished HTTP/2 OPTIONS https://localhost:7068/api/users/edit/3 - - - 204 - - 0.2397ms
+2023-06-28 23:17:36.938 +02:00 [INF] Request starting HTTP/2 PATCH https://localhost:7068/api/users/edit/3 application/json 83262
+2023-06-28 23:17:36.938 +02:00 [INF] Request starting HTTP/2 PATCH https://localhost:7068/api/users/edit/3 application/json 83262
+2023-06-28 23:17:36.939 +02:00 [INF] CORS policy execution successful.
+2023-06-28 23:17:36.939 +02:00 [INF] CORS policy execution successful.
+2023-06-28 23:17:36.945 +02:00 [INF] requestId: 0HMRO3EQKI2SK:00000039, previousRequestId: no previous request id, message: EndpointRateLimiting is not enabled for /api/users/edit/{id}
+2023-06-28 23:17:36.945 +02:00 [INF] requestId: 0HMRO3EQKI2SK:00000039, previousRequestId: no previous request id, message: EndpointRateLimiting is not enabled for /api/users/edit/{id}
+2023-06-28 23:17:36.945 +02:00 [INF] requestId: 0HMRO3EQKI2SK:00000039, previousRequestId: no previous request id, message: No authentication needed for /api/users/edit/3
+2023-06-28 23:17:36.945 +02:00 [INF] requestId: 0HMRO3EQKI2SK:00000039, previousRequestId: no previous request id, message: No authentication needed for /api/users/edit/3
+2023-06-28 23:17:36.945 +02:00 [INF] requestId: 0HMRO3EQKI2SK:00000039, previousRequestId: no previous request id, message: /api/users/edit/{id} route does not require user to be authorised
+2023-06-28 23:17:36.945 +02:00 [INF] requestId: 0HMRO3EQKI2SK:00000039, previousRequestId: no previous request id, message: /api/users/edit/{id} route does not require user to be authorised
+2023-06-28 23:17:37.164 +02:00 [INF] requestId: 0HMRO3EQKI2SK:00000039, previousRequestId: no previous request id, message: 200 (OK) status code, request uri: https://localhost:7066/api/users/edit/3
+2023-06-28 23:17:37.164 +02:00 [INF] requestId: 0HMRO3EQKI2SK:00000039, previousRequestId: no previous request id, message: 200 (OK) status code, request uri: https://localhost:7066/api/users/edit/3
+2023-06-28 23:17:37.165 +02:00 [INF] Request finished HTTP/2 PATCH https://localhost:7068/api/users/edit/3 application/json 83262 - 200 33 application/json;+charset=utf-8 226.4244ms
+2023-06-28 23:17:37.165 +02:00 [INF] Request finished HTTP/2 PATCH https://localhost:7068/api/users/edit/3 application/json 83262 - 200 33 application/json;+charset=utf-8 226.4244ms
+2023-06-28 23:17:37.412 +02:00 [INF] Request starting HTTP/2 OPTIONS https://localhost:7068/api/users/3 - -
+2023-06-28 23:17:37.413 +02:00 [INF] Request starting HTTP/2 OPTIONS https://localhost:7068/api/users/3 - -
+2023-06-28 23:17:37.413 +02:00 [INF] CORS policy execution successful.
+2023-06-28 23:17:37.413 +02:00 [INF] CORS policy execution successful.
+2023-06-28 23:17:37.413 +02:00 [INF] Request finished HTTP/2 OPTIONS https://localhost:7068/api/users/3 - - - 204 - - 0.5315ms
+2023-06-28 23:17:37.413 +02:00 [INF] Request finished HTTP/2 OPTIONS https://localhost:7068/api/users/3 - - - 204 - - 0.5315ms
+2023-06-28 23:17:37.414 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7068/api/users/3 application/json -
+2023-06-28 23:17:37.415 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7068/api/users/3 application/json -
+2023-06-28 23:17:37.415 +02:00 [INF] CORS policy execution successful.
+2023-06-28 23:17:37.415 +02:00 [INF] CORS policy execution successful.
+2023-06-28 23:17:37.415 +02:00 [INF] requestId: 0HMRO3EQKI2SK:0000003D, previousRequestId: no previous request id, message: EndpointRateLimiting is not enabled for /api/users/{id}
+2023-06-28 23:17:37.415 +02:00 [INF] requestId: 0HMRO3EQKI2SK:0000003D, previousRequestId: no previous request id, message: EndpointRateLimiting is not enabled for /api/users/{id}
+2023-06-28 23:17:37.415 +02:00 [INF] requestId: 0HMRO3EQKI2SK:0000003D, previousRequestId: no previous request id, message: No authentication needed for /api/users/3
+2023-06-28 23:17:37.415 +02:00 [INF] requestId: 0HMRO3EQKI2SK:0000003D, previousRequestId: no previous request id, message: No authentication needed for /api/users/3
+2023-06-28 23:17:37.415 +02:00 [INF] requestId: 0HMRO3EQKI2SK:0000003D, previousRequestId: no previous request id, message: /api/users/{id} route does not require user to be authorised
+2023-06-28 23:17:37.415 +02:00 [INF] requestId: 0HMRO3EQKI2SK:0000003D, previousRequestId: no previous request id, message: /api/users/{id} route does not require user to be authorised
+2023-06-28 23:17:37.432 +02:00 [INF] requestId: 0HMRO3EQKI2SK:0000003D, previousRequestId: no previous request id, message: 200 (OK) status code, request uri: https://localhost:7066/api/users/3
+2023-06-28 23:17:37.432 +02:00 [INF] requestId: 0HMRO3EQKI2SK:0000003D, previousRequestId: no previous request id, message: 200 (OK) status code, request uri: https://localhost:7066/api/users/3
+2023-06-28 23:17:37.435 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7068/api/users/3 application/json - - 200 83362 application/json;+charset=utf-8 21.0427ms
+2023-06-28 23:17:37.435 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7068/api/users/3 application/json - - 200 83362 application/json;+charset=utf-8 21.0427ms
+2023-06-28 23:17:41.102 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7068/api/users/3 application/json -
+2023-06-28 23:17:41.102 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7068/api/users/3 application/json -
+2023-06-28 23:17:41.102 +02:00 [INF] CORS policy execution successful.
+2023-06-28 23:17:41.102 +02:00 [INF] CORS policy execution successful.
+2023-06-28 23:17:41.102 +02:00 [INF] requestId: 0HMRO3EQKI2SK:0000003F, previousRequestId: no previous request id, message: EndpointRateLimiting is not enabled for /api/users/{id}
+2023-06-28 23:17:41.102 +02:00 [INF] requestId: 0HMRO3EQKI2SK:0000003F, previousRequestId: no previous request id, message: EndpointRateLimiting is not enabled for /api/users/{id}
+2023-06-28 23:17:41.102 +02:00 [INF] requestId: 0HMRO3EQKI2SK:0000003F, previousRequestId: no previous request id, message: No authentication needed for /api/users/3
+2023-06-28 23:17:41.102 +02:00 [INF] requestId: 0HMRO3EQKI2SK:0000003F, previousRequestId: no previous request id, message: No authentication needed for /api/users/3
+2023-06-28 23:17:41.102 +02:00 [INF] requestId: 0HMRO3EQKI2SK:0000003F, previousRequestId: no previous request id, message: /api/users/{id} route does not require user to be authorised
+2023-06-28 23:17:41.102 +02:00 [INF] requestId: 0HMRO3EQKI2SK:0000003F, previousRequestId: no previous request id, message: /api/users/{id} route does not require user to be authorised
+2023-06-28 23:17:41.116 +02:00 [INF] requestId: 0HMRO3EQKI2SK:0000003F, previousRequestId: no previous request id, message: 200 (OK) status code, request uri: https://localhost:7066/api/users/3
+2023-06-28 23:17:41.116 +02:00 [INF] requestId: 0HMRO3EQKI2SK:0000003F, previousRequestId: no previous request id, message: 200 (OK) status code, request uri: https://localhost:7066/api/users/3
+2023-06-28 23:17:41.118 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7068/api/users/3 application/json - - 200 83362 application/json;+charset=utf-8 16.6576ms
+2023-06-28 23:17:41.118 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7068/api/users/3 application/json - - 200 83362 application/json;+charset=utf-8 16.6576ms
+2023-06-28 23:17:46.789 +02:00 [INF] Request starting HTTP/2 OPTIONS https://localhost:7068/api/products/all - -
+2023-06-28 23:17:46.790 +02:00 [INF] Request starting HTTP/2 OPTIONS https://localhost:7068/api/products/all - -
+2023-06-28 23:17:46.790 +02:00 [INF] CORS policy execution successful.
+2023-06-28 23:17:46.790 +02:00 [INF] CORS policy execution successful.
+2023-06-28 23:17:46.790 +02:00 [INF] Request finished HTTP/2 OPTIONS https://localhost:7068/api/products/all - - - 204 - - 0.2845ms
+2023-06-28 23:17:46.790 +02:00 [INF] Request finished HTTP/2 OPTIONS https://localhost:7068/api/products/all - - - 204 - - 0.2845ms
+2023-06-28 23:17:46.791 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7068/api/products/all application/json -
+2023-06-28 23:17:46.792 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7068/api/products/all application/json -
+2023-06-28 23:17:46.792 +02:00 [INF] CORS policy execution successful.
+2023-06-28 23:17:46.792 +02:00 [INF] CORS policy execution successful.
+2023-06-28 23:17:46.792 +02:00 [INF] requestId: 0HMRO3EQKI2SK:00000043, previousRequestId: no previous request id, message: EndpointRateLimiting is not enabled for /api/products/all
+2023-06-28 23:17:46.792 +02:00 [INF] requestId: 0HMRO3EQKI2SK:00000043, previousRequestId: no previous request id, message: EndpointRateLimiting is not enabled for /api/products/all
+2023-06-28 23:17:46.792 +02:00 [INF] requestId: 0HMRO3EQKI2SK:00000043, previousRequestId: no previous request id, message: No authentication needed for /api/products/all
+2023-06-28 23:17:46.792 +02:00 [INF] requestId: 0HMRO3EQKI2SK:00000043, previousRequestId: no previous request id, message: No authentication needed for /api/products/all
+2023-06-28 23:17:46.792 +02:00 [INF] requestId: 0HMRO3EQKI2SK:00000043, previousRequestId: no previous request id, message: /api/products/all route does not require user to be authorised
+2023-06-28 23:17:46.792 +02:00 [INF] requestId: 0HMRO3EQKI2SK:00000043, previousRequestId: no previous request id, message: /api/products/all route does not require user to be authorised
+2023-06-28 23:17:46.806 +02:00 [INF] requestId: 0HMRO3EQKI2SK:00000043, previousRequestId: no previous request id, message: 200 (OK) status code, request uri: https://localhost:7108/api/products/all
+2023-06-28 23:17:46.806 +02:00 [INF] requestId: 0HMRO3EQKI2SK:00000043, previousRequestId: no previous request id, message: 200 (OK) status code, request uri: https://localhost:7108/api/products/all
+2023-06-28 23:17:46.809 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7068/api/products/all application/json - - 200 174491 application/json;+charset=utf-8 17.4384ms
+2023-06-28 23:17:46.809 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7068/api/products/all application/json - - 200 174491 application/json;+charset=utf-8 17.4384ms
+2023-06-28 23:17:48.642 +02:00 [INF] Request starting HTTP/2 OPTIONS https://localhost:7068/api/orders/history-buyer/3 - -
+2023-06-28 23:17:48.642 +02:00 [INF] Request starting HTTP/2 OPTIONS https://localhost:7068/api/orders/history-buyer/3 - -
+2023-06-28 23:17:48.642 +02:00 [INF] CORS policy execution successful.
+2023-06-28 23:17:48.642 +02:00 [INF] CORS policy execution successful.
+2023-06-28 23:17:48.642 +02:00 [INF] Request finished HTTP/2 OPTIONS https://localhost:7068/api/orders/history-buyer/3 - - - 204 - - 0.4012ms
+2023-06-28 23:17:48.642 +02:00 [INF] Request finished HTTP/2 OPTIONS https://localhost:7068/api/orders/history-buyer/3 - - - 204 - - 0.4012ms
+2023-06-28 23:17:48.644 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7068/api/orders/history-buyer/3 application/json -
+2023-06-28 23:17:48.644 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7068/api/orders/history-buyer/3 application/json -
+2023-06-28 23:17:48.644 +02:00 [INF] CORS policy execution successful.
+2023-06-28 23:17:48.644 +02:00 [INF] CORS policy execution successful.
+2023-06-28 23:17:48.644 +02:00 [INF] requestId: 0HMRO3EQKI2SK:00000047, previousRequestId: no previous request id, message: EndpointRateLimiting is not enabled for /api/orders/{id}
+2023-06-28 23:17:48.644 +02:00 [INF] requestId: 0HMRO3EQKI2SK:00000047, previousRequestId: no previous request id, message: EndpointRateLimiting is not enabled for /api/orders/{id}
+2023-06-28 23:17:48.644 +02:00 [INF] requestId: 0HMRO3EQKI2SK:00000047, previousRequestId: no previous request id, message: No authentication needed for /api/orders/history-buyer/3
+2023-06-28 23:17:48.644 +02:00 [INF] requestId: 0HMRO3EQKI2SK:00000047, previousRequestId: no previous request id, message: No authentication needed for /api/orders/history-buyer/3
+2023-06-28 23:17:48.644 +02:00 [INF] requestId: 0HMRO3EQKI2SK:00000047, previousRequestId: no previous request id, message: /api/orders/{id} route does not require user to be authorised
+2023-06-28 23:17:48.644 +02:00 [INF] requestId: 0HMRO3EQKI2SK:00000047, previousRequestId: no previous request id, message: /api/orders/{id} route does not require user to be authorised
+2023-06-28 23:17:48.699 +02:00 [INF] requestId: 0HMRO3EQKI2SK:00000047, previousRequestId: no previous request id, message: 200 (OK) status code, request uri: https://localhost:7108/api/orders/history-buyer/3
+2023-06-28 23:17:48.699 +02:00 [INF] requestId: 0HMRO3EQKI2SK:00000047, previousRequestId: no previous request id, message: 200 (OK) status code, request uri: https://localhost:7108/api/orders/history-buyer/3
+2023-06-28 23:17:48.703 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7068/api/orders/history-buyer/3 application/json - - 200 789242 application/json;+charset=utf-8 59.6070ms
+2023-06-28 23:17:48.703 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7068/api/orders/history-buyer/3 application/json - - 200 789242 application/json;+charset=utf-8 59.6070ms
+2023-06-28 23:17:59.819 +02:00 [INF] Request starting HTTP/2 OPTIONS https://localhost:7068/api/users/login - -
+2023-06-28 23:17:59.819 +02:00 [INF] Request starting HTTP/2 OPTIONS https://localhost:7068/api/users/login - -
+2023-06-28 23:17:59.819 +02:00 [INF] CORS policy execution successful.
+2023-06-28 23:17:59.819 +02:00 [INF] CORS policy execution successful.
+2023-06-28 23:17:59.819 +02:00 [INF] Request finished HTTP/2 OPTIONS https://localhost:7068/api/users/login - - - 204 - - 0.5693ms
+2023-06-28 23:17:59.819 +02:00 [INF] Request finished HTTP/2 OPTIONS https://localhost:7068/api/users/login - - - 204 - - 0.5693ms
+2023-06-28 23:17:59.821 +02:00 [INF] Request starting HTTP/2 POST https://localhost:7068/api/users/login application/json 75
+2023-06-28 23:17:59.821 +02:00 [INF] Request starting HTTP/2 POST https://localhost:7068/api/users/login application/json 75
+2023-06-28 23:17:59.821 +02:00 [INF] CORS policy execution successful.
+2023-06-28 23:17:59.821 +02:00 [INF] CORS policy execution successful.
+2023-06-28 23:17:59.821 +02:00 [INF] requestId: 0HMRO3EQKI2SK:0000004B, previousRequestId: no previous request id, message: EndpointRateLimiting is not enabled for /api/users/login
+2023-06-28 23:17:59.821 +02:00 [INF] requestId: 0HMRO3EQKI2SK:0000004B, previousRequestId: no previous request id, message: EndpointRateLimiting is not enabled for /api/users/login
+2023-06-28 23:17:59.821 +02:00 [INF] requestId: 0HMRO3EQKI2SK:0000004B, previousRequestId: no previous request id, message: No authentication needed for /api/users/login
+2023-06-28 23:17:59.821 +02:00 [INF] requestId: 0HMRO3EQKI2SK:0000004B, previousRequestId: no previous request id, message: No authentication needed for /api/users/login
+2023-06-28 23:17:59.821 +02:00 [INF] requestId: 0HMRO3EQKI2SK:0000004B, previousRequestId: no previous request id, message: /api/users/login route does not require user to be authorised
+2023-06-28 23:17:59.821 +02:00 [INF] requestId: 0HMRO3EQKI2SK:0000004B, previousRequestId: no previous request id, message: /api/users/login route does not require user to be authorised
+2023-06-28 23:18:00.022 +02:00 [INF] requestId: 0HMRO3EQKI2SK:0000004B, previousRequestId: no previous request id, message: 200 (OK) status code, request uri: https://localhost:7066/api/users/login
+2023-06-28 23:18:00.022 +02:00 [INF] requestId: 0HMRO3EQKI2SK:0000004B, previousRequestId: no previous request id, message: 200 (OK) status code, request uri: https://localhost:7066/api/users/login
+2023-06-28 23:18:00.023 +02:00 [INF] Request finished HTTP/2 POST https://localhost:7068/api/users/login application/json 75 - 200 352 application/json;+charset=utf-8 202.2112ms
+2023-06-28 23:18:00.023 +02:00 [INF] Request finished HTTP/2 POST https://localhost:7068/api/users/login application/json 75 - 200 352 application/json;+charset=utf-8 202.2112ms
+2023-06-28 23:18:01.495 +02:00 [INF] Request starting HTTP/2 OPTIONS https://localhost:7068/api/orders/history-seller/3 - -
+2023-06-28 23:18:01.495 +02:00 [INF] Request starting HTTP/2 OPTIONS https://localhost:7068/api/orders/history-seller/3 - -
+2023-06-28 23:18:01.495 +02:00 [INF] CORS policy execution successful.
+2023-06-28 23:18:01.495 +02:00 [INF] CORS policy execution successful.
+2023-06-28 23:18:01.495 +02:00 [INF] Request finished HTTP/2 OPTIONS https://localhost:7068/api/orders/history-seller/3 - - - 204 - - 0.4805ms
+2023-06-28 23:18:01.495 +02:00 [INF] Request finished HTTP/2 OPTIONS https://localhost:7068/api/orders/history-seller/3 - - - 204 - - 0.4805ms
+2023-06-28 23:18:01.497 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7068/api/orders/history-seller/3 application/json -
+2023-06-28 23:18:01.497 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7068/api/orders/history-seller/3 application/json -
+2023-06-28 23:18:01.498 +02:00 [INF] CORS policy execution successful.
+2023-06-28 23:18:01.498 +02:00 [INF] CORS policy execution successful.
+2023-06-28 23:18:01.498 +02:00 [INF] requestId: 0HMRO3EQKI2SK:0000004F, previousRequestId: no previous request id, message: EndpointRateLimiting is not enabled for /api/orders/{id}
+2023-06-28 23:18:01.498 +02:00 [INF] requestId: 0HMRO3EQKI2SK:0000004F, previousRequestId: no previous request id, message: EndpointRateLimiting is not enabled for /api/orders/{id}
+2023-06-28 23:18:01.498 +02:00 [INF] requestId: 0HMRO3EQKI2SK:0000004F, previousRequestId: no previous request id, message: No authentication needed for /api/orders/history-seller/3
+2023-06-28 23:18:01.498 +02:00 [INF] requestId: 0HMRO3EQKI2SK:0000004F, previousRequestId: no previous request id, message: No authentication needed for /api/orders/history-seller/3
+2023-06-28 23:18:01.498 +02:00 [INF] requestId: 0HMRO3EQKI2SK:0000004F, previousRequestId: no previous request id, message: /api/orders/{id} route does not require user to be authorised
+2023-06-28 23:18:01.498 +02:00 [INF] requestId: 0HMRO3EQKI2SK:0000004F, previousRequestId: no previous request id, message: /api/orders/{id} route does not require user to be authorised
+2023-06-28 23:18:01.527 +02:00 [INF] requestId: 0HMRO3EQKI2SK:0000004F, previousRequestId: no previous request id, message: 200 (OK) status code, request uri: https://localhost:7108/api/orders/history-seller/3
+2023-06-28 23:18:01.527 +02:00 [INF] requestId: 0HMRO3EQKI2SK:0000004F, previousRequestId: no previous request id, message: 200 (OK) status code, request uri: https://localhost:7108/api/orders/history-seller/3
+2023-06-28 23:18:01.528 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7068/api/orders/history-seller/3 application/json - - 200 2 application/json;+charset=utf-8 30.7493ms
+2023-06-28 23:18:01.528 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7068/api/orders/history-seller/3 application/json - - 200 2 application/json;+charset=utf-8 30.7493ms
+2023-06-28 23:18:03.689 +02:00 [INF] Request starting HTTP/2 OPTIONS https://localhost:7068/api/orders/history-buyer/3 - -
+2023-06-28 23:18:03.689 +02:00 [INF] Request starting HTTP/2 OPTIONS https://localhost:7068/api/orders/history-buyer/3 - -
+2023-06-28 23:18:03.689 +02:00 [INF] CORS policy execution successful.
+2023-06-28 23:18:03.689 +02:00 [INF] CORS policy execution successful.
+2023-06-28 23:18:03.689 +02:00 [INF] Request finished HTTP/2 OPTIONS https://localhost:7068/api/orders/history-buyer/3 - - - 204 - - 0.5210ms
+2023-06-28 23:18:03.689 +02:00 [INF] Request finished HTTP/2 OPTIONS https://localhost:7068/api/orders/history-buyer/3 - - - 204 - - 0.5210ms
+2023-06-28 23:18:03.692 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7068/api/orders/history-buyer/3 application/json -
+2023-06-28 23:18:03.692 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7068/api/orders/history-buyer/3 application/json -
+2023-06-28 23:18:03.692 +02:00 [INF] CORS policy execution successful.
+2023-06-28 23:18:03.692 +02:00 [INF] CORS policy execution successful.
+2023-06-28 23:18:03.692 +02:00 [INF] requestId: 0HMRO3EQKI2SK:00000053, previousRequestId: no previous request id, message: EndpointRateLimiting is not enabled for /api/orders/{id}
+2023-06-28 23:18:03.692 +02:00 [INF] requestId: 0HMRO3EQKI2SK:00000053, previousRequestId: no previous request id, message: EndpointRateLimiting is not enabled for /api/orders/{id}
+2023-06-28 23:18:03.692 +02:00 [INF] requestId: 0HMRO3EQKI2SK:00000053, previousRequestId: no previous request id, message: No authentication needed for /api/orders/history-buyer/3
+2023-06-28 23:18:03.692 +02:00 [INF] requestId: 0HMRO3EQKI2SK:00000053, previousRequestId: no previous request id, message: No authentication needed for /api/orders/history-buyer/3
+2023-06-28 23:18:03.692 +02:00 [INF] requestId: 0HMRO3EQKI2SK:00000053, previousRequestId: no previous request id, message: /api/orders/{id} route does not require user to be authorised
+2023-06-28 23:18:03.692 +02:00 [INF] requestId: 0HMRO3EQKI2SK:00000053, previousRequestId: no previous request id, message: /api/orders/{id} route does not require user to be authorised
+2023-06-28 23:18:03.695 +02:00 [WRN] requestId: 0HMRO3EQKI2SK:00000053, previousRequestId: no previous request id, message: 403 (Forbidden) status code, request uri: https://localhost:7108/api/orders/history-buyer/3
+2023-06-28 23:18:03.695 +02:00 [WRN] requestId: 0HMRO3EQKI2SK:00000053, previousRequestId: no previous request id, message: 403 (Forbidden) status code, request uri: https://localhost:7108/api/orders/history-buyer/3
+2023-06-28 23:18:03.700 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7068/api/orders/history-buyer/3 application/json - - 403 0 - 8.0473ms
+2023-06-28 23:18:03.700 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7068/api/orders/history-buyer/3 application/json - - 403 0 - 8.0473ms
+2023-06-28 23:18:05.212 +02:00 [INF] Request starting HTTP/2 OPTIONS https://localhost:7068/api/orders/history-seller/2 - -
+2023-06-28 23:18:05.212 +02:00 [INF] Request starting HTTP/2 OPTIONS https://localhost:7068/api/orders/history-seller/2 - -
+2023-06-28 23:18:05.212 +02:00 [INF] CORS policy execution successful.
+2023-06-28 23:18:05.212 +02:00 [INF] CORS policy execution successful.
+2023-06-28 23:18:05.212 +02:00 [INF] Request finished HTTP/2 OPTIONS https://localhost:7068/api/orders/history-seller/2 - - - 204 - - 0.3822ms
+2023-06-28 23:18:05.212 +02:00 [INF] Request finished HTTP/2 OPTIONS https://localhost:7068/api/orders/history-seller/2 - - - 204 - - 0.3822ms
+2023-06-28 23:18:05.215 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7068/api/orders/history-seller/2 application/json -
+2023-06-28 23:18:05.215 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7068/api/orders/history-seller/2 application/json -
+2023-06-28 23:18:05.215 +02:00 [INF] CORS policy execution successful.
+2023-06-28 23:18:05.215 +02:00 [INF] CORS policy execution successful.
+2023-06-28 23:18:05.215 +02:00 [INF] requestId: 0HMRO3EQKI2SK:00000057, previousRequestId: no previous request id, message: EndpointRateLimiting is not enabled for /api/orders/{id}
+2023-06-28 23:18:05.215 +02:00 [INF] requestId: 0HMRO3EQKI2SK:00000057, previousRequestId: no previous request id, message: EndpointRateLimiting is not enabled for /api/orders/{id}
+2023-06-28 23:18:05.215 +02:00 [INF] requestId: 0HMRO3EQKI2SK:00000057, previousRequestId: no previous request id, message: No authentication needed for /api/orders/history-seller/2
+2023-06-28 23:18:05.215 +02:00 [INF] requestId: 0HMRO3EQKI2SK:00000057, previousRequestId: no previous request id, message: No authentication needed for /api/orders/history-seller/2
+2023-06-28 23:18:05.215 +02:00 [INF] requestId: 0HMRO3EQKI2SK:00000057, previousRequestId: no previous request id, message: /api/orders/{id} route does not require user to be authorised
+2023-06-28 23:18:05.215 +02:00 [INF] requestId: 0HMRO3EQKI2SK:00000057, previousRequestId: no previous request id, message: /api/orders/{id} route does not require user to be authorised
+2023-06-28 23:18:05.308 +02:00 [INF] requestId: 0HMRO3EQKI2SK:00000057, previousRequestId: no previous request id, message: 200 (OK) status code, request uri: https://localhost:7108/api/orders/history-seller/2
+2023-06-28 23:18:05.309 +02:00 [INF] requestId: 0HMRO3EQKI2SK:00000057, previousRequestId: no previous request id, message: 200 (OK) status code, request uri: https://localhost:7108/api/orders/history-seller/2
+2023-06-28 23:18:05.313 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7068/api/orders/history-seller/2 application/json - - 200 789242 application/json;+charset=utf-8 98.1279ms
+2023-06-28 23:18:05.313 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7068/api/orders/history-seller/2 application/json - - 200 789242 application/json;+charset=utf-8 98.1279ms
+2023-06-28 23:19:35.349 +02:00 [INF] Request starting HTTP/2 OPTIONS https://localhost:7068/api/orders/history-seller/2 - -
+2023-06-28 23:19:35.349 +02:00 [INF] Request starting HTTP/2 OPTIONS https://localhost:7068/api/orders/history-seller/2 - -
+2023-06-28 23:19:35.349 +02:00 [INF] CORS policy execution successful.
+2023-06-28 23:19:35.349 +02:00 [INF] CORS policy execution successful.
+2023-06-28 23:19:35.349 +02:00 [INF] Request finished HTTP/2 OPTIONS https://localhost:7068/api/orders/history-seller/2 - - - 204 - - 0.4449ms
+2023-06-28 23:19:35.349 +02:00 [INF] Request finished HTTP/2 OPTIONS https://localhost:7068/api/orders/history-seller/2 - - - 204 - - 0.4449ms
+2023-06-28 23:19:35.351 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7068/api/orders/history-seller/2 application/json -
+2023-06-28 23:19:35.351 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7068/api/orders/history-seller/2 application/json -
+2023-06-28 23:19:35.351 +02:00 [INF] CORS policy execution successful.
+2023-06-28 23:19:35.351 +02:00 [INF] CORS policy execution successful.
+2023-06-28 23:19:35.351 +02:00 [INF] requestId: 0HMRO3EQKI2SK:0000005B, previousRequestId: no previous request id, message: EndpointRateLimiting is not enabled for /api/orders/{id}
+2023-06-28 23:19:35.351 +02:00 [INF] requestId: 0HMRO3EQKI2SK:0000005B, previousRequestId: no previous request id, message: EndpointRateLimiting is not enabled for /api/orders/{id}
+2023-06-28 23:19:35.351 +02:00 [INF] requestId: 0HMRO3EQKI2SK:0000005B, previousRequestId: no previous request id, message: No authentication needed for /api/orders/history-seller/2
+2023-06-28 23:19:35.351 +02:00 [INF] requestId: 0HMRO3EQKI2SK:0000005B, previousRequestId: no previous request id, message: No authentication needed for /api/orders/history-seller/2
+2023-06-28 23:19:35.351 +02:00 [INF] requestId: 0HMRO3EQKI2SK:0000005B, previousRequestId: no previous request id, message: /api/orders/{id} route does not require user to be authorised
+2023-06-28 23:19:35.351 +02:00 [INF] requestId: 0HMRO3EQKI2SK:0000005B, previousRequestId: no previous request id, message: /api/orders/{id} route does not require user to be authorised
+2023-06-28 23:19:35.472 +02:00 [INF] requestId: 0HMRO3EQKI2SK:0000005B, previousRequestId: no previous request id, message: 200 (OK) status code, request uri: https://localhost:7108/api/orders/history-seller/2
+2023-06-28 23:19:35.472 +02:00 [INF] requestId: 0HMRO3EQKI2SK:0000005B, previousRequestId: no previous request id, message: 200 (OK) status code, request uri: https://localhost:7108/api/orders/history-seller/2
+2023-06-28 23:19:35.476 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7068/api/orders/history-seller/2 application/json - - 200 789242 application/json;+charset=utf-8 125.3097ms
+2023-06-28 23:19:35.476 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7068/api/orders/history-seller/2 application/json - - 200 789242 application/json;+charset=utf-8 125.3097ms
+2023-06-28 23:19:44.316 +02:00 [INF] Request starting HTTP/2 OPTIONS https://localhost:7068/api/users/login - -
+2023-06-28 23:19:44.316 +02:00 [INF] Request starting HTTP/2 OPTIONS https://localhost:7068/api/users/login - -
+2023-06-28 23:19:44.316 +02:00 [INF] CORS policy execution successful.
+2023-06-28 23:19:44.316 +02:00 [INF] CORS policy execution successful.
+2023-06-28 23:19:44.316 +02:00 [INF] Request finished HTTP/2 OPTIONS https://localhost:7068/api/users/login - - - 204 - - 0.3503ms
+2023-06-28 23:19:44.316 +02:00 [INF] Request finished HTTP/2 OPTIONS https://localhost:7068/api/users/login - - - 204 - - 0.3503ms
+2023-06-28 23:19:44.318 +02:00 [INF] Request starting HTTP/2 POST https://localhost:7068/api/users/login application/json 72
+2023-06-28 23:19:44.318 +02:00 [INF] Request starting HTTP/2 POST https://localhost:7068/api/users/login application/json 72
+2023-06-28 23:19:44.318 +02:00 [INF] CORS policy execution successful.
+2023-06-28 23:19:44.318 +02:00 [INF] CORS policy execution successful.
+2023-06-28 23:19:44.318 +02:00 [INF] requestId: 0HMRO3EQKI2SK:0000005F, previousRequestId: no previous request id, message: EndpointRateLimiting is not enabled for /api/users/login
+2023-06-28 23:19:44.318 +02:00 [INF] requestId: 0HMRO3EQKI2SK:0000005F, previousRequestId: no previous request id, message: EndpointRateLimiting is not enabled for /api/users/login
+2023-06-28 23:19:44.318 +02:00 [INF] requestId: 0HMRO3EQKI2SK:0000005F, previousRequestId: no previous request id, message: No authentication needed for /api/users/login
+2023-06-28 23:19:44.318 +02:00 [INF] requestId: 0HMRO3EQKI2SK:0000005F, previousRequestId: no previous request id, message: No authentication needed for /api/users/login
+2023-06-28 23:19:44.318 +02:00 [INF] requestId: 0HMRO3EQKI2SK:0000005F, previousRequestId: no previous request id, message: /api/users/login route does not require user to be authorised
+2023-06-28 23:19:44.318 +02:00 [INF] requestId: 0HMRO3EQKI2SK:0000005F, previousRequestId: no previous request id, message: /api/users/login route does not require user to be authorised
+2023-06-28 23:19:44.497 +02:00 [INF] requestId: 0HMRO3EQKI2SK:0000005F, previousRequestId: no previous request id, message: 200 (OK) status code, request uri: https://localhost:7066/api/users/login
+2023-06-28 23:19:44.497 +02:00 [INF] requestId: 0HMRO3EQKI2SK:0000005F, previousRequestId: no previous request id, message: 200 (OK) status code, request uri: https://localhost:7066/api/users/login
+2023-06-28 23:19:44.498 +02:00 [INF] Request finished HTTP/2 POST https://localhost:7068/api/users/login application/json 72 - 200 350 application/json;+charset=utf-8 180.0219ms
+2023-06-28 23:19:44.498 +02:00 [INF] Request finished HTTP/2 POST https://localhost:7068/api/users/login application/json 72 - 200 350 application/json;+charset=utf-8 180.0219ms
+2023-06-28 23:19:45.311 +02:00 [INF] Request starting HTTP/2 OPTIONS https://localhost:7068/api/products/all - -
+2023-06-28 23:19:45.312 +02:00 [INF] Request starting HTTP/2 OPTIONS https://localhost:7068/api/products/all - -
+2023-06-28 23:19:45.312 +02:00 [INF] CORS policy execution successful.
+2023-06-28 23:19:45.312 +02:00 [INF] CORS policy execution successful.
+2023-06-28 23:19:45.312 +02:00 [INF] Request finished HTTP/2 OPTIONS https://localhost:7068/api/products/all - - - 204 - - 0.4687ms
+2023-06-28 23:19:45.312 +02:00 [INF] Request finished HTTP/2 OPTIONS https://localhost:7068/api/products/all - - - 204 - - 0.4687ms
+2023-06-28 23:19:45.314 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7068/api/products/all application/json -
+2023-06-28 23:19:45.314 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7068/api/products/all application/json -
+2023-06-28 23:19:45.314 +02:00 [INF] CORS policy execution successful.
+2023-06-28 23:19:45.314 +02:00 [INF] CORS policy execution successful.
+2023-06-28 23:19:45.314 +02:00 [INF] requestId: 0HMRO3EQKI2SK:00000063, previousRequestId: no previous request id, message: EndpointRateLimiting is not enabled for /api/products/all
+2023-06-28 23:19:45.314 +02:00 [INF] requestId: 0HMRO3EQKI2SK:00000063, previousRequestId: no previous request id, message: EndpointRateLimiting is not enabled for /api/products/all
+2023-06-28 23:19:45.314 +02:00 [INF] requestId: 0HMRO3EQKI2SK:00000063, previousRequestId: no previous request id, message: No authentication needed for /api/products/all
+2023-06-28 23:19:45.314 +02:00 [INF] requestId: 0HMRO3EQKI2SK:00000063, previousRequestId: no previous request id, message: No authentication needed for /api/products/all
+2023-06-28 23:19:45.314 +02:00 [INF] requestId: 0HMRO3EQKI2SK:00000063, previousRequestId: no previous request id, message: /api/products/all route does not require user to be authorised
+2023-06-28 23:19:45.314 +02:00 [INF] requestId: 0HMRO3EQKI2SK:00000063, previousRequestId: no previous request id, message: /api/products/all route does not require user to be authorised
+2023-06-28 23:19:45.345 +02:00 [INF] requestId: 0HMRO3EQKI2SK:00000063, previousRequestId: no previous request id, message: 200 (OK) status code, request uri: https://localhost:7108/api/products/all
+2023-06-28 23:19:45.345 +02:00 [INF] requestId: 0HMRO3EQKI2SK:00000063, previousRequestId: no previous request id, message: 200 (OK) status code, request uri: https://localhost:7108/api/products/all
+2023-06-28 23:19:45.348 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7068/api/products/all application/json - - 200 174491 application/json;+charset=utf-8 34.3144ms
+2023-06-28 23:19:45.348 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7068/api/products/all application/json - - 200 174491 application/json;+charset=utf-8 34.3144ms
+2023-06-28 23:19:55.086 +02:00 [INF] Request starting HTTP/2 OPTIONS https://localhost:7068/api/orders - -
+2023-06-28 23:19:55.086 +02:00 [INF] Request starting HTTP/2 OPTIONS https://localhost:7068/api/orders - -
+2023-06-28 23:19:55.086 +02:00 [INF] CORS policy execution successful.
+2023-06-28 23:19:55.086 +02:00 [INF] CORS policy execution successful.
+2023-06-28 23:19:55.086 +02:00 [INF] Request finished HTTP/2 OPTIONS https://localhost:7068/api/orders - - - 204 - - 0.6072ms
+2023-06-28 23:19:55.086 +02:00 [INF] Request finished HTTP/2 OPTIONS https://localhost:7068/api/orders - - - 204 - - 0.6072ms
+2023-06-28 23:19:55.088 +02:00 [INF] Request starting HTTP/2 POST https://localhost:7068/api/orders application/json 45196
+2023-06-28 23:19:55.088 +02:00 [INF] Request starting HTTP/2 POST https://localhost:7068/api/orders application/json 45196
+2023-06-28 23:19:55.088 +02:00 [INF] CORS policy execution successful.
+2023-06-28 23:19:55.088 +02:00 [INF] CORS policy execution successful.
+2023-06-28 23:19:55.088 +02:00 [INF] requestId: 0HMRO3EQKI2SK:00000067, previousRequestId: no previous request id, message: EndpointRateLimiting is not enabled for /api/orders
+2023-06-28 23:19:55.088 +02:00 [INF] requestId: 0HMRO3EQKI2SK:00000067, previousRequestId: no previous request id, message: EndpointRateLimiting is not enabled for /api/orders
+2023-06-28 23:19:55.089 +02:00 [INF] requestId: 0HMRO3EQKI2SK:00000067, previousRequestId: no previous request id, message: No authentication needed for /api/orders
+2023-06-28 23:19:55.089 +02:00 [INF] requestId: 0HMRO3EQKI2SK:00000067, previousRequestId: no previous request id, message: No authentication needed for /api/orders
+2023-06-28 23:19:55.089 +02:00 [INF] requestId: 0HMRO3EQKI2SK:00000067, previousRequestId: no previous request id, message: /api/orders route does not require user to be authorised
+2023-06-28 23:19:55.089 +02:00 [INF] requestId: 0HMRO3EQKI2SK:00000067, previousRequestId: no previous request id, message: /api/orders route does not require user to be authorised
+2023-06-28 23:19:55.918 +02:00 [INF] requestId: 0HMRO3EQKI2SK:00000067, previousRequestId: no previous request id, message: 200 (OK) status code, request uri: https://localhost:7108/api/orders
+2023-06-28 23:19:55.918 +02:00 [INF] requestId: 0HMRO3EQKI2SK:00000067, previousRequestId: no previous request id, message: 200 (OK) status code, request uri: https://localhost:7108/api/orders
+2023-06-28 23:19:55.918 +02:00 [INF] Request finished HTTP/2 POST https://localhost:7068/api/orders application/json 45196 - 200 20 application/json;+charset=utf-8 830.9191ms
+2023-06-28 23:19:55.919 +02:00 [INF] Request finished HTTP/2 POST https://localhost:7068/api/orders application/json 45196 - 200 20 application/json;+charset=utf-8 830.9191ms
+2023-06-28 23:19:55.923 +02:00 [INF] Request starting HTTP/2 OPTIONS https://localhost:7068/api/orders/history-seller/2 - -
+2023-06-28 23:19:55.923 +02:00 [INF] Request starting HTTP/2 OPTIONS https://localhost:7068/api/orders/history-seller/2 - -
+2023-06-28 23:19:55.923 +02:00 [INF] CORS policy execution successful.
+2023-06-28 23:19:55.923 +02:00 [INF] CORS policy execution successful.
+2023-06-28 23:19:55.923 +02:00 [INF] Request finished HTTP/2 OPTIONS https://localhost:7068/api/orders/history-seller/2 - - - 204 - - 0.2783ms
+2023-06-28 23:19:55.923 +02:00 [INF] Request finished HTTP/2 OPTIONS https://localhost:7068/api/orders/history-seller/2 - - - 204 - - 0.2783ms
+2023-06-28 23:19:55.924 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7068/api/orders/history-seller/2 application/json -
+2023-06-28 23:19:55.924 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7068/api/orders/history-seller/2 application/json -
+2023-06-28 23:19:55.924 +02:00 [INF] CORS policy execution successful.
+2023-06-28 23:19:55.924 +02:00 [INF] CORS policy execution successful.
+2023-06-28 23:19:55.925 +02:00 [INF] requestId: 0HMRO3EQKI2SK:0000006B, previousRequestId: no previous request id, message: EndpointRateLimiting is not enabled for /api/orders/{id}
+2023-06-28 23:19:55.925 +02:00 [INF] requestId: 0HMRO3EQKI2SK:0000006B, previousRequestId: no previous request id, message: EndpointRateLimiting is not enabled for /api/orders/{id}
+2023-06-28 23:19:55.925 +02:00 [INF] requestId: 0HMRO3EQKI2SK:0000006B, previousRequestId: no previous request id, message: No authentication needed for /api/orders/history-seller/2
+2023-06-28 23:19:55.925 +02:00 [INF] requestId: 0HMRO3EQKI2SK:0000006B, previousRequestId: no previous request id, message: No authentication needed for /api/orders/history-seller/2
+2023-06-28 23:19:55.925 +02:00 [INF] requestId: 0HMRO3EQKI2SK:0000006B, previousRequestId: no previous request id, message: /api/orders/{id} route does not require user to be authorised
+2023-06-28 23:19:55.925 +02:00 [INF] requestId: 0HMRO3EQKI2SK:0000006B, previousRequestId: no previous request id, message: /api/orders/{id} route does not require user to be authorised
+2023-06-28 23:19:55.926 +02:00 [WRN] requestId: 0HMRO3EQKI2SK:0000006B, previousRequestId: no previous request id, message: 403 (Forbidden) status code, request uri: https://localhost:7108/api/orders/history-seller/2
+2023-06-28 23:19:55.927 +02:00 [WRN] requestId: 0HMRO3EQKI2SK:0000006B, previousRequestId: no previous request id, message: 403 (Forbidden) status code, request uri: https://localhost:7108/api/orders/history-seller/2
+2023-06-28 23:19:55.931 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7068/api/orders/history-seller/2 application/json - - 403 0 - 6.5274ms
+2023-06-28 23:19:55.931 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7068/api/orders/history-seller/2 application/json - - 403 0 - 6.5274ms
+2023-06-28 23:19:58.450 +02:00 [INF] Request starting HTTP/2 OPTIONS https://localhost:7068/api/orders/history-buyer/3 - -
+2023-06-28 23:19:58.450 +02:00 [INF] Request starting HTTP/2 OPTIONS https://localhost:7068/api/orders/history-buyer/3 - -
+2023-06-28 23:19:58.450 +02:00 [INF] CORS policy execution successful.
+2023-06-28 23:19:58.450 +02:00 [INF] CORS policy execution successful.
+2023-06-28 23:19:58.450 +02:00 [INF] Request finished HTTP/2 OPTIONS https://localhost:7068/api/orders/history-buyer/3 - - - 204 - - 0.6278ms
+2023-06-28 23:19:58.450 +02:00 [INF] Request finished HTTP/2 OPTIONS https://localhost:7068/api/orders/history-buyer/3 - - - 204 - - 0.6278ms
+2023-06-28 23:19:58.452 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7068/api/orders/history-buyer/3 application/json -
+2023-06-28 23:19:58.452 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7068/api/orders/history-buyer/3 application/json -
+2023-06-28 23:19:58.452 +02:00 [INF] CORS policy execution successful.
+2023-06-28 23:19:58.452 +02:00 [INF] CORS policy execution successful.
+2023-06-28 23:19:58.453 +02:00 [INF] requestId: 0HMRO3EQKI2SK:0000006F, previousRequestId: no previous request id, message: EndpointRateLimiting is not enabled for /api/orders/{id}
+2023-06-28 23:19:58.453 +02:00 [INF] requestId: 0HMRO3EQKI2SK:0000006F, previousRequestId: no previous request id, message: EndpointRateLimiting is not enabled for /api/orders/{id}
+2023-06-28 23:19:58.453 +02:00 [INF] requestId: 0HMRO3EQKI2SK:0000006F, previousRequestId: no previous request id, message: No authentication needed for /api/orders/history-buyer/3
+2023-06-28 23:19:58.453 +02:00 [INF] requestId: 0HMRO3EQKI2SK:0000006F, previousRequestId: no previous request id, message: No authentication needed for /api/orders/history-buyer/3
+2023-06-28 23:19:58.453 +02:00 [INF] requestId: 0HMRO3EQKI2SK:0000006F, previousRequestId: no previous request id, message: /api/orders/{id} route does not require user to be authorised
+2023-06-28 23:19:58.453 +02:00 [INF] requestId: 0HMRO3EQKI2SK:0000006F, previousRequestId: no previous request id, message: /api/orders/{id} route does not require user to be authorised
+2023-06-28 23:19:58.516 +02:00 [INF] requestId: 0HMRO3EQKI2SK:0000006F, previousRequestId: no previous request id, message: 200 (OK) status code, request uri: https://localhost:7108/api/orders/history-buyer/3
+2023-06-28 23:19:58.516 +02:00 [INF] requestId: 0HMRO3EQKI2SK:0000006F, previousRequestId: no previous request id, message: 200 (OK) status code, request uri: https://localhost:7108/api/orders/history-buyer/3
+2023-06-28 23:19:58.522 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7068/api/orders/history-buyer/3 application/json - - 200 834425 application/json;+charset=utf-8 69.5174ms
+2023-06-28 23:19:58.522 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7068/api/orders/history-buyer/3 application/json - - 200 834425 application/json;+charset=utf-8 69.5174ms
+2023-06-28 23:20:20.747 +02:00 [INF] Request starting HTTP/2 OPTIONS https://localhost:7068/api/users/login - -
+2023-06-28 23:20:20.747 +02:00 [INF] Request starting HTTP/2 OPTIONS https://localhost:7068/api/users/login - -
+2023-06-28 23:20:20.747 +02:00 [INF] CORS policy execution successful.
+2023-06-28 23:20:20.747 +02:00 [INF] CORS policy execution successful.
+2023-06-28 23:20:20.748 +02:00 [INF] Request finished HTTP/2 OPTIONS https://localhost:7068/api/users/login - - - 204 - - 0.4786ms
+2023-06-28 23:20:20.748 +02:00 [INF] Request finished HTTP/2 OPTIONS https://localhost:7068/api/users/login - - - 204 - - 0.4786ms
+2023-06-28 23:20:20.753 +02:00 [INF] Request starting HTTP/2 POST https://localhost:7068/api/users/login application/json 75
+2023-06-28 23:20:20.753 +02:00 [INF] Request starting HTTP/2 POST https://localhost:7068/api/users/login application/json 75
+2023-06-28 23:20:20.754 +02:00 [INF] CORS policy execution successful.
+2023-06-28 23:20:20.754 +02:00 [INF] CORS policy execution successful.
+2023-06-28 23:20:20.754 +02:00 [INF] requestId: 0HMRO3EQKI2SK:00000073, previousRequestId: no previous request id, message: EndpointRateLimiting is not enabled for /api/users/login
+2023-06-28 23:20:20.754 +02:00 [INF] requestId: 0HMRO3EQKI2SK:00000073, previousRequestId: no previous request id, message: EndpointRateLimiting is not enabled for /api/users/login
+2023-06-28 23:20:20.754 +02:00 [INF] requestId: 0HMRO3EQKI2SK:00000073, previousRequestId: no previous request id, message: No authentication needed for /api/users/login
+2023-06-28 23:20:20.754 +02:00 [INF] requestId: 0HMRO3EQKI2SK:00000073, previousRequestId: no previous request id, message: No authentication needed for /api/users/login
+2023-06-28 23:20:20.754 +02:00 [INF] requestId: 0HMRO3EQKI2SK:00000073, previousRequestId: no previous request id, message: /api/users/login route does not require user to be authorised
+2023-06-28 23:20:20.754 +02:00 [INF] requestId: 0HMRO3EQKI2SK:00000073, previousRequestId: no previous request id, message: /api/users/login route does not require user to be authorised
+2023-06-28 23:20:20.946 +02:00 [INF] requestId: 0HMRO3EQKI2SK:00000073, previousRequestId: no previous request id, message: 200 (OK) status code, request uri: https://localhost:7066/api/users/login
+2023-06-28 23:20:20.946 +02:00 [INF] requestId: 0HMRO3EQKI2SK:00000073, previousRequestId: no previous request id, message: 200 (OK) status code, request uri: https://localhost:7066/api/users/login
+2023-06-28 23:20:20.947 +02:00 [INF] Request finished HTTP/2 POST https://localhost:7068/api/users/login application/json 75 - 200 352 application/json;+charset=utf-8 193.4181ms
+2023-06-28 23:20:20.947 +02:00 [INF] Request finished HTTP/2 POST https://localhost:7068/api/users/login application/json 75 - 200 352 application/json;+charset=utf-8 193.4181ms
+2023-06-28 23:20:22.319 +02:00 [INF] Request starting HTTP/2 OPTIONS https://localhost:7068/api/orders/history-seller/3 - -
+2023-06-28 23:20:22.319 +02:00 [INF] Request starting HTTP/2 OPTIONS https://localhost:7068/api/orders/history-seller/3 - -
+2023-06-28 23:20:22.319 +02:00 [INF] CORS policy execution successful.
+2023-06-28 23:20:22.319 +02:00 [INF] CORS policy execution successful.
+2023-06-28 23:20:22.319 +02:00 [INF] Request finished HTTP/2 OPTIONS https://localhost:7068/api/orders/history-seller/3 - - - 204 - - 0.4075ms
+2023-06-28 23:20:22.319 +02:00 [INF] Request finished HTTP/2 OPTIONS https://localhost:7068/api/orders/history-seller/3 - - - 204 - - 0.4075ms
+2023-06-28 23:20:22.321 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7068/api/orders/history-seller/3 application/json -
+2023-06-28 23:20:22.321 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7068/api/orders/history-seller/3 application/json -
+2023-06-28 23:20:22.321 +02:00 [INF] CORS policy execution successful.
+2023-06-28 23:20:22.321 +02:00 [INF] CORS policy execution successful.
+2023-06-28 23:20:22.322 +02:00 [INF] requestId: 0HMRO3EQKI2SK:00000077, previousRequestId: no previous request id, message: EndpointRateLimiting is not enabled for /api/orders/{id}
+2023-06-28 23:20:22.322 +02:00 [INF] requestId: 0HMRO3EQKI2SK:00000077, previousRequestId: no previous request id, message: EndpointRateLimiting is not enabled for /api/orders/{id}
+2023-06-28 23:20:22.322 +02:00 [INF] requestId: 0HMRO3EQKI2SK:00000077, previousRequestId: no previous request id, message: No authentication needed for /api/orders/history-seller/3
+2023-06-28 23:20:22.322 +02:00 [INF] requestId: 0HMRO3EQKI2SK:00000077, previousRequestId: no previous request id, message: No authentication needed for /api/orders/history-seller/3
+2023-06-28 23:20:22.322 +02:00 [INF] requestId: 0HMRO3EQKI2SK:00000077, previousRequestId: no previous request id, message: /api/orders/{id} route does not require user to be authorised
+2023-06-28 23:20:22.322 +02:00 [INF] requestId: 0HMRO3EQKI2SK:00000077, previousRequestId: no previous request id, message: /api/orders/{id} route does not require user to be authorised
+2023-06-28 23:20:22.343 +02:00 [INF] requestId: 0HMRO3EQKI2SK:00000077, previousRequestId: no previous request id, message: 200 (OK) status code, request uri: https://localhost:7108/api/orders/history-seller/3
+2023-06-28 23:20:22.343 +02:00 [INF] requestId: 0HMRO3EQKI2SK:00000077, previousRequestId: no previous request id, message: 200 (OK) status code, request uri: https://localhost:7108/api/orders/history-seller/3
+2023-06-28 23:20:22.344 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7068/api/orders/history-seller/3 application/json - - 200 2 application/json;+charset=utf-8 22.5547ms
+2023-06-28 23:20:22.344 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7068/api/orders/history-seller/3 application/json - - 200 2 application/json;+charset=utf-8 22.5547ms
+2023-06-28 23:20:24.608 +02:00 [INF] Request starting HTTP/2 OPTIONS https://localhost:7068/api/orders/history-buyer/3 - -
+2023-06-28 23:20:24.608 +02:00 [INF] Request starting HTTP/2 OPTIONS https://localhost:7068/api/orders/history-buyer/3 - -
+2023-06-28 23:20:24.608 +02:00 [INF] CORS policy execution successful.
+2023-06-28 23:20:24.608 +02:00 [INF] CORS policy execution successful.
+2023-06-28 23:20:24.608 +02:00 [INF] Request finished HTTP/2 OPTIONS https://localhost:7068/api/orders/history-buyer/3 - - - 204 - - 0.5800ms
+2023-06-28 23:20:24.608 +02:00 [INF] Request finished HTTP/2 OPTIONS https://localhost:7068/api/orders/history-buyer/3 - - - 204 - - 0.5800ms
+2023-06-28 23:20:24.610 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7068/api/orders/history-buyer/3 application/json -
+2023-06-28 23:20:24.610 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7068/api/orders/history-buyer/3 application/json -
+2023-06-28 23:20:24.610 +02:00 [INF] CORS policy execution successful.
+2023-06-28 23:20:24.610 +02:00 [INF] CORS policy execution successful.
+2023-06-28 23:20:24.610 +02:00 [INF] requestId: 0HMRO3EQKI2SK:0000007B, previousRequestId: no previous request id, message: EndpointRateLimiting is not enabled for /api/orders/{id}
+2023-06-28 23:20:24.610 +02:00 [INF] requestId: 0HMRO3EQKI2SK:0000007B, previousRequestId: no previous request id, message: EndpointRateLimiting is not enabled for /api/orders/{id}
+2023-06-28 23:20:24.610 +02:00 [INF] requestId: 0HMRO3EQKI2SK:0000007B, previousRequestId: no previous request id, message: No authentication needed for /api/orders/history-buyer/3
+2023-06-28 23:20:24.610 +02:00 [INF] requestId: 0HMRO3EQKI2SK:0000007B, previousRequestId: no previous request id, message: No authentication needed for /api/orders/history-buyer/3
+2023-06-28 23:20:24.610 +02:00 [INF] requestId: 0HMRO3EQKI2SK:0000007B, previousRequestId: no previous request id, message: /api/orders/{id} route does not require user to be authorised
+2023-06-28 23:20:24.610 +02:00 [INF] requestId: 0HMRO3EQKI2SK:0000007B, previousRequestId: no previous request id, message: /api/orders/{id} route does not require user to be authorised
+2023-06-28 23:20:24.615 +02:00 [WRN] requestId: 0HMRO3EQKI2SK:0000007B, previousRequestId: no previous request id, message: 403 (Forbidden) status code, request uri: https://localhost:7108/api/orders/history-buyer/3
+2023-06-28 23:20:24.616 +02:00 [WRN] requestId: 0HMRO3EQKI2SK:0000007B, previousRequestId: no previous request id, message: 403 (Forbidden) status code, request uri: https://localhost:7108/api/orders/history-buyer/3
+2023-06-28 23:20:24.618 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7068/api/orders/history-buyer/3 application/json - - 403 0 - 8.4510ms
+2023-06-28 23:20:24.618 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7068/api/orders/history-buyer/3 application/json - - 403 0 - 8.4510ms
+2023-06-28 23:20:26.083 +02:00 [INF] Request starting HTTP/2 OPTIONS https://localhost:7068/api/orders/history-seller/2 - -
+2023-06-28 23:20:26.083 +02:00 [INF] Request starting HTTP/2 OPTIONS https://localhost:7068/api/orders/history-seller/2 - -
+2023-06-28 23:20:26.083 +02:00 [INF] CORS policy execution successful.
+2023-06-28 23:20:26.083 +02:00 [INF] CORS policy execution successful.
+2023-06-28 23:20:26.083 +02:00 [INF] Request finished HTTP/2 OPTIONS https://localhost:7068/api/orders/history-seller/2 - - - 204 - - 0.3317ms
+2023-06-28 23:20:26.083 +02:00 [INF] Request finished HTTP/2 OPTIONS https://localhost:7068/api/orders/history-seller/2 - - - 204 - - 0.3317ms
+2023-06-28 23:20:26.085 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7068/api/orders/history-seller/2 application/json -
+2023-06-28 23:20:26.085 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7068/api/orders/history-seller/2 application/json -
+2023-06-28 23:20:26.085 +02:00 [INF] CORS policy execution successful.
+2023-06-28 23:20:26.085 +02:00 [INF] CORS policy execution successful.
+2023-06-28 23:20:26.085 +02:00 [INF] requestId: 0HMRO3EQKI2SK:0000007F, previousRequestId: no previous request id, message: EndpointRateLimiting is not enabled for /api/orders/{id}
+2023-06-28 23:20:26.085 +02:00 [INF] requestId: 0HMRO3EQKI2SK:0000007F, previousRequestId: no previous request id, message: EndpointRateLimiting is not enabled for /api/orders/{id}
+2023-06-28 23:20:26.085 +02:00 [INF] requestId: 0HMRO3EQKI2SK:0000007F, previousRequestId: no previous request id, message: No authentication needed for /api/orders/history-seller/2
+2023-06-28 23:20:26.085 +02:00 [INF] requestId: 0HMRO3EQKI2SK:0000007F, previousRequestId: no previous request id, message: No authentication needed for /api/orders/history-seller/2
+2023-06-28 23:20:26.085 +02:00 [INF] requestId: 0HMRO3EQKI2SK:0000007F, previousRequestId: no previous request id, message: /api/orders/{id} route does not require user to be authorised
+2023-06-28 23:20:26.085 +02:00 [INF] requestId: 0HMRO3EQKI2SK:0000007F, previousRequestId: no previous request id, message: /api/orders/{id} route does not require user to be authorised
+2023-06-28 23:20:26.205 +02:00 [INF] requestId: 0HMRO3EQKI2SK:0000007F, previousRequestId: no previous request id, message: 200 (OK) status code, request uri: https://localhost:7108/api/orders/history-seller/2
+2023-06-28 23:20:26.205 +02:00 [INF] requestId: 0HMRO3EQKI2SK:0000007F, previousRequestId: no previous request id, message: 200 (OK) status code, request uri: https://localhost:7108/api/orders/history-seller/2
+2023-06-28 23:20:26.215 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7068/api/orders/history-seller/2 application/json - - 200 834425 application/json;+charset=utf-8 130.6093ms
+2023-06-28 23:20:26.215 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7068/api/orders/history-seller/2 application/json - - 200 834425 application/json;+charset=utf-8 130.6093ms
+2023-06-28 23:22:28.284 +02:00 [INF] Request starting HTTP/2 OPTIONS https://localhost:7068/api/orders/history-seller/2 - -
+2023-06-28 23:22:28.285 +02:00 [INF] Request starting HTTP/2 OPTIONS https://localhost:7068/api/orders/history-seller/2 - -
+2023-06-28 23:22:28.285 +02:00 [INF] CORS policy execution successful.
+2023-06-28 23:22:28.285 +02:00 [INF] CORS policy execution successful.
+2023-06-28 23:22:28.285 +02:00 [INF] Request finished HTTP/2 OPTIONS https://localhost:7068/api/orders/history-seller/2 - - - 204 - - 1.2617ms
+2023-06-28 23:22:28.285 +02:00 [INF] Request finished HTTP/2 OPTIONS https://localhost:7068/api/orders/history-seller/2 - - - 204 - - 1.2617ms
+2023-06-28 23:22:28.291 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7068/api/orders/history-seller/2 application/json -
+2023-06-28 23:22:28.291 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7068/api/orders/history-seller/2 application/json -
+2023-06-28 23:22:28.292 +02:00 [INF] CORS policy execution successful.
+2023-06-28 23:22:28.292 +02:00 [INF] CORS policy execution successful.
+2023-06-28 23:22:28.292 +02:00 [INF] requestId: 0HMRO3EQKI2SL:00000003, previousRequestId: no previous request id, message: EndpointRateLimiting is not enabled for /api/orders/{id}
+2023-06-28 23:22:28.292 +02:00 [INF] requestId: 0HMRO3EQKI2SL:00000003, previousRequestId: no previous request id, message: EndpointRateLimiting is not enabled for /api/orders/{id}
+2023-06-28 23:22:28.292 +02:00 [INF] requestId: 0HMRO3EQKI2SL:00000003, previousRequestId: no previous request id, message: No authentication needed for /api/orders/history-seller/2
+2023-06-28 23:22:28.292 +02:00 [INF] requestId: 0HMRO3EQKI2SL:00000003, previousRequestId: no previous request id, message: No authentication needed for /api/orders/history-seller/2
+2023-06-28 23:22:28.292 +02:00 [INF] requestId: 0HMRO3EQKI2SL:00000003, previousRequestId: no previous request id, message: /api/orders/{id} route does not require user to be authorised
+2023-06-28 23:22:28.292 +02:00 [INF] requestId: 0HMRO3EQKI2SL:00000003, previousRequestId: no previous request id, message: /api/orders/{id} route does not require user to be authorised
+2023-06-28 23:22:28.461 +02:00 [INF] requestId: 0HMRO3EQKI2SL:00000003, previousRequestId: no previous request id, message: 200 (OK) status code, request uri: https://localhost:7108/api/orders/history-seller/2
+2023-06-28 23:22:28.461 +02:00 [INF] requestId: 0HMRO3EQKI2SL:00000003, previousRequestId: no previous request id, message: 200 (OK) status code, request uri: https://localhost:7108/api/orders/history-seller/2
+2023-06-28 23:22:28.466 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7068/api/orders/history-seller/2 application/json - - 200 834425 application/json;+charset=utf-8 175.7466ms
+2023-06-28 23:22:28.466 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7068/api/orders/history-seller/2 application/json - - 200 834425 application/json;+charset=utf-8 175.7466ms
+2023-06-28 23:22:41.311 +02:00 [INF] Request starting HTTP/2 OPTIONS https://localhost:7068/api/orders/history-seller/2 - -
+2023-06-28 23:22:41.311 +02:00 [INF] Request starting HTTP/2 OPTIONS https://localhost:7068/api/orders/history-seller/2 - -
+2023-06-28 23:22:41.311 +02:00 [INF] CORS policy execution successful.
+2023-06-28 23:22:41.311 +02:00 [INF] CORS policy execution successful.
+2023-06-28 23:22:41.311 +02:00 [INF] Request finished HTTP/2 OPTIONS https://localhost:7068/api/orders/history-seller/2 - - - 204 - - 0.3908ms
+2023-06-28 23:22:41.311 +02:00 [INF] Request finished HTTP/2 OPTIONS https://localhost:7068/api/orders/history-seller/2 - - - 204 - - 0.3908ms
+2023-06-28 23:22:41.313 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7068/api/orders/history-seller/2 application/json -
+2023-06-28 23:22:41.313 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7068/api/orders/history-seller/2 application/json -
+2023-06-28 23:22:41.313 +02:00 [INF] CORS policy execution successful.
+2023-06-28 23:22:41.313 +02:00 [INF] CORS policy execution successful.
+2023-06-28 23:22:41.313 +02:00 [INF] requestId: 0HMRO3EQKI2SL:00000007, previousRequestId: no previous request id, message: EndpointRateLimiting is not enabled for /api/orders/{id}
+2023-06-28 23:22:41.313 +02:00 [INF] requestId: 0HMRO3EQKI2SL:00000007, previousRequestId: no previous request id, message: EndpointRateLimiting is not enabled for /api/orders/{id}
+2023-06-28 23:22:41.314 +02:00 [INF] requestId: 0HMRO3EQKI2SL:00000007, previousRequestId: no previous request id, message: No authentication needed for /api/orders/history-seller/2
+2023-06-28 23:22:41.314 +02:00 [INF] requestId: 0HMRO3EQKI2SL:00000007, previousRequestId: no previous request id, message: No authentication needed for /api/orders/history-seller/2
+2023-06-28 23:22:41.314 +02:00 [INF] requestId: 0HMRO3EQKI2SL:00000007, previousRequestId: no previous request id, message: /api/orders/{id} route does not require user to be authorised
+2023-06-28 23:22:41.314 +02:00 [INF] requestId: 0HMRO3EQKI2SL:00000007, previousRequestId: no previous request id, message: /api/orders/{id} route does not require user to be authorised
+2023-06-28 23:22:41.407 +02:00 [INF] requestId: 0HMRO3EQKI2SL:00000007, previousRequestId: no previous request id, message: 200 (OK) status code, request uri: https://localhost:7108/api/orders/history-seller/2
+2023-06-28 23:22:41.407 +02:00 [INF] requestId: 0HMRO3EQKI2SL:00000007, previousRequestId: no previous request id, message: 200 (OK) status code, request uri: https://localhost:7108/api/orders/history-seller/2
+2023-06-28 23:22:41.411 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7068/api/orders/history-seller/2 application/json - - 200 834425 application/json;+charset=utf-8 98.0295ms
+2023-06-28 23:22:41.411 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7068/api/orders/history-seller/2 application/json - - 200 834425 application/json;+charset=utf-8 98.0295ms
+2023-06-28 23:22:44.729 +02:00 [INF] Request starting HTTP/2 OPTIONS https://localhost:7068/api/products/seller-products/2 - -
+2023-06-28 23:22:44.729 +02:00 [INF] Request starting HTTP/2 OPTIONS https://localhost:7068/api/products/seller-products/2 - -
+2023-06-28 23:22:44.729 +02:00 [INF] CORS policy execution successful.
+2023-06-28 23:22:44.729 +02:00 [INF] CORS policy execution successful.
+2023-06-28 23:22:44.729 +02:00 [INF] Request finished HTTP/2 OPTIONS https://localhost:7068/api/products/seller-products/2 - - - 204 - - 0.3981ms
+2023-06-28 23:22:44.729 +02:00 [INF] Request finished HTTP/2 OPTIONS https://localhost:7068/api/products/seller-products/2 - - - 204 - - 0.3981ms
+2023-06-28 23:22:44.731 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7068/api/products/seller-products/2 application/json -
+2023-06-28 23:22:44.731 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7068/api/products/seller-products/2 application/json -
+2023-06-28 23:22:44.731 +02:00 [INF] CORS policy execution successful.
+2023-06-28 23:22:44.731 +02:00 [INF] CORS policy execution successful.
+2023-06-28 23:22:44.732 +02:00 [INF] requestId: 0HMRO3EQKI2SL:0000000B, previousRequestId: no previous request id, message: EndpointRateLimiting is not enabled for /api/products/{id}
+2023-06-28 23:22:44.732 +02:00 [INF] requestId: 0HMRO3EQKI2SL:0000000B, previousRequestId: no previous request id, message: EndpointRateLimiting is not enabled for /api/products/{id}
+2023-06-28 23:22:44.732 +02:00 [INF] requestId: 0HMRO3EQKI2SL:0000000B, previousRequestId: no previous request id, message: No authentication needed for /api/products/seller-products/2
+2023-06-28 23:22:44.732 +02:00 [INF] requestId: 0HMRO3EQKI2SL:0000000B, previousRequestId: no previous request id, message: No authentication needed for /api/products/seller-products/2
+2023-06-28 23:22:44.732 +02:00 [INF] requestId: 0HMRO3EQKI2SL:0000000B, previousRequestId: no previous request id, message: /api/products/{id} route does not require user to be authorised
+2023-06-28 23:22:44.732 +02:00 [INF] requestId: 0HMRO3EQKI2SL:0000000B, previousRequestId: no previous request id, message: /api/products/{id} route does not require user to be authorised
+2023-06-28 23:22:44.783 +02:00 [INF] requestId: 0HMRO3EQKI2SL:0000000B, previousRequestId: no previous request id, message: 200 (OK) status code, request uri: https://localhost:7108/api/products/seller-products/2
+2023-06-28 23:22:44.783 +02:00 [INF] requestId: 0HMRO3EQKI2SL:0000000B, previousRequestId: no previous request id, message: 200 (OK) status code, request uri: https://localhost:7108/api/products/seller-products/2
+2023-06-28 23:22:44.786 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7068/api/products/seller-products/2 application/json - - 200 174491 application/json;+charset=utf-8 55.0321ms
+2023-06-28 23:22:44.786 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7068/api/products/seller-products/2 application/json - - 200 174491 application/json;+charset=utf-8 55.0321ms
+2023-06-28 23:22:46.544 +02:00 [INF] Request starting HTTP/2 OPTIONS https://localhost:7068/api/products/1 - -
+2023-06-28 23:22:46.544 +02:00 [INF] Request starting HTTP/2 OPTIONS https://localhost:7068/api/products/1 - -
+2023-06-28 23:22:46.544 +02:00 [INF] CORS policy execution successful.
+2023-06-28 23:22:46.544 +02:00 [INF] CORS policy execution successful.
+2023-06-28 23:22:46.544 +02:00 [INF] Request finished HTTP/2 OPTIONS https://localhost:7068/api/products/1 - - - 204 - - 0.3712ms
+2023-06-28 23:22:46.544 +02:00 [INF] Request finished HTTP/2 OPTIONS https://localhost:7068/api/products/1 - - - 204 - - 0.3712ms
+2023-06-28 23:22:46.546 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7068/api/products/1 application/json -
+2023-06-28 23:22:46.546 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7068/api/products/1 application/json -
+2023-06-28 23:22:46.547 +02:00 [INF] CORS policy execution successful.
+2023-06-28 23:22:46.547 +02:00 [INF] CORS policy execution successful.
+2023-06-28 23:22:46.547 +02:00 [INF] requestId: 0HMRO3EQKI2SL:0000000F, previousRequestId: no previous request id, message: EndpointRateLimiting is not enabled for /api/products/{id}
+2023-06-28 23:22:46.547 +02:00 [INF] requestId: 0HMRO3EQKI2SL:0000000F, previousRequestId: no previous request id, message: EndpointRateLimiting is not enabled for /api/products/{id}
+2023-06-28 23:22:46.547 +02:00 [INF] requestId: 0HMRO3EQKI2SL:0000000F, previousRequestId: no previous request id, message: No authentication needed for /api/products/1
+2023-06-28 23:22:46.547 +02:00 [INF] requestId: 0HMRO3EQKI2SL:0000000F, previousRequestId: no previous request id, message: No authentication needed for /api/products/1
+2023-06-28 23:22:46.547 +02:00 [INF] requestId: 0HMRO3EQKI2SL:0000000F, previousRequestId: no previous request id, message: /api/products/{id} route does not require user to be authorised
+2023-06-28 23:22:46.547 +02:00 [INF] requestId: 0HMRO3EQKI2SL:0000000F, previousRequestId: no previous request id, message: /api/products/{id} route does not require user to be authorised
+2023-06-28 23:22:46.560 +02:00 [INF] requestId: 0HMRO3EQKI2SL:0000000F, previousRequestId: no previous request id, message: 200 (OK) status code, request uri: https://localhost:7108/api/products/1
+2023-06-28 23:22:46.560 +02:00 [INF] requestId: 0HMRO3EQKI2SL:0000000F, previousRequestId: no previous request id, message: 200 (OK) status code, request uri: https://localhost:7108/api/products/1
+2023-06-28 23:22:46.564 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7068/api/products/1 application/json - - 200 129530 application/json;+charset=utf-8 17.8565ms
+2023-06-28 23:22:46.564 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7068/api/products/1 application/json - - 200 129530 application/json;+charset=utf-8 17.8565ms
+2023-06-28 23:22:52.626 +02:00 [INF] Request starting HTTP/2 OPTIONS https://localhost:7068/api/orders/history-seller/2 - -
+2023-06-28 23:22:52.626 +02:00 [INF] Request starting HTTP/2 OPTIONS https://localhost:7068/api/orders/history-seller/2 - -
+2023-06-28 23:22:52.626 +02:00 [INF] CORS policy execution successful.
+2023-06-28 23:22:52.626 +02:00 [INF] CORS policy execution successful.
+2023-06-28 23:22:52.626 +02:00 [INF] Request finished HTTP/2 OPTIONS https://localhost:7068/api/orders/history-seller/2 - - - 204 - - 0.3155ms
+2023-06-28 23:22:52.626 +02:00 [INF] Request finished HTTP/2 OPTIONS https://localhost:7068/api/orders/history-seller/2 - - - 204 - - 0.3155ms
+2023-06-28 23:22:52.628 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7068/api/orders/history-seller/2 application/json -
+2023-06-28 23:22:52.628 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7068/api/orders/history-seller/2 application/json -
+2023-06-28 23:22:52.628 +02:00 [INF] CORS policy execution successful.
+2023-06-28 23:22:52.628 +02:00 [INF] CORS policy execution successful.
+2023-06-28 23:22:52.628 +02:00 [INF] requestId: 0HMRO3EQKI2SL:00000013, previousRequestId: no previous request id, message: EndpointRateLimiting is not enabled for /api/orders/{id}
+2023-06-28 23:22:52.628 +02:00 [INF] requestId: 0HMRO3EQKI2SL:00000013, previousRequestId: no previous request id, message: EndpointRateLimiting is not enabled for /api/orders/{id}
+2023-06-28 23:22:52.628 +02:00 [INF] requestId: 0HMRO3EQKI2SL:00000013, previousRequestId: no previous request id, message: No authentication needed for /api/orders/history-seller/2
+2023-06-28 23:22:52.628 +02:00 [INF] requestId: 0HMRO3EQKI2SL:00000013, previousRequestId: no previous request id, message: No authentication needed for /api/orders/history-seller/2
+2023-06-28 23:22:52.628 +02:00 [INF] requestId: 0HMRO3EQKI2SL:00000013, previousRequestId: no previous request id, message: /api/orders/{id} route does not require user to be authorised
+2023-06-28 23:22:52.628 +02:00 [INF] requestId: 0HMRO3EQKI2SL:00000013, previousRequestId: no previous request id, message: /api/orders/{id} route does not require user to be authorised
+2023-06-28 23:22:52.731 +02:00 [INF] requestId: 0HMRO3EQKI2SL:00000013, previousRequestId: no previous request id, message: 200 (OK) status code, request uri: https://localhost:7108/api/orders/history-seller/2
+2023-06-28 23:22:52.731 +02:00 [INF] requestId: 0HMRO3EQKI2SL:00000013, previousRequestId: no previous request id, message: 200 (OK) status code, request uri: https://localhost:7108/api/orders/history-seller/2
+2023-06-28 23:22:52.736 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7068/api/orders/history-seller/2 application/json - - 200 834425 application/json;+charset=utf-8 108.3476ms
+2023-06-28 23:22:52.736 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7068/api/orders/history-seller/2 application/json - - 200 834425 application/json;+charset=utf-8 108.3476ms
+2023-06-28 23:22:55.702 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7068/api/orders/history-seller/2 application/json -
+2023-06-28 23:22:55.702 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7068/api/orders/history-seller/2 application/json -
+2023-06-28 23:22:55.702 +02:00 [INF] CORS policy execution successful.
+2023-06-28 23:22:55.702 +02:00 [INF] CORS policy execution successful.
+2023-06-28 23:22:55.703 +02:00 [INF] requestId: 0HMRO3EQKI2SL:00000015, previousRequestId: no previous request id, message: EndpointRateLimiting is not enabled for /api/orders/{id}
+2023-06-28 23:22:55.703 +02:00 [INF] requestId: 0HMRO3EQKI2SL:00000015, previousRequestId: no previous request id, message: EndpointRateLimiting is not enabled for /api/orders/{id}
+2023-06-28 23:22:55.703 +02:00 [INF] requestId: 0HMRO3EQKI2SL:00000015, previousRequestId: no previous request id, message: No authentication needed for /api/orders/history-seller/2
+2023-06-28 23:22:55.703 +02:00 [INF] requestId: 0HMRO3EQKI2SL:00000015, previousRequestId: no previous request id, message: No authentication needed for /api/orders/history-seller/2
+2023-06-28 23:22:55.703 +02:00 [INF] requestId: 0HMRO3EQKI2SL:00000015, previousRequestId: no previous request id, message: /api/orders/{id} route does not require user to be authorised
+2023-06-28 23:22:55.703 +02:00 [INF] requestId: 0HMRO3EQKI2SL:00000015, previousRequestId: no previous request id, message: /api/orders/{id} route does not require user to be authorised
+2023-06-28 23:22:55.789 +02:00 [INF] requestId: 0HMRO3EQKI2SL:00000015, previousRequestId: no previous request id, message: 200 (OK) status code, request uri: https://localhost:7108/api/orders/history-seller/2
+2023-06-28 23:22:55.789 +02:00 [INF] requestId: 0HMRO3EQKI2SL:00000015, previousRequestId: no previous request id, message: 200 (OK) status code, request uri: https://localhost:7108/api/orders/history-seller/2
+2023-06-28 23:22:55.794 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7068/api/orders/history-seller/2 application/json - - 200 834425 application/json;+charset=utf-8 91.4931ms
+2023-06-28 23:22:55.794 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7068/api/orders/history-seller/2 application/json - - 200 834425 application/json;+charset=utf-8 91.4931ms
+2023-06-28 23:45:06.436 +02:00 [INF] Request starting HTTP/2 OPTIONS https://localhost:7068/api/users/login - -
+2023-06-28 23:45:06.437 +02:00 [INF] Request starting HTTP/2 OPTIONS https://localhost:7068/api/users/login - -
+2023-06-28 23:45:06.437 +02:00 [INF] CORS policy execution successful.
+2023-06-28 23:45:06.438 +02:00 [INF] CORS policy execution successful.
+2023-06-28 23:45:06.440 +02:00 [INF] Request finished HTTP/2 OPTIONS https://localhost:7068/api/users/login - - - 204 - - 3.2608ms
+2023-06-28 23:45:06.440 +02:00 [INF] Request finished HTTP/2 OPTIONS https://localhost:7068/api/users/login - - - 204 - - 3.2608ms
+2023-06-28 23:45:06.445 +02:00 [INF] Request starting HTTP/2 POST https://localhost:7068/api/users/login application/json 72
+2023-06-28 23:45:06.445 +02:00 [INF] Request starting HTTP/2 POST https://localhost:7068/api/users/login application/json 72
+2023-06-28 23:45:06.446 +02:00 [INF] CORS policy execution successful.
+2023-06-28 23:45:06.447 +02:00 [INF] CORS policy execution successful.
+2023-06-28 23:45:06.447 +02:00 [INF] requestId: 0HMRO3EQKI2SM:00000003, previousRequestId: no previous request id, message: EndpointRateLimiting is not enabled for /api/users/login
+2023-06-28 23:45:06.481 +02:00 [INF] requestId: 0HMRO3EQKI2SM:00000003, previousRequestId: no previous request id, message: EndpointRateLimiting is not enabled for /api/users/login
+2023-06-28 23:45:06.481 +02:00 [INF] requestId: 0HMRO3EQKI2SM:00000003, previousRequestId: no previous request id, message: No authentication needed for /api/users/login
+2023-06-28 23:45:06.481 +02:00 [INF] requestId: 0HMRO3EQKI2SM:00000003, previousRequestId: no previous request id, message: No authentication needed for /api/users/login
+2023-06-28 23:45:06.481 +02:00 [INF] requestId: 0HMRO3EQKI2SM:00000003, previousRequestId: no previous request id, message: /api/users/login route does not require user to be authorised
+2023-06-28 23:45:06.481 +02:00 [INF] requestId: 0HMRO3EQKI2SM:00000003, previousRequestId: no previous request id, message: /api/users/login route does not require user to be authorised
+2023-06-28 23:45:06.678 +02:00 [INF] requestId: 0HMRO3EQKI2SM:00000003, previousRequestId: no previous request id, message: 200 (OK) status code, request uri: https://localhost:7066/api/users/login
+2023-06-28 23:45:06.678 +02:00 [INF] requestId: 0HMRO3EQKI2SM:00000003, previousRequestId: no previous request id, message: 200 (OK) status code, request uri: https://localhost:7066/api/users/login
+2023-06-28 23:45:06.678 +02:00 [INF] Request finished HTTP/2 POST https://localhost:7068/api/users/login application/json 72 - 200 350 application/json;+charset=utf-8 233.4819ms
+2023-06-28 23:45:06.678 +02:00 [INF] Request finished HTTP/2 POST https://localhost:7068/api/users/login application/json 72 - 200 350 application/json;+charset=utf-8 233.4819ms
+2023-06-28 23:45:07.653 +02:00 [INF] Request starting HTTP/2 OPTIONS https://localhost:7068/api/users/1 - -
+2023-06-28 23:45:07.653 +02:00 [INF] Request starting HTTP/2 OPTIONS https://localhost:7068/api/users/1 - -
+2023-06-28 23:45:07.653 +02:00 [INF] CORS policy execution successful.
+2023-06-28 23:45:07.653 +02:00 [INF] CORS policy execution successful.
+2023-06-28 23:45:07.653 +02:00 [INF] Request finished HTTP/2 OPTIONS https://localhost:7068/api/users/1 - - - 204 - - 0.5173ms
+2023-06-28 23:45:07.653 +02:00 [INF] Request finished HTTP/2 OPTIONS https://localhost:7068/api/users/1 - - - 204 - - 0.5173ms
+2023-06-28 23:45:07.656 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7068/api/users/1 application/json -
+2023-06-28 23:45:07.656 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7068/api/users/1 application/json -
+2023-06-28 23:45:07.656 +02:00 [INF] CORS policy execution successful.
+2023-06-28 23:45:07.656 +02:00 [INF] CORS policy execution successful.
+2023-06-28 23:45:07.656 +02:00 [INF] requestId: 0HMRO3EQKI2SM:00000007, previousRequestId: no previous request id, message: EndpointRateLimiting is not enabled for /api/users/{id}
+2023-06-28 23:45:07.656 +02:00 [INF] requestId: 0HMRO3EQKI2SM:00000007, previousRequestId: no previous request id, message: EndpointRateLimiting is not enabled for /api/users/{id}
+2023-06-28 23:45:07.656 +02:00 [INF] requestId: 0HMRO3EQKI2SM:00000007, previousRequestId: no previous request id, message: No authentication needed for /api/users/1
+2023-06-28 23:45:07.656 +02:00 [INF] requestId: 0HMRO3EQKI2SM:00000007, previousRequestId: no previous request id, message: No authentication needed for /api/users/1
+2023-06-28 23:45:07.656 +02:00 [INF] requestId: 0HMRO3EQKI2SM:00000007, previousRequestId: no previous request id, message: /api/users/{id} route does not require user to be authorised
+2023-06-28 23:45:07.656 +02:00 [INF] requestId: 0HMRO3EQKI2SM:00000007, previousRequestId: no previous request id, message: /api/users/{id} route does not require user to be authorised
+2023-06-28 23:45:07.681 +02:00 [INF] requestId: 0HMRO3EQKI2SM:00000007, previousRequestId: no previous request id, message: 200 (OK) status code, request uri: https://localhost:7066/api/users/1
+2023-06-28 23:45:07.681 +02:00 [INF] requestId: 0HMRO3EQKI2SM:00000007, previousRequestId: no previous request id, message: 200 (OK) status code, request uri: https://localhost:7066/api/users/1
+2023-06-28 23:45:07.682 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7068/api/users/1 application/json - - 200 6018 application/json;+charset=utf-8 26.1662ms
+2023-06-28 23:45:07.682 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7068/api/users/1 application/json - - 200 6018 application/json;+charset=utf-8 26.1662ms
+2023-06-28 23:45:10.521 +02:00 [INF] Request starting HTTP/2 OPTIONS https://localhost:7068/api/users/all - -
+2023-06-28 23:45:10.521 +02:00 [INF] Request starting HTTP/2 OPTIONS https://localhost:7068/api/users/all - -
+2023-06-28 23:45:10.522 +02:00 [INF] CORS policy execution successful.
+2023-06-28 23:45:10.522 +02:00 [INF] CORS policy execution successful.
+2023-06-28 23:45:10.522 +02:00 [INF] Request finished HTTP/2 OPTIONS https://localhost:7068/api/users/all - - - 204 - - 0.2548ms
+2023-06-28 23:45:10.522 +02:00 [INF] Request finished HTTP/2 OPTIONS https://localhost:7068/api/users/all - - - 204 - - 0.2548ms
+2023-06-28 23:45:10.524 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7068/api/users/all application/json -
+2023-06-28 23:45:10.524 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7068/api/users/all application/json -
+2023-06-28 23:45:10.524 +02:00 [INF] CORS policy execution successful.
+2023-06-28 23:45:10.524 +02:00 [INF] CORS policy execution successful.
+2023-06-28 23:45:10.524 +02:00 [INF] requestId: 0HMRO3EQKI2SM:0000000B, previousRequestId: no previous request id, message: EndpointRateLimiting is not enabled for /api/users/all
+2023-06-28 23:45:10.524 +02:00 [INF] requestId: 0HMRO3EQKI2SM:0000000B, previousRequestId: no previous request id, message: EndpointRateLimiting is not enabled for /api/users/all
+2023-06-28 23:45:10.524 +02:00 [INF] requestId: 0HMRO3EQKI2SM:0000000B, previousRequestId: no previous request id, message: No authentication needed for /api/users/all
+2023-06-28 23:45:10.524 +02:00 [INF] requestId: 0HMRO3EQKI2SM:0000000B, previousRequestId: no previous request id, message: No authentication needed for /api/users/all
+2023-06-28 23:45:10.524 +02:00 [INF] requestId: 0HMRO3EQKI2SM:0000000B, previousRequestId: no previous request id, message: /api/users/all route does not require user to be authorised
+2023-06-28 23:45:10.524 +02:00 [INF] requestId: 0HMRO3EQKI2SM:0000000B, previousRequestId: no previous request id, message: /api/users/all route does not require user to be authorised
+2023-06-28 23:45:10.590 +02:00 [INF] requestId: 0HMRO3EQKI2SM:0000000B, previousRequestId: no previous request id, message: 200 (OK) status code, request uri: https://localhost:7066/api/users/all
+2023-06-28 23:45:10.590 +02:00 [INF] requestId: 0HMRO3EQKI2SM:0000000B, previousRequestId: no previous request id, message: 200 (OK) status code, request uri: https://localhost:7066/api/users/all
+2023-06-28 23:45:10.592 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7068/api/users/all application/json - - 200 209519 application/json;+charset=utf-8 68.8271ms
+2023-06-28 23:45:10.592 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7068/api/users/all application/json - - 200 209519 application/json;+charset=utf-8 68.8271ms
+2023-06-28 23:45:18.387 +02:00 [INF] Request starting HTTP/2 OPTIONS https://localhost:7068/api/orders/all - -
+2023-06-28 23:45:18.387 +02:00 [INF] Request starting HTTP/2 OPTIONS https://localhost:7068/api/orders/all - -
+2023-06-28 23:45:18.387 +02:00 [INF] CORS policy execution successful.
+2023-06-28 23:45:18.387 +02:00 [INF] CORS policy execution successful.
+2023-06-28 23:45:18.388 +02:00 [INF] Request finished HTTP/2 OPTIONS https://localhost:7068/api/orders/all - - - 204 - - 0.2372ms
+2023-06-28 23:45:18.388 +02:00 [INF] Request finished HTTP/2 OPTIONS https://localhost:7068/api/orders/all - - - 204 - - 0.2372ms
+2023-06-28 23:45:18.389 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7068/api/orders/all application/json -
+2023-06-28 23:45:18.389 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7068/api/orders/all application/json -
+2023-06-28 23:45:18.389 +02:00 [INF] CORS policy execution successful.
+2023-06-28 23:45:18.389 +02:00 [INF] CORS policy execution successful.
+2023-06-28 23:45:18.390 +02:00 [INF] requestId: 0HMRO3EQKI2SM:0000000F, previousRequestId: no previous request id, message: EndpointRateLimiting is not enabled for /api/orders/all
+2023-06-28 23:45:18.390 +02:00 [INF] requestId: 0HMRO3EQKI2SM:0000000F, previousRequestId: no previous request id, message: EndpointRateLimiting is not enabled for /api/orders/all
+2023-06-28 23:45:18.390 +02:00 [INF] requestId: 0HMRO3EQKI2SM:0000000F, previousRequestId: no previous request id, message: No authentication needed for /api/orders/all
+2023-06-28 23:45:18.390 +02:00 [INF] requestId: 0HMRO3EQKI2SM:0000000F, previousRequestId: no previous request id, message: No authentication needed for /api/orders/all
+2023-06-28 23:45:18.390 +02:00 [INF] requestId: 0HMRO3EQKI2SM:0000000F, previousRequestId: no previous request id, message: /api/orders/all route does not require user to be authorised
+2023-06-28 23:45:18.390 +02:00 [INF] requestId: 0HMRO3EQKI2SM:0000000F, previousRequestId: no previous request id, message: /api/orders/all route does not require user to be authorised
+2023-06-28 23:45:18.438 +02:00 [INF] requestId: 0HMRO3EQKI2SM:0000000F, previousRequestId: no previous request id, message: 200 (OK) status code, request uri: https://localhost:7108/api/orders/all
+2023-06-28 23:45:18.438 +02:00 [INF] requestId: 0HMRO3EQKI2SM:0000000F, previousRequestId: no previous request id, message: 200 (OK) status code, request uri: https://localhost:7108/api/orders/all
+2023-06-28 23:45:18.439 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7068/api/orders/all application/json - - 200 1595 application/json;+charset=utf-8 49.6938ms
+2023-06-28 23:45:18.439 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7068/api/orders/all application/json - - 200 1595 application/json;+charset=utf-8 49.6938ms
+2023-06-28 23:45:33.733 +02:00 [INF] Request starting HTTP/2 OPTIONS https://localhost:7068/api/orders/all - -
+2023-06-28 23:45:33.733 +02:00 [INF] Request starting HTTP/2 OPTIONS https://localhost:7068/api/orders/all - -
+2023-06-28 23:45:33.733 +02:00 [INF] CORS policy execution successful.
+2023-06-28 23:45:33.733 +02:00 [INF] CORS policy execution successful.
+2023-06-28 23:45:33.733 +02:00 [INF] Request finished HTTP/2 OPTIONS https://localhost:7068/api/orders/all - - - 204 - - 0.3534ms
+2023-06-28 23:45:33.733 +02:00 [INF] Request finished HTTP/2 OPTIONS https://localhost:7068/api/orders/all - - - 204 - - 0.3534ms
+2023-06-28 23:45:33.739 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7068/api/orders/all application/json -
+2023-06-28 23:45:33.739 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7068/api/orders/all application/json -
+2023-06-28 23:45:33.739 +02:00 [INF] CORS policy execution successful.
+2023-06-28 23:45:33.739 +02:00 [INF] CORS policy execution successful.
+2023-06-28 23:45:33.739 +02:00 [INF] requestId: 0HMRO3EQKI2SM:00000013, previousRequestId: no previous request id, message: EndpointRateLimiting is not enabled for /api/orders/all
+2023-06-28 23:45:33.739 +02:00 [INF] requestId: 0HMRO3EQKI2SM:00000013, previousRequestId: no previous request id, message: EndpointRateLimiting is not enabled for /api/orders/all
+2023-06-28 23:45:33.739 +02:00 [INF] requestId: 0HMRO3EQKI2SM:00000013, previousRequestId: no previous request id, message: No authentication needed for /api/orders/all
+2023-06-28 23:45:33.739 +02:00 [INF] requestId: 0HMRO3EQKI2SM:00000013, previousRequestId: no previous request id, message: No authentication needed for /api/orders/all
+2023-06-28 23:45:33.739 +02:00 [INF] requestId: 0HMRO3EQKI2SM:00000013, previousRequestId: no previous request id, message: /api/orders/all route does not require user to be authorised
+2023-06-28 23:45:33.739 +02:00 [INF] requestId: 0HMRO3EQKI2SM:00000013, previousRequestId: no previous request id, message: /api/orders/all route does not require user to be authorised
+2023-06-28 23:45:33.753 +02:00 [INF] requestId: 0HMRO3EQKI2SM:00000013, previousRequestId: no previous request id, message: 200 (OK) status code, request uri: https://localhost:7108/api/orders/all
+2023-06-28 23:45:33.753 +02:00 [INF] requestId: 0HMRO3EQKI2SM:00000013, previousRequestId: no previous request id, message: 200 (OK) status code, request uri: https://localhost:7108/api/orders/all
+2023-06-28 23:45:33.754 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7068/api/orders/all application/json - - 200 1595 application/json;+charset=utf-8 15.1360ms
+2023-06-28 23:45:33.754 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7068/api/orders/all application/json - - 200 1595 application/json;+charset=utf-8 15.1360ms
+2023-06-28 23:45:43.059 +02:00 [INF] Request starting HTTP/2 OPTIONS https://localhost:7068/api/orders/all - -
+2023-06-28 23:45:43.059 +02:00 [INF] Request starting HTTP/2 OPTIONS https://localhost:7068/api/orders/all - -
+2023-06-28 23:45:43.059 +02:00 [INF] CORS policy execution successful.
+2023-06-28 23:45:43.059 +02:00 [INF] CORS policy execution successful.
+2023-06-28 23:45:43.060 +02:00 [INF] Request finished HTTP/2 OPTIONS https://localhost:7068/api/orders/all - - - 204 - - 0.4116ms
+2023-06-28 23:45:43.060 +02:00 [INF] Request finished HTTP/2 OPTIONS https://localhost:7068/api/orders/all - - - 204 - - 0.4116ms
+2023-06-28 23:45:43.061 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7068/api/orders/all application/json -
+2023-06-28 23:45:43.062 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7068/api/orders/all application/json -
+2023-06-28 23:45:43.062 +02:00 [INF] CORS policy execution successful.
+2023-06-28 23:45:43.062 +02:00 [INF] CORS policy execution successful.
+2023-06-28 23:45:43.062 +02:00 [INF] requestId: 0HMRO3EQKI2SM:00000017, previousRequestId: no previous request id, message: EndpointRateLimiting is not enabled for /api/orders/all
+2023-06-28 23:45:43.062 +02:00 [INF] requestId: 0HMRO3EQKI2SM:00000017, previousRequestId: no previous request id, message: EndpointRateLimiting is not enabled for /api/orders/all
+2023-06-28 23:45:43.062 +02:00 [INF] requestId: 0HMRO3EQKI2SM:00000017, previousRequestId: no previous request id, message: No authentication needed for /api/orders/all
+2023-06-28 23:45:43.062 +02:00 [INF] requestId: 0HMRO3EQKI2SM:00000017, previousRequestId: no previous request id, message: No authentication needed for /api/orders/all
+2023-06-28 23:45:43.062 +02:00 [INF] requestId: 0HMRO3EQKI2SM:00000017, previousRequestId: no previous request id, message: /api/orders/all route does not require user to be authorised
+2023-06-28 23:45:43.062 +02:00 [INF] requestId: 0HMRO3EQKI2SM:00000017, previousRequestId: no previous request id, message: /api/orders/all route does not require user to be authorised
+2023-06-28 23:45:43.072 +02:00 [INF] requestId: 0HMRO3EQKI2SM:00000017, previousRequestId: no previous request id, message: 200 (OK) status code, request uri: https://localhost:7108/api/orders/all
+2023-06-28 23:45:43.072 +02:00 [INF] requestId: 0HMRO3EQKI2SM:00000017, previousRequestId: no previous request id, message: 200 (OK) status code, request uri: https://localhost:7108/api/orders/all
+2023-06-28 23:45:43.073 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7068/api/orders/all application/json - - 200 1595 application/json;+charset=utf-8 11.7240ms
+2023-06-28 23:45:43.073 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7068/api/orders/all application/json - - 200 1595 application/json;+charset=utf-8 11.7240ms
+2023-06-28 23:49:08.805 +02:00 [INF] Request starting HTTP/2 OPTIONS https://localhost:7068/api/orders/all - -
+2023-06-28 23:49:08.805 +02:00 [INF] Request starting HTTP/2 OPTIONS https://localhost:7068/api/orders/all - -
+2023-06-28 23:49:08.805 +02:00 [INF] CORS policy execution successful.
+2023-06-28 23:49:08.806 +02:00 [INF] CORS policy execution successful.
+2023-06-28 23:49:08.811 +02:00 [INF] Request finished HTTP/2 OPTIONS https://localhost:7068/api/orders/all - - - 204 - - 5.6430ms
+2023-06-28 23:49:08.811 +02:00 [INF] Request finished HTTP/2 OPTIONS https://localhost:7068/api/orders/all - - - 204 - - 5.6430ms
+2023-06-28 23:49:08.815 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7068/api/orders/all application/json -
+2023-06-28 23:49:08.815 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7068/api/orders/all application/json -
+2023-06-28 23:49:08.815 +02:00 [INF] CORS policy execution successful.
+2023-06-28 23:49:08.815 +02:00 [INF] CORS policy execution successful.
+2023-06-28 23:49:08.815 +02:00 [INF] requestId: 0HMRO3EQKI2SM:0000001B, previousRequestId: no previous request id, message: EndpointRateLimiting is not enabled for /api/orders/all
+2023-06-28 23:49:08.815 +02:00 [INF] requestId: 0HMRO3EQKI2SM:0000001B, previousRequestId: no previous request id, message: EndpointRateLimiting is not enabled for /api/orders/all
+2023-06-28 23:49:08.816 +02:00 [INF] requestId: 0HMRO3EQKI2SM:0000001B, previousRequestId: no previous request id, message: No authentication needed for /api/orders/all
+2023-06-28 23:49:08.816 +02:00 [INF] requestId: 0HMRO3EQKI2SM:0000001B, previousRequestId: no previous request id, message: No authentication needed for /api/orders/all
+2023-06-28 23:49:08.816 +02:00 [INF] requestId: 0HMRO3EQKI2SM:0000001B, previousRequestId: no previous request id, message: /api/orders/all route does not require user to be authorised
+2023-06-28 23:49:08.816 +02:00 [INF] requestId: 0HMRO3EQKI2SM:0000001B, previousRequestId: no previous request id, message: /api/orders/all route does not require user to be authorised
+2023-06-28 23:49:08.846 +02:00 [INF] requestId: 0HMRO3EQKI2SM:0000001B, previousRequestId: no previous request id, message: 200 (OK) status code, request uri: https://localhost:7108/api/orders/all
+2023-06-28 23:49:08.846 +02:00 [INF] requestId: 0HMRO3EQKI2SM:0000001B, previousRequestId: no previous request id, message: 200 (OK) status code, request uri: https://localhost:7108/api/orders/all
+2023-06-28 23:49:08.847 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7068/api/orders/all application/json - - 200 1595 application/json;+charset=utf-8 32.0834ms
+2023-06-28 23:49:08.847 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7068/api/orders/all application/json - - 200 1595 application/json;+charset=utf-8 32.0834ms
+2023-06-28 23:49:15.295 +02:00 [INF] Request starting HTTP/2 OPTIONS https://localhost:7068/api/users/login - -
+2023-06-28 23:49:15.295 +02:00 [INF] Request starting HTTP/2 OPTIONS https://localhost:7068/api/users/login - -
+2023-06-28 23:49:15.295 +02:00 [INF] CORS policy execution successful.
+2023-06-28 23:49:15.295 +02:00 [INF] CORS policy execution successful.
+2023-06-28 23:49:15.296 +02:00 [INF] Request finished HTTP/2 OPTIONS https://localhost:7068/api/users/login - - - 204 - - 0.2775ms
+2023-06-28 23:49:15.296 +02:00 [INF] Request finished HTTP/2 OPTIONS https://localhost:7068/api/users/login - - - 204 - - 0.2775ms
+2023-06-28 23:49:15.297 +02:00 [INF] Request starting HTTP/2 POST https://localhost:7068/api/users/login application/json 75
+2023-06-28 23:49:15.297 +02:00 [INF] Request starting HTTP/2 POST https://localhost:7068/api/users/login application/json 75
+2023-06-28 23:49:15.297 +02:00 [INF] CORS policy execution successful.
+2023-06-28 23:49:15.297 +02:00 [INF] CORS policy execution successful.
+2023-06-28 23:49:15.297 +02:00 [INF] requestId: 0HMRO3EQKI2SM:0000001F, previousRequestId: no previous request id, message: EndpointRateLimiting is not enabled for /api/users/login
+2023-06-28 23:49:15.297 +02:00 [INF] requestId: 0HMRO3EQKI2SM:0000001F, previousRequestId: no previous request id, message: EndpointRateLimiting is not enabled for /api/users/login
+2023-06-28 23:49:15.297 +02:00 [INF] requestId: 0HMRO3EQKI2SM:0000001F, previousRequestId: no previous request id, message: No authentication needed for /api/users/login
+2023-06-28 23:49:15.297 +02:00 [INF] requestId: 0HMRO3EQKI2SM:0000001F, previousRequestId: no previous request id, message: No authentication needed for /api/users/login
+2023-06-28 23:49:15.297 +02:00 [INF] requestId: 0HMRO3EQKI2SM:0000001F, previousRequestId: no previous request id, message: /api/users/login route does not require user to be authorised
+2023-06-28 23:49:15.297 +02:00 [INF] requestId: 0HMRO3EQKI2SM:0000001F, previousRequestId: no previous request id, message: /api/users/login route does not require user to be authorised
+2023-06-28 23:49:15.491 +02:00 [INF] requestId: 0HMRO3EQKI2SM:0000001F, previousRequestId: no previous request id, message: 200 (OK) status code, request uri: https://localhost:7066/api/users/login
+2023-06-28 23:49:15.491 +02:00 [INF] requestId: 0HMRO3EQKI2SM:0000001F, previousRequestId: no previous request id, message: 200 (OK) status code, request uri: https://localhost:7066/api/users/login
+2023-06-28 23:49:15.491 +02:00 [INF] Request finished HTTP/2 POST https://localhost:7068/api/users/login application/json 75 - 200 352 application/json;+charset=utf-8 194.6136ms
+2023-06-28 23:49:15.491 +02:00 [INF] Request finished HTTP/2 POST https://localhost:7068/api/users/login application/json 75 - 200 352 application/json;+charset=utf-8 194.6136ms
+2023-06-28 23:49:16.586 +02:00 [INF] Request starting HTTP/2 OPTIONS https://localhost:7068/api/orders/history-/ - -
+2023-06-28 23:49:16.586 +02:00 [INF] Request starting HTTP/2 OPTIONS https://localhost:7068/api/orders/history-/ - -
+2023-06-28 23:49:16.586 +02:00 [INF] CORS policy execution successful.
+2023-06-28 23:49:16.586 +02:00 [INF] CORS policy execution successful.
+2023-06-28 23:49:16.587 +02:00 [INF] Request finished HTTP/2 OPTIONS https://localhost:7068/api/orders/history-/ - - - 204 - - 0.3905ms
+2023-06-28 23:49:16.587 +02:00 [INF] Request finished HTTP/2 OPTIONS https://localhost:7068/api/orders/history-/ - - - 204 - - 0.3905ms
+2023-06-28 23:49:16.589 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7068/api/orders/history-/ application/json -
+2023-06-28 23:49:16.589 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7068/api/orders/history-/ application/json -
+2023-06-28 23:49:16.589 +02:00 [INF] CORS policy execution successful.
+2023-06-28 23:49:16.589 +02:00 [INF] CORS policy execution successful.
+2023-06-28 23:49:16.590 +02:00 [INF] requestId: 0HMRO3EQKI2SM:00000023, previousRequestId: no previous request id, message: EndpointRateLimiting is not enabled for /api/orders/{id}
+2023-06-28 23:49:16.590 +02:00 [INF] requestId: 0HMRO3EQKI2SM:00000023, previousRequestId: no previous request id, message: EndpointRateLimiting is not enabled for /api/orders/{id}
+2023-06-28 23:49:16.590 +02:00 [INF] requestId: 0HMRO3EQKI2SM:00000023, previousRequestId: no previous request id, message: No authentication needed for /api/orders/history-/
+2023-06-28 23:49:16.590 +02:00 [INF] requestId: 0HMRO3EQKI2SM:00000023, previousRequestId: no previous request id, message: No authentication needed for /api/orders/history-/
+2023-06-28 23:49:16.590 +02:00 [INF] requestId: 0HMRO3EQKI2SM:00000023, previousRequestId: no previous request id, message: /api/orders/{id} route does not require user to be authorised
+2023-06-28 23:49:16.590 +02:00 [INF] requestId: 0HMRO3EQKI2SM:00000023, previousRequestId: no previous request id, message: /api/orders/{id} route does not require user to be authorised
+2023-06-28 23:49:16.634 +02:00 [INF] requestId: 0HMRO3EQKI2SM:00000023, previousRequestId: no previous request id, message: 400 (Bad Request) status code, request uri: https://localhost:7108/api/orders/history-/
+2023-06-28 23:49:16.634 +02:00 [INF] requestId: 0HMRO3EQKI2SM:00000023, previousRequestId: no previous request id, message: 400 (Bad Request) status code, request uri: https://localhost:7108/api/orders/history-/
+2023-06-28 23:49:16.634 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7068/api/orders/history-/ application/json - - 400 246 application/problem+json;+charset=utf-8 45.2607ms
+2023-06-28 23:49:16.634 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7068/api/orders/history-/ application/json - - 400 246 application/problem+json;+charset=utf-8 45.2607ms
+2023-06-28 23:49:18.758 +02:00 [INF] Request starting HTTP/2 OPTIONS https://localhost:7068/api/orders/history-seller/2 - -
+2023-06-28 23:49:18.758 +02:00 [INF] Request starting HTTP/2 OPTIONS https://localhost:7068/api/orders/history-seller/2 - -
+2023-06-28 23:49:18.758 +02:00 [INF] CORS policy execution successful.
+2023-06-28 23:49:18.758 +02:00 [INF] CORS policy execution successful.
+2023-06-28 23:49:18.758 +02:00 [INF] Request finished HTTP/2 OPTIONS https://localhost:7068/api/orders/history-seller/2 - - - 204 - - 0.4533ms
+2023-06-28 23:49:18.758 +02:00 [INF] Request finished HTTP/2 OPTIONS https://localhost:7068/api/orders/history-seller/2 - - - 204 - - 0.4533ms
+2023-06-28 23:49:18.760 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7068/api/orders/history-seller/2 application/json -
+2023-06-28 23:49:18.760 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7068/api/orders/history-seller/2 application/json -
+2023-06-28 23:49:18.760 +02:00 [INF] CORS policy execution successful.
+2023-06-28 23:49:18.760 +02:00 [INF] CORS policy execution successful.
+2023-06-28 23:49:18.760 +02:00 [INF] requestId: 0HMRO3EQKI2SM:00000027, previousRequestId: no previous request id, message: EndpointRateLimiting is not enabled for /api/orders/{id}
+2023-06-28 23:49:18.760 +02:00 [INF] requestId: 0HMRO3EQKI2SM:00000027, previousRequestId: no previous request id, message: EndpointRateLimiting is not enabled for /api/orders/{id}
+2023-06-28 23:49:18.760 +02:00 [INF] requestId: 0HMRO3EQKI2SM:00000027, previousRequestId: no previous request id, message: No authentication needed for /api/orders/history-seller/2
+2023-06-28 23:49:18.760 +02:00 [INF] requestId: 0HMRO3EQKI2SM:00000027, previousRequestId: no previous request id, message: No authentication needed for /api/orders/history-seller/2
+2023-06-28 23:49:18.760 +02:00 [INF] requestId: 0HMRO3EQKI2SM:00000027, previousRequestId: no previous request id, message: /api/orders/{id} route does not require user to be authorised
+2023-06-28 23:49:18.760 +02:00 [INF] requestId: 0HMRO3EQKI2SM:00000027, previousRequestId: no previous request id, message: /api/orders/{id} route does not require user to be authorised
+2023-06-28 23:49:18.887 +02:00 [INF] requestId: 0HMRO3EQKI2SM:00000027, previousRequestId: no previous request id, message: 200 (OK) status code, request uri: https://localhost:7108/api/orders/history-seller/2
+2023-06-28 23:49:18.887 +02:00 [INF] requestId: 0HMRO3EQKI2SM:00000027, previousRequestId: no previous request id, message: 200 (OK) status code, request uri: https://localhost:7108/api/orders/history-seller/2
+2023-06-28 23:49:18.892 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7068/api/orders/history-seller/2 application/json - - 200 834425 application/json;+charset=utf-8 131.9788ms
+2023-06-28 23:49:18.892 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7068/api/orders/history-seller/2 application/json - - 200 834425 application/json;+charset=utf-8 131.9788ms
+2023-06-28 23:49:30.601 +02:00 [INF] Request starting HTTP/2 OPTIONS https://localhost:7068/api/orders/history-seller/2 - -
+2023-06-28 23:49:30.601 +02:00 [INF] Request starting HTTP/2 OPTIONS https://localhost:7068/api/orders/history-seller/2 - -
+2023-06-28 23:49:30.601 +02:00 [INF] CORS policy execution successful.
+2023-06-28 23:49:30.601 +02:00 [INF] CORS policy execution successful.
+2023-06-28 23:49:30.601 +02:00 [INF] Request finished HTTP/2 OPTIONS https://localhost:7068/api/orders/history-seller/2 - - - 204 - - 0.4525ms
+2023-06-28 23:49:30.601 +02:00 [INF] Request finished HTTP/2 OPTIONS https://localhost:7068/api/orders/history-seller/2 - - - 204 - - 0.4525ms
+2023-06-28 23:49:30.603 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7068/api/orders/history-seller/2 application/json -
+2023-06-28 23:49:30.603 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7068/api/orders/history-seller/2 application/json -
+2023-06-28 23:49:30.603 +02:00 [INF] CORS policy execution successful.
+2023-06-28 23:49:30.603 +02:00 [INF] CORS policy execution successful.
+2023-06-28 23:49:30.603 +02:00 [INF] requestId: 0HMRO3EQKI2SM:0000002B, previousRequestId: no previous request id, message: EndpointRateLimiting is not enabled for /api/orders/{id}
+2023-06-28 23:49:30.603 +02:00 [INF] requestId: 0HMRO3EQKI2SM:0000002B, previousRequestId: no previous request id, message: EndpointRateLimiting is not enabled for /api/orders/{id}
+2023-06-28 23:49:30.603 +02:00 [INF] requestId: 0HMRO3EQKI2SM:0000002B, previousRequestId: no previous request id, message: No authentication needed for /api/orders/history-seller/2
+2023-06-28 23:49:30.603 +02:00 [INF] requestId: 0HMRO3EQKI2SM:0000002B, previousRequestId: no previous request id, message: No authentication needed for /api/orders/history-seller/2
+2023-06-28 23:49:30.603 +02:00 [INF] requestId: 0HMRO3EQKI2SM:0000002B, previousRequestId: no previous request id, message: /api/orders/{id} route does not require user to be authorised
+2023-06-28 23:49:30.603 +02:00 [INF] requestId: 0HMRO3EQKI2SM:0000002B, previousRequestId: no previous request id, message: /api/orders/{id} route does not require user to be authorised
+2023-06-28 23:49:30.704 +02:00 [INF] requestId: 0HMRO3EQKI2SM:0000002B, previousRequestId: no previous request id, message: 200 (OK) status code, request uri: https://localhost:7108/api/orders/history-seller/2
+2023-06-28 23:49:30.704 +02:00 [INF] requestId: 0HMRO3EQKI2SM:0000002B, previousRequestId: no previous request id, message: 200 (OK) status code, request uri: https://localhost:7108/api/orders/history-seller/2
+2023-06-28 23:49:30.714 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7068/api/orders/history-seller/2 application/json - - 200 834425 application/json;+charset=utf-8 111.4769ms
+2023-06-28 23:49:30.714 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7068/api/orders/history-seller/2 application/json - - 200 834425 application/json;+charset=utf-8 111.4769ms
+2023-06-28 23:49:33.992 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7068/api/orders/history-seller/2 application/json -
+2023-06-28 23:49:33.992 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7068/api/orders/history-seller/2 application/json -
+2023-06-28 23:49:33.992 +02:00 [INF] CORS policy execution successful.
+2023-06-28 23:49:33.992 +02:00 [INF] CORS policy execution successful.
+2023-06-28 23:49:33.992 +02:00 [INF] requestId: 0HMRO3EQKI2SM:0000002D, previousRequestId: no previous request id, message: EndpointRateLimiting is not enabled for /api/orders/{id}
+2023-06-28 23:49:33.992 +02:00 [INF] requestId: 0HMRO3EQKI2SM:0000002D, previousRequestId: no previous request id, message: EndpointRateLimiting is not enabled for /api/orders/{id}
+2023-06-28 23:49:33.992 +02:00 [INF] requestId: 0HMRO3EQKI2SM:0000002D, previousRequestId: no previous request id, message: No authentication needed for /api/orders/history-seller/2
+2023-06-28 23:49:33.992 +02:00 [INF] requestId: 0HMRO3EQKI2SM:0000002D, previousRequestId: no previous request id, message: No authentication needed for /api/orders/history-seller/2
+2023-06-28 23:49:33.992 +02:00 [INF] requestId: 0HMRO3EQKI2SM:0000002D, previousRequestId: no previous request id, message: /api/orders/{id} route does not require user to be authorised
+2023-06-28 23:49:33.992 +02:00 [INF] requestId: 0HMRO3EQKI2SM:0000002D, previousRequestId: no previous request id, message: /api/orders/{id} route does not require user to be authorised
+2023-06-28 23:49:34.093 +02:00 [INF] requestId: 0HMRO3EQKI2SM:0000002D, previousRequestId: no previous request id, message: 200 (OK) status code, request uri: https://localhost:7108/api/orders/history-seller/2
+2023-06-28 23:49:34.093 +02:00 [INF] requestId: 0HMRO3EQKI2SM:0000002D, previousRequestId: no previous request id, message: 200 (OK) status code, request uri: https://localhost:7108/api/orders/history-seller/2
+2023-06-28 23:49:34.099 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7068/api/orders/history-seller/2 application/json - - 200 834425 application/json;+charset=utf-8 106.8210ms
+2023-06-28 23:49:34.099 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7068/api/orders/history-seller/2 application/json - - 200 834425 application/json;+charset=utf-8 106.8210ms
+2023-06-28 23:51:46.014 +02:00 [INF] Request starting HTTP/2 OPTIONS https://localhost:7068/api/products/seller-products/2 - -
+2023-06-28 23:51:46.014 +02:00 [INF] Request starting HTTP/2 OPTIONS https://localhost:7068/api/products/seller-products/2 - -
+2023-06-28 23:51:46.014 +02:00 [INF] CORS policy execution successful.
+2023-06-28 23:51:46.014 +02:00 [INF] CORS policy execution successful.
+2023-06-28 23:51:46.016 +02:00 [INF] Request finished HTTP/2 OPTIONS https://localhost:7068/api/products/seller-products/2 - - - 204 - - 1.8854ms
+2023-06-28 23:51:46.017 +02:00 [INF] Request finished HTTP/2 OPTIONS https://localhost:7068/api/products/seller-products/2 - - - 204 - - 1.8854ms
+2023-06-28 23:51:46.025 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7068/api/products/seller-products/2 application/json -
+2023-06-28 23:51:46.025 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7068/api/products/seller-products/2 application/json -
+2023-06-28 23:51:46.025 +02:00 [INF] CORS policy execution successful.
+2023-06-28 23:51:46.025 +02:00 [INF] CORS policy execution successful.
+2023-06-28 23:51:46.025 +02:00 [INF] requestId: 0HMRO3EQKI2SM:00000031, previousRequestId: no previous request id, message: EndpointRateLimiting is not enabled for /api/products/{id}
+2023-06-28 23:51:46.025 +02:00 [INF] requestId: 0HMRO3EQKI2SM:00000031, previousRequestId: no previous request id, message: EndpointRateLimiting is not enabled for /api/products/{id}
+2023-06-28 23:51:46.025 +02:00 [INF] requestId: 0HMRO3EQKI2SM:00000031, previousRequestId: no previous request id, message: No authentication needed for /api/products/seller-products/2
+2023-06-28 23:51:46.025 +02:00 [INF] requestId: 0HMRO3EQKI2SM:00000031, previousRequestId: no previous request id, message: No authentication needed for /api/products/seller-products/2
+2023-06-28 23:51:46.025 +02:00 [INF] requestId: 0HMRO3EQKI2SM:00000031, previousRequestId: no previous request id, message: /api/products/{id} route does not require user to be authorised
+2023-06-28 23:51:46.025 +02:00 [INF] requestId: 0HMRO3EQKI2SM:00000031, previousRequestId: no previous request id, message: /api/products/{id} route does not require user to be authorised
+2023-06-28 23:51:46.077 +02:00 [INF] requestId: 0HMRO3EQKI2SM:00000031, previousRequestId: no previous request id, message: 200 (OK) status code, request uri: https://localhost:7108/api/products/seller-products/2
+2023-06-28 23:51:46.077 +02:00 [INF] requestId: 0HMRO3EQKI2SM:00000031, previousRequestId: no previous request id, message: 200 (OK) status code, request uri: https://localhost:7108/api/products/seller-products/2
+2023-06-28 23:51:46.080 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7068/api/products/seller-products/2 application/json - - 200 174491 application/json;+charset=utf-8 55.0958ms
+2023-06-28 23:51:46.080 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7068/api/products/seller-products/2 application/json - - 200 174491 application/json;+charset=utf-8 55.0958ms
+2023-06-28 23:51:47.882 +02:00 [INF] Request starting HTTP/2 OPTIONS https://localhost:7068/api/users/2 - -
+2023-06-28 23:51:47.882 +02:00 [INF] Request starting HTTP/2 OPTIONS https://localhost:7068/api/users/2 - -
+2023-06-28 23:51:47.882 +02:00 [INF] CORS policy execution successful.
+2023-06-28 23:51:47.882 +02:00 [INF] CORS policy execution successful.
+2023-06-28 23:51:47.883 +02:00 [INF] Request finished HTTP/2 OPTIONS https://localhost:7068/api/users/2 - - - 204 - - 0.5125ms
+2023-06-28 23:51:47.883 +02:00 [INF] Request finished HTTP/2 OPTIONS https://localhost:7068/api/users/2 - - - 204 - - 0.5125ms
+2023-06-28 23:51:47.885 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7068/api/users/2 application/json -
+2023-06-28 23:51:47.885 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7068/api/users/2 application/json -
+2023-06-28 23:51:47.885 +02:00 [INF] CORS policy execution successful.
+2023-06-28 23:51:47.885 +02:00 [INF] CORS policy execution successful.
+2023-06-28 23:51:47.885 +02:00 [INF] requestId: 0HMRO3EQKI2SM:00000035, previousRequestId: no previous request id, message: EndpointRateLimiting is not enabled for /api/users/{id}
+2023-06-28 23:51:47.885 +02:00 [INF] requestId: 0HMRO3EQKI2SM:00000035, previousRequestId: no previous request id, message: EndpointRateLimiting is not enabled for /api/users/{id}
+2023-06-28 23:51:47.885 +02:00 [INF] requestId: 0HMRO3EQKI2SM:00000035, previousRequestId: no previous request id, message: No authentication needed for /api/users/2
+2023-06-28 23:51:47.885 +02:00 [INF] requestId: 0HMRO3EQKI2SM:00000035, previousRequestId: no previous request id, message: No authentication needed for /api/users/2
+2023-06-28 23:51:47.885 +02:00 [INF] requestId: 0HMRO3EQKI2SM:00000035, previousRequestId: no previous request id, message: /api/users/{id} route does not require user to be authorised
+2023-06-28 23:51:47.885 +02:00 [INF] requestId: 0HMRO3EQKI2SM:00000035, previousRequestId: no previous request id, message: /api/users/{id} route does not require user to be authorised
+2023-06-28 23:51:47.943 +02:00 [INF] requestId: 0HMRO3EQKI2SM:00000035, previousRequestId: no previous request id, message: 200 (OK) status code, request uri: https://localhost:7066/api/users/2
+2023-06-28 23:51:47.943 +02:00 [INF] requestId: 0HMRO3EQKI2SM:00000035, previousRequestId: no previous request id, message: 200 (OK) status code, request uri: https://localhost:7066/api/users/2
+2023-06-28 23:51:47.946 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7068/api/users/2 application/json - - 200 120135 application/json;+charset=utf-8 61.2246ms
+2023-06-28 23:51:47.946 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7068/api/users/2 application/json - - 200 120135 application/json;+charset=utf-8 61.2246ms
+2023-06-28 23:51:56.394 +02:00 [INF] Request starting HTTP/2 OPTIONS https://localhost:7068/api/users/login - -
+2023-06-28 23:51:56.394 +02:00 [INF] Request starting HTTP/2 OPTIONS https://localhost:7068/api/users/login - -
+2023-06-28 23:51:56.394 +02:00 [INF] CORS policy execution successful.
+2023-06-28 23:51:56.394 +02:00 [INF] CORS policy execution successful.
+2023-06-28 23:51:56.394 +02:00 [INF] Request finished HTTP/2 OPTIONS https://localhost:7068/api/users/login - - - 204 - - 0.3034ms
+2023-06-28 23:51:56.394 +02:00 [INF] Request finished HTTP/2 OPTIONS https://localhost:7068/api/users/login - - - 204 - - 0.3034ms
+2023-06-28 23:51:56.396 +02:00 [INF] Request starting HTTP/2 POST https://localhost:7068/api/users/login application/json 72
+2023-06-28 23:51:56.396 +02:00 [INF] Request starting HTTP/2 POST https://localhost:7068/api/users/login application/json 72
+2023-06-28 23:51:56.396 +02:00 [INF] CORS policy execution successful.
+2023-06-28 23:51:56.396 +02:00 [INF] CORS policy execution successful.
+2023-06-28 23:51:56.396 +02:00 [INF] requestId: 0HMRO3EQKI2SM:00000039, previousRequestId: no previous request id, message: EndpointRateLimiting is not enabled for /api/users/login
+2023-06-28 23:51:56.396 +02:00 [INF] requestId: 0HMRO3EQKI2SM:00000039, previousRequestId: no previous request id, message: EndpointRateLimiting is not enabled for /api/users/login
+2023-06-28 23:51:56.396 +02:00 [INF] requestId: 0HMRO3EQKI2SM:00000039, previousRequestId: no previous request id, message: No authentication needed for /api/users/login
+2023-06-28 23:51:56.396 +02:00 [INF] requestId: 0HMRO3EQKI2SM:00000039, previousRequestId: no previous request id, message: No authentication needed for /api/users/login
+2023-06-28 23:51:56.396 +02:00 [INF] requestId: 0HMRO3EQKI2SM:00000039, previousRequestId: no previous request id, message: /api/users/login route does not require user to be authorised
+2023-06-28 23:51:56.396 +02:00 [INF] requestId: 0HMRO3EQKI2SM:00000039, previousRequestId: no previous request id, message: /api/users/login route does not require user to be authorised
+2023-06-28 23:51:56.575 +02:00 [INF] requestId: 0HMRO3EQKI2SM:00000039, previousRequestId: no previous request id, message: 200 (OK) status code, request uri: https://localhost:7066/api/users/login
+2023-06-28 23:51:56.575 +02:00 [INF] requestId: 0HMRO3EQKI2SM:00000039, previousRequestId: no previous request id, message: 200 (OK) status code, request uri: https://localhost:7066/api/users/login
+2023-06-28 23:51:56.576 +02:00 [INF] Request finished HTTP/2 POST https://localhost:7068/api/users/login application/json 72 - 200 350 application/json;+charset=utf-8 180.4983ms
+2023-06-28 23:51:56.576 +02:00 [INF] Request finished HTTP/2 POST https://localhost:7068/api/users/login application/json 72 - 200 350 application/json;+charset=utf-8 180.4983ms
+2023-06-28 23:51:57.706 +02:00 [INF] Request starting HTTP/2 OPTIONS https://localhost:7068/api/products/all - -
+2023-06-28 23:51:57.706 +02:00 [INF] Request starting HTTP/2 OPTIONS https://localhost:7068/api/products/all - -
+2023-06-28 23:51:57.706 +02:00 [INF] CORS policy execution successful.
+2023-06-28 23:51:57.706 +02:00 [INF] CORS policy execution successful.
+2023-06-28 23:51:57.706 +02:00 [INF] Request finished HTTP/2 OPTIONS https://localhost:7068/api/products/all - - - 204 - - 0.5588ms
+2023-06-28 23:51:57.706 +02:00 [INF] Request finished HTTP/2 OPTIONS https://localhost:7068/api/products/all - - - 204 - - 0.5588ms
+2023-06-28 23:51:57.708 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7068/api/products/all application/json -
+2023-06-28 23:51:57.708 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7068/api/products/all application/json -
+2023-06-28 23:51:57.708 +02:00 [INF] CORS policy execution successful.
+2023-06-28 23:51:57.708 +02:00 [INF] CORS policy execution successful.
+2023-06-28 23:51:57.709 +02:00 [INF] requestId: 0HMRO3EQKI2SM:0000003D, previousRequestId: no previous request id, message: EndpointRateLimiting is not enabled for /api/products/all
+2023-06-28 23:51:57.709 +02:00 [INF] requestId: 0HMRO3EQKI2SM:0000003D, previousRequestId: no previous request id, message: EndpointRateLimiting is not enabled for /api/products/all
+2023-06-28 23:51:57.709 +02:00 [INF] requestId: 0HMRO3EQKI2SM:0000003D, previousRequestId: no previous request id, message: No authentication needed for /api/products/all
+2023-06-28 23:51:57.709 +02:00 [INF] requestId: 0HMRO3EQKI2SM:0000003D, previousRequestId: no previous request id, message: No authentication needed for /api/products/all
+2023-06-28 23:51:57.709 +02:00 [INF] requestId: 0HMRO3EQKI2SM:0000003D, previousRequestId: no previous request id, message: /api/products/all route does not require user to be authorised
+2023-06-28 23:51:57.709 +02:00 [INF] requestId: 0HMRO3EQKI2SM:0000003D, previousRequestId: no previous request id, message: /api/products/all route does not require user to be authorised
+2023-06-28 23:51:57.742 +02:00 [INF] requestId: 0HMRO3EQKI2SM:0000003D, previousRequestId: no previous request id, message: 200 (OK) status code, request uri: https://localhost:7108/api/products/all
+2023-06-28 23:51:57.742 +02:00 [INF] requestId: 0HMRO3EQKI2SM:0000003D, previousRequestId: no previous request id, message: 200 (OK) status code, request uri: https://localhost:7108/api/products/all
+2023-06-28 23:51:57.744 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7068/api/products/all application/json - - 200 174491 application/json;+charset=utf-8 36.0528ms
+2023-06-28 23:51:57.744 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7068/api/products/all application/json - - 200 174491 application/json;+charset=utf-8 36.0528ms
+2023-06-28 23:51:59.261 +02:00 [INF] Request starting HTTP/2 OPTIONS https://localhost:7068/api/orders/history-seller/2 - -
+2023-06-28 23:51:59.261 +02:00 [INF] Request starting HTTP/2 OPTIONS https://localhost:7068/api/orders/history-seller/2 - -
+2023-06-28 23:51:59.261 +02:00 [INF] CORS policy execution successful.
+2023-06-28 23:51:59.261 +02:00 [INF] CORS policy execution successful.
+2023-06-28 23:51:59.261 +02:00 [INF] Request finished HTTP/2 OPTIONS https://localhost:7068/api/orders/history-seller/2 - - - 204 - - 0.2364ms
+2023-06-28 23:51:59.261 +02:00 [INF] Request finished HTTP/2 OPTIONS https://localhost:7068/api/orders/history-seller/2 - - - 204 - - 0.2364ms
+2023-06-28 23:51:59.263 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7068/api/orders/history-seller/2 application/json -
+2023-06-28 23:51:59.263 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7068/api/orders/history-seller/2 application/json -
+2023-06-28 23:51:59.263 +02:00 [INF] CORS policy execution successful.
+2023-06-28 23:51:59.263 +02:00 [INF] CORS policy execution successful.
+2023-06-28 23:51:59.263 +02:00 [INF] requestId: 0HMRO3EQKI2SM:00000041, previousRequestId: no previous request id, message: EndpointRateLimiting is not enabled for /api/orders/{id}
+2023-06-28 23:51:59.263 +02:00 [INF] requestId: 0HMRO3EQKI2SM:00000041, previousRequestId: no previous request id, message: EndpointRateLimiting is not enabled for /api/orders/{id}
+2023-06-28 23:51:59.263 +02:00 [INF] requestId: 0HMRO3EQKI2SM:00000041, previousRequestId: no previous request id, message: No authentication needed for /api/orders/history-seller/2
+2023-06-28 23:51:59.263 +02:00 [INF] requestId: 0HMRO3EQKI2SM:00000041, previousRequestId: no previous request id, message: No authentication needed for /api/orders/history-seller/2
+2023-06-28 23:51:59.263 +02:00 [INF] requestId: 0HMRO3EQKI2SM:00000041, previousRequestId: no previous request id, message: /api/orders/{id} route does not require user to be authorised
+2023-06-28 23:51:59.263 +02:00 [INF] requestId: 0HMRO3EQKI2SM:00000041, previousRequestId: no previous request id, message: /api/orders/{id} route does not require user to be authorised
+2023-06-28 23:51:59.278 +02:00 [WRN] requestId: 0HMRO3EQKI2SM:00000041, previousRequestId: no previous request id, message: 403 (Forbidden) status code, request uri: https://localhost:7108/api/orders/history-seller/2
+2023-06-28 23:51:59.278 +02:00 [WRN] requestId: 0HMRO3EQKI2SM:00000041, previousRequestId: no previous request id, message: 403 (Forbidden) status code, request uri: https://localhost:7108/api/orders/history-seller/2
+2023-06-28 23:51:59.279 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7068/api/orders/history-seller/2 application/json - - 403 0 - 16.1470ms
+2023-06-28 23:51:59.279 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7068/api/orders/history-seller/2 application/json - - 403 0 - 16.1470ms
+2023-06-28 23:52:00.752 +02:00 [INF] Request starting HTTP/2 OPTIONS https://localhost:7068/api/orders/history-buyer/3 - -
+2023-06-28 23:52:00.752 +02:00 [INF] Request starting HTTP/2 OPTIONS https://localhost:7068/api/orders/history-buyer/3 - -
+2023-06-28 23:52:00.752 +02:00 [INF] CORS policy execution successful.
+2023-06-28 23:52:00.752 +02:00 [INF] CORS policy execution successful.
+2023-06-28 23:52:00.752 +02:00 [INF] Request finished HTTP/2 OPTIONS https://localhost:7068/api/orders/history-buyer/3 - - - 204 - - 0.4706ms
+2023-06-28 23:52:00.752 +02:00 [INF] Request finished HTTP/2 OPTIONS https://localhost:7068/api/orders/history-buyer/3 - - - 204 - - 0.4706ms
+2023-06-28 23:52:00.753 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7068/api/orders/history-buyer/3 application/json -
+2023-06-28 23:52:00.753 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7068/api/orders/history-buyer/3 application/json -
+2023-06-28 23:52:00.754 +02:00 [INF] CORS policy execution successful.
+2023-06-28 23:52:00.754 +02:00 [INF] CORS policy execution successful.
+2023-06-28 23:52:00.754 +02:00 [INF] requestId: 0HMRO3EQKI2SM:00000045, previousRequestId: no previous request id, message: EndpointRateLimiting is not enabled for /api/orders/{id}
+2023-06-28 23:52:00.754 +02:00 [INF] requestId: 0HMRO3EQKI2SM:00000045, previousRequestId: no previous request id, message: EndpointRateLimiting is not enabled for /api/orders/{id}
+2023-06-28 23:52:00.754 +02:00 [INF] requestId: 0HMRO3EQKI2SM:00000045, previousRequestId: no previous request id, message: No authentication needed for /api/orders/history-buyer/3
+2023-06-28 23:52:00.754 +02:00 [INF] requestId: 0HMRO3EQKI2SM:00000045, previousRequestId: no previous request id, message: No authentication needed for /api/orders/history-buyer/3
+2023-06-28 23:52:00.754 +02:00 [INF] requestId: 0HMRO3EQKI2SM:00000045, previousRequestId: no previous request id, message: /api/orders/{id} route does not require user to be authorised
+2023-06-28 23:52:00.754 +02:00 [INF] requestId: 0HMRO3EQKI2SM:00000045, previousRequestId: no previous request id, message: /api/orders/{id} route does not require user to be authorised
+2023-06-28 23:52:00.827 +02:00 [INF] requestId: 0HMRO3EQKI2SM:00000045, previousRequestId: no previous request id, message: 200 (OK) status code, request uri: https://localhost:7108/api/orders/history-buyer/3
+2023-06-28 23:52:00.827 +02:00 [INF] requestId: 0HMRO3EQKI2SM:00000045, previousRequestId: no previous request id, message: 200 (OK) status code, request uri: https://localhost:7108/api/orders/history-buyer/3
+2023-06-28 23:52:00.833 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7068/api/orders/history-buyer/3 application/json - - 200 834425 application/json;+charset=utf-8 79.6814ms
+2023-06-28 23:52:00.833 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7068/api/orders/history-buyer/3 application/json - - 200 834425 application/json;+charset=utf-8 79.6814ms
+2023-06-28 23:52:07.948 +02:00 [INF] Request starting HTTP/2 OPTIONS https://localhost:7068/api/orders/history-buyer/3 - -
+2023-06-28 23:52:07.948 +02:00 [INF] Request starting HTTP/2 OPTIONS https://localhost:7068/api/orders/history-buyer/3 - -
+2023-06-28 23:52:07.949 +02:00 [INF] CORS policy execution successful.
+2023-06-28 23:52:07.949 +02:00 [INF] CORS policy execution successful.
+2023-06-28 23:52:07.949 +02:00 [INF] Request finished HTTP/2 OPTIONS https://localhost:7068/api/orders/history-buyer/3 - - - 204 - - 0.4437ms
+2023-06-28 23:52:07.949 +02:00 [INF] Request finished HTTP/2 OPTIONS https://localhost:7068/api/orders/history-buyer/3 - - - 204 - - 0.4437ms
+2023-06-28 23:52:07.952 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7068/api/orders/history-buyer/3 application/json -
+2023-06-28 23:52:07.952 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7068/api/orders/history-buyer/3 application/json -
+2023-06-28 23:52:07.952 +02:00 [INF] CORS policy execution successful.
+2023-06-28 23:52:07.952 +02:00 [INF] CORS policy execution successful.
+2023-06-28 23:52:07.952 +02:00 [INF] requestId: 0HMRO3EQKI2SM:00000049, previousRequestId: no previous request id, message: EndpointRateLimiting is not enabled for /api/orders/{id}
+2023-06-28 23:52:07.952 +02:00 [INF] requestId: 0HMRO3EQKI2SM:00000049, previousRequestId: no previous request id, message: EndpointRateLimiting is not enabled for /api/orders/{id}
+2023-06-28 23:52:07.952 +02:00 [INF] requestId: 0HMRO3EQKI2SM:00000049, previousRequestId: no previous request id, message: No authentication needed for /api/orders/history-buyer/3
+2023-06-28 23:52:07.952 +02:00 [INF] requestId: 0HMRO3EQKI2SM:00000049, previousRequestId: no previous request id, message: No authentication needed for /api/orders/history-buyer/3
+2023-06-28 23:52:07.952 +02:00 [INF] requestId: 0HMRO3EQKI2SM:00000049, previousRequestId: no previous request id, message: /api/orders/{id} route does not require user to be authorised
+2023-06-28 23:52:07.952 +02:00 [INF] requestId: 0HMRO3EQKI2SM:00000049, previousRequestId: no previous request id, message: /api/orders/{id} route does not require user to be authorised
+2023-06-28 23:52:08.020 +02:00 [INF] requestId: 0HMRO3EQKI2SM:00000049, previousRequestId: no previous request id, message: 200 (OK) status code, request uri: https://localhost:7108/api/orders/history-buyer/3
+2023-06-28 23:52:08.020 +02:00 [INF] requestId: 0HMRO3EQKI2SM:00000049, previousRequestId: no previous request id, message: 200 (OK) status code, request uri: https://localhost:7108/api/orders/history-buyer/3
+2023-06-28 23:52:08.026 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7068/api/orders/history-buyer/3 application/json - - 200 834425 application/json;+charset=utf-8 74.5282ms
+2023-06-28 23:52:08.026 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7068/api/orders/history-buyer/3 application/json - - 200 834425 application/json;+charset=utf-8 74.5282ms
+2023-06-28 23:52:11.216 +02:00 [INF] Request starting HTTP/2 OPTIONS https://localhost:7068/api/products/all - -
+2023-06-28 23:52:11.217 +02:00 [INF] Request starting HTTP/2 OPTIONS https://localhost:7068/api/products/all - -
+2023-06-28 23:52:11.217 +02:00 [INF] CORS policy execution successful.
+2023-06-28 23:52:11.217 +02:00 [INF] CORS policy execution successful.
+2023-06-28 23:52:11.217 +02:00 [INF] Request finished HTTP/2 OPTIONS https://localhost:7068/api/products/all - - - 204 - - 0.4781ms
+2023-06-28 23:52:11.217 +02:00 [INF] Request finished HTTP/2 OPTIONS https://localhost:7068/api/products/all - - - 204 - - 0.4781ms
+2023-06-28 23:52:11.218 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7068/api/products/all application/json -
+2023-06-28 23:52:11.219 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7068/api/products/all application/json -
+2023-06-28 23:52:11.219 +02:00 [INF] CORS policy execution successful.
+2023-06-28 23:52:11.219 +02:00 [INF] CORS policy execution successful.
+2023-06-28 23:52:11.219 +02:00 [INF] requestId: 0HMRO3EQKI2SM:0000004D, previousRequestId: no previous request id, message: EndpointRateLimiting is not enabled for /api/products/all
+2023-06-28 23:52:11.219 +02:00 [INF] requestId: 0HMRO3EQKI2SM:0000004D, previousRequestId: no previous request id, message: EndpointRateLimiting is not enabled for /api/products/all
+2023-06-28 23:52:11.219 +02:00 [INF] requestId: 0HMRO3EQKI2SM:0000004D, previousRequestId: no previous request id, message: No authentication needed for /api/products/all
+2023-06-28 23:52:11.219 +02:00 [INF] requestId: 0HMRO3EQKI2SM:0000004D, previousRequestId: no previous request id, message: No authentication needed for /api/products/all
+2023-06-28 23:52:11.219 +02:00 [INF] requestId: 0HMRO3EQKI2SM:0000004D, previousRequestId: no previous request id, message: /api/products/all route does not require user to be authorised
+2023-06-28 23:52:11.219 +02:00 [INF] requestId: 0HMRO3EQKI2SM:0000004D, previousRequestId: no previous request id, message: /api/products/all route does not require user to be authorised
+2023-06-28 23:52:11.229 +02:00 [INF] requestId: 0HMRO3EQKI2SM:0000004D, previousRequestId: no previous request id, message: 200 (OK) status code, request uri: https://localhost:7108/api/products/all
+2023-06-28 23:52:11.229 +02:00 [INF] requestId: 0HMRO3EQKI2SM:0000004D, previousRequestId: no previous request id, message: 200 (OK) status code, request uri: https://localhost:7108/api/products/all
+2023-06-28 23:52:11.231 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7068/api/products/all application/json - - 200 174491 application/json;+charset=utf-8 13.0286ms
+2023-06-28 23:52:11.231 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7068/api/products/all application/json - - 200 174491 application/json;+charset=utf-8 13.0286ms
+2023-06-28 23:52:12.976 +02:00 [INF] Request starting HTTP/2 OPTIONS https://localhost:7068/api/orders/history-buyer/3 - -
+2023-06-28 23:52:12.977 +02:00 [INF] Request starting HTTP/2 OPTIONS https://localhost:7068/api/orders/history-buyer/3 - -
+2023-06-28 23:52:12.977 +02:00 [INF] CORS policy execution successful.
+2023-06-28 23:52:12.977 +02:00 [INF] CORS policy execution successful.
+2023-06-28 23:52:12.977 +02:00 [INF] Request finished HTTP/2 OPTIONS https://localhost:7068/api/orders/history-buyer/3 - - - 204 - - 0.4400ms
+2023-06-28 23:52:12.977 +02:00 [INF] Request finished HTTP/2 OPTIONS https://localhost:7068/api/orders/history-buyer/3 - - - 204 - - 0.4400ms
+2023-06-28 23:52:12.979 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7068/api/orders/history-buyer/3 application/json -
+2023-06-28 23:52:12.979 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7068/api/orders/history-buyer/3 application/json -
+2023-06-28 23:52:12.979 +02:00 [INF] CORS policy execution successful.
+2023-06-28 23:52:12.979 +02:00 [INF] CORS policy execution successful.
+2023-06-28 23:52:12.979 +02:00 [INF] requestId: 0HMRO3EQKI2SM:00000051, previousRequestId: no previous request id, message: EndpointRateLimiting is not enabled for /api/orders/{id}
+2023-06-28 23:52:12.979 +02:00 [INF] requestId: 0HMRO3EQKI2SM:00000051, previousRequestId: no previous request id, message: EndpointRateLimiting is not enabled for /api/orders/{id}
+2023-06-28 23:52:12.979 +02:00 [INF] requestId: 0HMRO3EQKI2SM:00000051, previousRequestId: no previous request id, message: No authentication needed for /api/orders/history-buyer/3
+2023-06-28 23:52:12.979 +02:00 [INF] requestId: 0HMRO3EQKI2SM:00000051, previousRequestId: no previous request id, message: No authentication needed for /api/orders/history-buyer/3
+2023-06-28 23:52:12.979 +02:00 [INF] requestId: 0HMRO3EQKI2SM:00000051, previousRequestId: no previous request id, message: /api/orders/{id} route does not require user to be authorised
+2023-06-28 23:52:12.979 +02:00 [INF] requestId: 0HMRO3EQKI2SM:00000051, previousRequestId: no previous request id, message: /api/orders/{id} route does not require user to be authorised
+2023-06-28 23:52:13.041 +02:00 [INF] requestId: 0HMRO3EQKI2SM:00000051, previousRequestId: no previous request id, message: 200 (OK) status code, request uri: https://localhost:7108/api/orders/history-buyer/3
+2023-06-28 23:52:13.041 +02:00 [INF] requestId: 0HMRO3EQKI2SM:00000051, previousRequestId: no previous request id, message: 200 (OK) status code, request uri: https://localhost:7108/api/orders/history-buyer/3
+2023-06-28 23:52:13.045 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7068/api/orders/history-buyer/3 application/json - - 200 834425 application/json;+charset=utf-8 67.0178ms
+2023-06-28 23:52:13.046 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7068/api/orders/history-buyer/3 application/json - - 200 834425 application/json;+charset=utf-8 67.0178ms
+2023-06-28 23:52:28.318 +02:00 [INF] Request starting HTTP/2 OPTIONS https://localhost:7068/api/users/3 - -
+2023-06-28 23:52:28.318 +02:00 [INF] Request starting HTTP/2 OPTIONS https://localhost:7068/api/users/3 - -
+2023-06-28 23:52:28.318 +02:00 [INF] CORS policy execution successful.
+2023-06-28 23:52:28.318 +02:00 [INF] CORS policy execution successful.
+2023-06-28 23:52:28.318 +02:00 [INF] Request finished HTTP/2 OPTIONS https://localhost:7068/api/users/3 - - - 204 - - 0.2822ms
+2023-06-28 23:52:28.318 +02:00 [INF] Request finished HTTP/2 OPTIONS https://localhost:7068/api/users/3 - - - 204 - - 0.2822ms
+2023-06-28 23:52:28.325 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7068/api/users/3 application/json -
+2023-06-28 23:52:28.325 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7068/api/users/3 application/json -
+2023-06-28 23:52:28.325 +02:00 [INF] CORS policy execution successful.
+2023-06-28 23:52:28.325 +02:00 [INF] CORS policy execution successful.
+2023-06-28 23:52:28.325 +02:00 [INF] requestId: 0HMRO3EQKI2SM:00000055, previousRequestId: no previous request id, message: EndpointRateLimiting is not enabled for /api/users/{id}
+2023-06-28 23:52:28.325 +02:00 [INF] requestId: 0HMRO3EQKI2SM:00000055, previousRequestId: no previous request id, message: EndpointRateLimiting is not enabled for /api/users/{id}
+2023-06-28 23:52:28.325 +02:00 [INF] requestId: 0HMRO3EQKI2SM:00000055, previousRequestId: no previous request id, message: No authentication needed for /api/users/3
+2023-06-28 23:52:28.325 +02:00 [INF] requestId: 0HMRO3EQKI2SM:00000055, previousRequestId: no previous request id, message: No authentication needed for /api/users/3
+2023-06-28 23:52:28.325 +02:00 [INF] requestId: 0HMRO3EQKI2SM:00000055, previousRequestId: no previous request id, message: /api/users/{id} route does not require user to be authorised
+2023-06-28 23:52:28.325 +02:00 [INF] requestId: 0HMRO3EQKI2SM:00000055, previousRequestId: no previous request id, message: /api/users/{id} route does not require user to be authorised
+2023-06-28 23:52:28.355 +02:00 [INF] requestId: 0HMRO3EQKI2SM:00000055, previousRequestId: no previous request id, message: 200 (OK) status code, request uri: https://localhost:7066/api/users/3
+2023-06-28 23:52:28.355 +02:00 [INF] requestId: 0HMRO3EQKI2SM:00000055, previousRequestId: no previous request id, message: 200 (OK) status code, request uri: https://localhost:7066/api/users/3
+2023-06-28 23:52:28.360 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7068/api/users/3 application/json - - 200 83362 application/json;+charset=utf-8 35.8480ms
+2023-06-28 23:52:28.360 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7068/api/users/3 application/json - - 200 83362 application/json;+charset=utf-8 35.8480ms

@@ -1,13 +1,13 @@
 {
   "Version": 1,
-  "Hash": "JTirwHkoUkd9AaTbTjQ7BsKile8aCFCP5JLV4pqWaKc=",
+  "Hash": "ZlS8bMd0ZKjAOy/Ir0nJLqLlZki6OPhzRNddxUYHiUA=",
   "Source": "UserMS",
   "BasePath": "_content/UserMS",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [
     {
-      "Identity": "D:\\E3 PSI\\8. Semestar\\working\\web-shop\\web-shop\\BackendWebApp\\WebShopAPI\\WebShopAPI.Gateway\\WebShopAPI.Gateway.csproj",
+      "Identity": "D:\\E3 PSI\\8. Semestar\\workingV1\\web-shop\\web-shopv2\\BackendWebApp\\WebShopAPI\\WebShopAPI.Gateway\\WebShopAPI.Gateway.csproj",
       "Version": 2,
       "Source": "WebShopAPI.Gateway",
       "GetPublishAssetsTargets": "ComputeReferencedStaticWebAssetsPublishManifest;GetCurrentProjectPublishStaticWebAssetItems",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "8DIXAaul4owrIcQxXnNx79SJ2eHKnUlwL6JRlaNHM7w1BDNjqBYjzJyNINUEfS/48OZ4Q25y8CIBOMFbR+ivRA==",
+  "dgSpecHash": "HCa+OgmPctxppXGDWqSXNyKBuW8OK3NWC9Sq5Ai4PjtDcbhsfWlZfmKJZOL9wsR4jgNP2Zsvs5IZUDdVJqFstg==",
   "success": true,
-  "projectFilePath": "D:\\E3 PSI\\8. Semestar\\working\\web-shop\\web-shop\\BackendWebApp\\WebShopAPI\\WebShopAPI\\WebShopAPI.csproj",
+  "projectFilePath": "D:\\E3 PSI\\8. Semestar\\workingV1\\web-shop\\web-shopv2\\BackendWebApp\\WebShopAPI\\WebShopAPI\\WebShopAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Milos\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\Milos\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",

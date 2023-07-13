@@ -10,3 +10,15 @@ D:\E3 PSI\8. Semestar\working\web-shop\web-shop\BackendWebApp\WebShopAPI\WebShop
 D:\E3 PSI\8. Semestar\working\web-shop\web-shop\BackendWebApp\WebShopAPI\WebShopAPI.Models\obj\Debug\net6.0\refint\WebShopAPI.Models.dll
 D:\E3 PSI\8. Semestar\working\web-shop\web-shop\BackendWebApp\WebShopAPI\WebShopAPI.Models\obj\Debug\net6.0\WebShopAPI.Models.pdb
 D:\E3 PSI\8. Semestar\working\web-shop\web-shop\BackendWebApp\WebShopAPI\WebShopAPI.Models\obj\Debug\net6.0\ref\WebShopAPI.Models.dll
+D:\E3 PSI\8. Semestar\workingV1\web-shop\web-shopv2\BackendWebApp\WebShopAPI\WebShopAPI.Models\bin\Debug\net6.0\WebShopAPI.Models.deps.json
+D:\E3 PSI\8. Semestar\workingV1\web-shop\web-shopv2\BackendWebApp\WebShopAPI\WebShopAPI.Models\bin\Debug\net6.0\WebShopAPI.Models.dll
+D:\E3 PSI\8. Semestar\workingV1\web-shop\web-shopv2\BackendWebApp\WebShopAPI\WebShopAPI.Models\bin\Debug\net6.0\WebShopAPI.Models.pdb
+D:\E3 PSI\8. Semestar\workingV1\web-shop\web-shopv2\BackendWebApp\WebShopAPI\WebShopAPI.Models\obj\Debug\net6.0\WebShopAPI.Models.csproj.AssemblyReference.cache
+D:\E3 PSI\8. Semestar\workingV1\web-shop\web-shopv2\BackendWebApp\WebShopAPI\WebShopAPI.Models\obj\Debug\net6.0\WebShopAPI.Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\E3 PSI\8. Semestar\workingV1\web-shop\web-shopv2\BackendWebApp\WebShopAPI\WebShopAPI.Models\obj\Debug\net6.0\WebShopAPI.Models.AssemblyInfoInputs.cache
+D:\E3 PSI\8. Semestar\workingV1\web-shop\web-shopv2\BackendWebApp\WebShopAPI\WebShopAPI.Models\obj\Debug\net6.0\WebShopAPI.Models.AssemblyInfo.cs
+D:\E3 PSI\8. Semestar\workingV1\web-shop\web-shopv2\BackendWebApp\WebShopAPI\WebShopAPI.Models\obj\Debug\net6.0\WebShopAPI.Models.csproj.CoreCompileInputs.cache
+D:\E3 PSI\8. Semestar\workingV1\web-shop\web-shopv2\BackendWebApp\WebShopAPI\WebShopAPI.Models\obj\Debug\net6.0\WebShopAPI.Models.dll
+D:\E3 PSI\8. Semestar\workingV1\web-shop\web-shopv2\BackendWebApp\WebShopAPI\WebShopAPI.Models\obj\Debug\net6.0\refint\WebShopAPI.Models.dll
+D:\E3 PSI\8. Semestar\workingV1\web-shop\web-shopv2\BackendWebApp\WebShopAPI\WebShopAPI.Models\obj\Debug\net6.0\WebShopAPI.Models.pdb
+D:\E3 PSI\8. Semestar\workingV1\web-shop\web-shopv2\BackendWebApp\WebShopAPI\WebShopAPI.Models\obj\Debug\net6.0\ref\WebShopAPI.Models.dll

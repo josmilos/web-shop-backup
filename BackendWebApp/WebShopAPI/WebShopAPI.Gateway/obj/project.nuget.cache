@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "gJW/50F6VSzy4dJsq+YqtWUzfdxZC/5r8sL1XgfPrUjuZPr+rB4pS8bx9w92wC1+n393rR0reDTY1Lk+AoX7FQ==",
+  "dgSpecHash": "/b0bUC+xXCtHRfgvWhEY9ytULib2wx/mGeNerZ1PvMVb+hl3fAJNTbUkIQsDXANJ/jzYw7UhGsfP1aZzad1stw==",
   "success": true,
-  "projectFilePath": "D:\\E3 PSI\\8. Semestar\\working\\web-shop\\web-shop\\BackendWebApp\\WebShopAPI\\WebShopAPI.Gateway\\WebShopAPI.Gateway.csproj",
+  "projectFilePath": "D:\\E3 PSI\\8. Semestar\\workingV1\\web-shop\\web-shopv2\\BackendWebApp\\WebShopAPI\\WebShopAPI.Gateway\\WebShopAPI.Gateway.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Milos\\.nuget\\packages\\cachemanager.core\\2.0.0-beta-1629\\cachemanager.core.2.0.0-beta-1629.nupkg.sha512",
     "C:\\Users\\Milos\\.nuget\\packages\\cachemanager.microsoft.extensions.configuration\\2.0.0-beta-1629\\cachemanager.microsoft.extensions.configuration.2.0.0-beta-1629.nupkg.sha512",

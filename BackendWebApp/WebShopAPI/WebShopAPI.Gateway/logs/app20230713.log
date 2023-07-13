@@ -1,0 +1,215 @@
+2023-07-13 22:22:57.252 +02:00 [INF] User profile is available. Using 'C:\Users\Milos\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2023-07-13 22:22:57.915 +02:00 [INF] Now listening on: https://localhost:7068
+2023-07-13 22:22:57.922 +02:00 [INF] Now listening on: https://localhost:7068
+2023-07-13 22:22:57.922 +02:00 [INF] Now listening on: http://localhost:5182
+2023-07-13 22:22:57.922 +02:00 [INF] Now listening on: http://localhost:5182
+2023-07-13 22:22:57.926 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-07-13 22:22:57.929 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-07-13 22:22:57.929 +02:00 [INF] Hosting environment: Development
+2023-07-13 22:22:57.930 +02:00 [INF] Hosting environment: Development
+2023-07-13 22:22:57.930 +02:00 [INF] Content root path: D:\E3 PSI\8. Semestar\workingV1\web-shop\web-shopv2\BackendWebApp\WebShopAPI\WebShopAPI.Gateway
+2023-07-13 22:22:57.930 +02:00 [INF] Content root path: D:\E3 PSI\8. Semestar\workingV1\web-shop\web-shopv2\BackendWebApp\WebShopAPI\WebShopAPI.Gateway
+2023-07-13 22:22:58.747 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7068/swagger - -
+2023-07-13 22:22:58.752 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7068/swagger - -
+2023-07-13 22:22:59.001 +02:00 [INF] requestId: 0HMS3RRPDLJ8J:00000001, previousRequestId: no previous request id, message: EndpointRateLimiting is not enabled for /swagger/index.html
+2023-07-13 22:22:59.001 +02:00 [INF] requestId: 0HMS3RRPDLJ8J:00000001, previousRequestId: no previous request id, message: EndpointRateLimiting is not enabled for /swagger/index.html
+2023-07-13 22:22:59.016 +02:00 [INF] requestId: 0HMS3RRPDLJ8J:00000001, previousRequestId: no previous request id, message: No authentication needed for /swagger
+2023-07-13 22:22:59.016 +02:00 [INF] requestId: 0HMS3RRPDLJ8J:00000001, previousRequestId: no previous request id, message: No authentication needed for /swagger
+2023-07-13 22:22:59.023 +02:00 [INF] requestId: 0HMS3RRPDLJ8J:00000001, previousRequestId: no previous request id, message: /swagger/index.html route does not require user to be authorised
+2023-07-13 22:22:59.023 +02:00 [INF] requestId: 0HMS3RRPDLJ8J:00000001, previousRequestId: no previous request id, message: /swagger/index.html route does not require user to be authorised
+2023-07-13 22:22:59.245 +02:00 [INF] requestId: 0HMS3RRPDLJ8J:00000001, previousRequestId: no previous request id, message: 200 (OK) status code, request uri: https://localhost:7108/swagger/index.html
+2023-07-13 22:22:59.245 +02:00 [INF] requestId: 0HMS3RRPDLJ8J:00000001, previousRequestId: no previous request id, message: 200 (OK) status code, request uri: https://localhost:7108/swagger/index.html
+2023-07-13 22:22:59.400 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7068/swagger - - - 200 - text/html;+charset=utf-8 659.8477ms
+2023-07-13 22:22:59.400 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7068/swagger - - - 200 - text/html;+charset=utf-8 659.8477ms
+2023-07-13 22:22:59.452 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7068/swagger-ui-standalone-preset.js - -
+2023-07-13 22:22:59.452 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7068/swagger-ui-bundle.js - -
+2023-07-13 22:22:59.452 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7068/_framework/aspnetcore-browser-refresh.js - -
+2023-07-13 22:22:59.452 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7068/swagger-ui-bundle.js - -
+2023-07-13 22:22:59.452 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7068/_framework/aspnetcore-browser-refresh.js - -
+2023-07-13 22:22:59.452 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7068/swagger-ui-standalone-preset.js - -
+2023-07-13 22:22:59.452 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7068/swagger-ui.css - -
+2023-07-13 22:22:59.452 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7068/_vs/browserLink - -
+2023-07-13 22:22:59.452 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7068/swagger-ui.css - -
+2023-07-13 22:22:59.454 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7068/_vs/browserLink - -
+2023-07-13 22:22:59.467 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7068/_framework/aspnetcore-browser-refresh.js - - - 200 12006 application/javascript;+charset=utf-8 15.3272ms
+2023-07-13 22:22:59.467 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7068/_framework/aspnetcore-browser-refresh.js - - - 200 12006 application/javascript;+charset=utf-8 15.3272ms
+2023-07-13 22:22:59.480 +02:00 [WRN] requestId: 0HMS3RRPDLJ8J:00000005, previousRequestId: no previous request id, message: DownstreamRouteFinderMiddleware setting pipeline errors. IDownstreamRouteFinder returned Error Code: UnableToFindDownstreamRouteError Message: Failed to match Route configuration for upstream path: /swagger-ui-bundle.js, verb: GET.
+2023-07-13 22:22:59.480 +02:00 [WRN] requestId: 0HMS3RRPDLJ8J:00000005, previousRequestId: no previous request id, message: DownstreamRouteFinderMiddleware setting pipeline errors. IDownstreamRouteFinder returned Error Code: UnableToFindDownstreamRouteError Message: Failed to match Route configuration for upstream path: /swagger-ui-bundle.js, verb: GET.
+2023-07-13 22:22:59.480 +02:00 [WRN] requestId: 0HMS3RRPDLJ8J:00000005, previousRequestId: no previous request id, message: Error Code: UnableToFindDownstreamRouteError Message: Failed to match Route configuration for upstream path: /swagger-ui-bundle.js, verb: GET. errors found in ResponderMiddleware. Setting error response for request path:/swagger-ui-bundle.js, request method: GET
+2023-07-13 22:22:59.480 +02:00 [WRN] requestId: 0HMS3RRPDLJ8J:00000005, previousRequestId: no previous request id, message: Error Code: UnableToFindDownstreamRouteError Message: Failed to match Route configuration for upstream path: /swagger-ui-bundle.js, verb: GET. errors found in ResponderMiddleware. Setting error response for request path:/swagger-ui-bundle.js, request method: GET
+2023-07-13 22:22:59.481 +02:00 [WRN] requestId: 0HMS3RRPDLJ8J:00000003, previousRequestId: no previous request id, message: DownstreamRouteFinderMiddleware setting pipeline errors. IDownstreamRouteFinder returned Error Code: UnableToFindDownstreamRouteError Message: Failed to match Route configuration for upstream path: /swagger-ui.css, verb: GET.
+2023-07-13 22:22:59.481 +02:00 [WRN] requestId: 0HMS3RRPDLJ8J:00000003, previousRequestId: no previous request id, message: DownstreamRouteFinderMiddleware setting pipeline errors. IDownstreamRouteFinder returned Error Code: UnableToFindDownstreamRouteError Message: Failed to match Route configuration for upstream path: /swagger-ui.css, verb: GET.
+2023-07-13 22:22:59.481 +02:00 [WRN] requestId: 0HMS3RRPDLJ8J:00000003, previousRequestId: no previous request id, message: Error Code: UnableToFindDownstreamRouteError Message: Failed to match Route configuration for upstream path: /swagger-ui.css, verb: GET. errors found in ResponderMiddleware. Setting error response for request path:/swagger-ui.css, request method: GET
+2023-07-13 22:22:59.481 +02:00 [WRN] requestId: 0HMS3RRPDLJ8J:00000003, previousRequestId: no previous request id, message: Error Code: UnableToFindDownstreamRouteError Message: Failed to match Route configuration for upstream path: /swagger-ui.css, verb: GET. errors found in ResponderMiddleware. Setting error response for request path:/swagger-ui.css, request method: GET
+2023-07-13 22:22:59.485 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7068/swagger-ui-bundle.js - - - 404 0 - 33.3474ms
+2023-07-13 22:22:59.485 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7068/swagger-ui.css - - - 404 0 - 33.0593ms
+2023-07-13 22:22:59.485 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7068/swagger-ui-bundle.js - - - 404 0 - 33.3474ms
+2023-07-13 22:22:59.485 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7068/swagger-ui.css - - - 404 0 - 33.0593ms
+2023-07-13 22:22:59.487 +02:00 [WRN] requestId: 0HMS3RRPDLJ8J:00000007, previousRequestId: no previous request id, message: DownstreamRouteFinderMiddleware setting pipeline errors. IDownstreamRouteFinder returned Error Code: UnableToFindDownstreamRouteError Message: Failed to match Route configuration for upstream path: /swagger-ui-standalone-preset.js, verb: GET.
+2023-07-13 22:22:59.487 +02:00 [WRN] requestId: 0HMS3RRPDLJ8J:00000007, previousRequestId: no previous request id, message: DownstreamRouteFinderMiddleware setting pipeline errors. IDownstreamRouteFinder returned Error Code: UnableToFindDownstreamRouteError Message: Failed to match Route configuration for upstream path: /swagger-ui-standalone-preset.js, verb: GET.
+2023-07-13 22:22:59.487 +02:00 [WRN] requestId: 0HMS3RRPDLJ8J:00000007, previousRequestId: no previous request id, message: Error Code: UnableToFindDownstreamRouteError Message: Failed to match Route configuration for upstream path: /swagger-ui-standalone-preset.js, verb: GET. errors found in ResponderMiddleware. Setting error response for request path:/swagger-ui-standalone-preset.js, request method: GET
+2023-07-13 22:22:59.487 +02:00 [WRN] requestId: 0HMS3RRPDLJ8J:00000007, previousRequestId: no previous request id, message: Error Code: UnableToFindDownstreamRouteError Message: Failed to match Route configuration for upstream path: /swagger-ui-standalone-preset.js, verb: GET. errors found in ResponderMiddleware. Setting error response for request path:/swagger-ui-standalone-preset.js, request method: GET
+2023-07-13 22:22:59.488 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7068/swagger-ui-standalone-preset.js - - - 404 0 - 35.8091ms
+2023-07-13 22:22:59.488 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7068/swagger-ui-standalone-preset.js - - - 404 0 - 35.8091ms
+2023-07-13 22:22:59.516 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7068/_framework/aspnetcore-browser-refresh.js - -
+2023-07-13 22:22:59.516 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7068/_framework/aspnetcore-browser-refresh.js - -
+2023-07-13 22:22:59.523 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7068/_framework/aspnetcore-browser-refresh.js - - - 200 12006 application/javascript;+charset=utf-8 7.1735ms
+2023-07-13 22:22:59.523 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7068/_framework/aspnetcore-browser-refresh.js - - - 200 12006 application/javascript;+charset=utf-8 7.1735ms
+2023-07-13 22:22:59.547 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7068/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 95.3123ms
+2023-07-13 22:22:59.548 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7068/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 95.3123ms
+2023-07-13 22:22:59.622 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7068/favicon-32x32.png - -
+2023-07-13 22:22:59.622 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7068/favicon-32x32.png - -
+2023-07-13 22:22:59.629 +02:00 [WRN] requestId: 0HMS3RRPDLJ8J:0000000F, previousRequestId: no previous request id, message: DownstreamRouteFinderMiddleware setting pipeline errors. IDownstreamRouteFinder returned Error Code: UnableToFindDownstreamRouteError Message: Failed to match Route configuration for upstream path: /favicon-32x32.png, verb: GET.
+2023-07-13 22:22:59.630 +02:00 [WRN] requestId: 0HMS3RRPDLJ8J:0000000F, previousRequestId: no previous request id, message: DownstreamRouteFinderMiddleware setting pipeline errors. IDownstreamRouteFinder returned Error Code: UnableToFindDownstreamRouteError Message: Failed to match Route configuration for upstream path: /favicon-32x32.png, verb: GET.
+2023-07-13 22:22:59.630 +02:00 [WRN] requestId: 0HMS3RRPDLJ8J:0000000F, previousRequestId: no previous request id, message: Error Code: UnableToFindDownstreamRouteError Message: Failed to match Route configuration for upstream path: /favicon-32x32.png, verb: GET. errors found in ResponderMiddleware. Setting error response for request path:/favicon-32x32.png, request method: GET
+2023-07-13 22:22:59.630 +02:00 [WRN] requestId: 0HMS3RRPDLJ8J:0000000F, previousRequestId: no previous request id, message: Error Code: UnableToFindDownstreamRouteError Message: Failed to match Route configuration for upstream path: /favicon-32x32.png, verb: GET. errors found in ResponderMiddleware. Setting error response for request path:/favicon-32x32.png, request method: GET
+2023-07-13 22:22:59.630 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7068/favicon-32x32.png - - - 404 0 - 8.6296ms
+2023-07-13 22:22:59.630 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7068/favicon-32x32.png - - - 404 0 - 8.6296ms
+2023-07-13 22:22:59.652 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7068/favicon-16x16.png - -
+2023-07-13 22:22:59.652 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7068/favicon-16x16.png - -
+2023-07-13 22:22:59.653 +02:00 [WRN] requestId: 0HMS3RRPDLJ8J:00000011, previousRequestId: no previous request id, message: DownstreamRouteFinderMiddleware setting pipeline errors. IDownstreamRouteFinder returned Error Code: UnableToFindDownstreamRouteError Message: Failed to match Route configuration for upstream path: /favicon-16x16.png, verb: GET.
+2023-07-13 22:22:59.653 +02:00 [WRN] requestId: 0HMS3RRPDLJ8J:00000011, previousRequestId: no previous request id, message: DownstreamRouteFinderMiddleware setting pipeline errors. IDownstreamRouteFinder returned Error Code: UnableToFindDownstreamRouteError Message: Failed to match Route configuration for upstream path: /favicon-16x16.png, verb: GET.
+2023-07-13 22:22:59.653 +02:00 [WRN] requestId: 0HMS3RRPDLJ8J:00000011, previousRequestId: no previous request id, message: Error Code: UnableToFindDownstreamRouteError Message: Failed to match Route configuration for upstream path: /favicon-16x16.png, verb: GET. errors found in ResponderMiddleware. Setting error response for request path:/favicon-16x16.png, request method: GET
+2023-07-13 22:22:59.653 +02:00 [WRN] requestId: 0HMS3RRPDLJ8J:00000011, previousRequestId: no previous request id, message: Error Code: UnableToFindDownstreamRouteError Message: Failed to match Route configuration for upstream path: /favicon-16x16.png, verb: GET. errors found in ResponderMiddleware. Setting error response for request path:/favicon-16x16.png, request method: GET
+2023-07-13 22:22:59.653 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7068/favicon-16x16.png - - - 404 0 - 1.6937ms
+2023-07-13 22:22:59.653 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7068/favicon-16x16.png - - - 404 0 - 1.6937ms
+2023-07-13 22:24:51.614 +02:00 [INF] Request starting HTTP/2 OPTIONS https://localhost:7068/api/users/login - -
+2023-07-13 22:24:51.614 +02:00 [INF] Request starting HTTP/2 OPTIONS https://localhost:7068/api/users/login - -
+2023-07-13 22:24:51.630 +02:00 [INF] CORS policy execution successful.
+2023-07-13 22:24:51.631 +02:00 [INF] CORS policy execution successful.
+2023-07-13 22:24:51.633 +02:00 [INF] Request finished HTTP/2 OPTIONS https://localhost:7068/api/users/login - - - 204 - - 19.0638ms
+2023-07-13 22:24:51.633 +02:00 [INF] Request finished HTTP/2 OPTIONS https://localhost:7068/api/users/login - - - 204 - - 19.0638ms
+2023-07-13 22:24:51.636 +02:00 [INF] Request starting HTTP/2 POST https://localhost:7068/api/users/login application/json 74
+2023-07-13 22:24:51.636 +02:00 [INF] Request starting HTTP/2 POST https://localhost:7068/api/users/login application/json 74
+2023-07-13 22:24:51.636 +02:00 [INF] CORS policy execution successful.
+2023-07-13 22:24:51.636 +02:00 [INF] CORS policy execution successful.
+2023-07-13 22:24:51.644 +02:00 [INF] requestId: 0HMS3RRPDLJ8K:00000003, previousRequestId: no previous request id, message: EndpointRateLimiting is not enabled for /api/users/login
+2023-07-13 22:24:51.644 +02:00 [INF] requestId: 0HMS3RRPDLJ8K:00000003, previousRequestId: no previous request id, message: EndpointRateLimiting is not enabled for /api/users/login
+2023-07-13 22:24:51.645 +02:00 [INF] requestId: 0HMS3RRPDLJ8K:00000003, previousRequestId: no previous request id, message: No authentication needed for /api/users/login
+2023-07-13 22:24:51.645 +02:00 [INF] requestId: 0HMS3RRPDLJ8K:00000003, previousRequestId: no previous request id, message: No authentication needed for /api/users/login
+2023-07-13 22:24:51.645 +02:00 [INF] requestId: 0HMS3RRPDLJ8K:00000003, previousRequestId: no previous request id, message: /api/users/login route does not require user to be authorised
+2023-07-13 22:24:51.645 +02:00 [INF] requestId: 0HMS3RRPDLJ8K:00000003, previousRequestId: no previous request id, message: /api/users/login route does not require user to be authorised
+2023-07-13 22:24:54.166 +02:00 [INF] requestId: 0HMS3RRPDLJ8K:00000003, previousRequestId: no previous request id, message: 400 (Bad Request) status code, request uri: https://localhost:7066/api/users/login
+2023-07-13 22:24:54.166 +02:00 [INF] requestId: 0HMS3RRPDLJ8K:00000003, previousRequestId: no previous request id, message: 400 (Bad Request) status code, request uri: https://localhost:7066/api/users/login
+2023-07-13 22:24:54.167 +02:00 [INF] Request finished HTTP/2 POST https://localhost:7068/api/users/login application/json 74 - 400 58 application/json;+charset=utf-8 2531.5278ms
+2023-07-13 22:24:54.167 +02:00 [INF] Request finished HTTP/2 POST https://localhost:7068/api/users/login application/json 74 - 400 58 application/json;+charset=utf-8 2531.5278ms
+2023-07-13 22:25:00.189 +02:00 [INF] Request starting HTTP/2 OPTIONS https://localhost:7068/api/users/login - -
+2023-07-13 22:25:00.189 +02:00 [INF] Request starting HTTP/2 OPTIONS https://localhost:7068/api/users/login - -
+2023-07-13 22:25:00.189 +02:00 [INF] CORS policy execution successful.
+2023-07-13 22:25:00.189 +02:00 [INF] CORS policy execution successful.
+2023-07-13 22:25:00.189 +02:00 [INF] Request finished HTTP/2 OPTIONS https://localhost:7068/api/users/login - - - 204 - - 0.2597ms
+2023-07-13 22:25:00.189 +02:00 [INF] Request finished HTTP/2 OPTIONS https://localhost:7068/api/users/login - - - 204 - - 0.2597ms
+2023-07-13 22:25:00.190 +02:00 [INF] Request starting HTTP/2 POST https://localhost:7068/api/users/login application/json 71
+2023-07-13 22:25:00.191 +02:00 [INF] Request starting HTTP/2 POST https://localhost:7068/api/users/login application/json 71
+2023-07-13 22:25:00.191 +02:00 [INF] CORS policy execution successful.
+2023-07-13 22:25:00.191 +02:00 [INF] CORS policy execution successful.
+2023-07-13 22:25:00.191 +02:00 [INF] requestId: 0HMS3RRPDLJ8K:00000007, previousRequestId: no previous request id, message: EndpointRateLimiting is not enabled for /api/users/login
+2023-07-13 22:25:00.191 +02:00 [INF] requestId: 0HMS3RRPDLJ8K:00000007, previousRequestId: no previous request id, message: EndpointRateLimiting is not enabled for /api/users/login
+2023-07-13 22:25:00.191 +02:00 [INF] requestId: 0HMS3RRPDLJ8K:00000007, previousRequestId: no previous request id, message: No authentication needed for /api/users/login
+2023-07-13 22:25:00.191 +02:00 [INF] requestId: 0HMS3RRPDLJ8K:00000007, previousRequestId: no previous request id, message: No authentication needed for /api/users/login
+2023-07-13 22:25:00.191 +02:00 [INF] requestId: 0HMS3RRPDLJ8K:00000007, previousRequestId: no previous request id, message: /api/users/login route does not require user to be authorised
+2023-07-13 22:25:00.191 +02:00 [INF] requestId: 0HMS3RRPDLJ8K:00000007, previousRequestId: no previous request id, message: /api/users/login route does not require user to be authorised
+2023-07-13 22:25:00.383 +02:00 [INF] requestId: 0HMS3RRPDLJ8K:00000007, previousRequestId: no previous request id, message: 400 (Bad Request) status code, request uri: https://localhost:7066/api/users/login
+2023-07-13 22:25:00.383 +02:00 [INF] requestId: 0HMS3RRPDLJ8K:00000007, previousRequestId: no previous request id, message: 400 (Bad Request) status code, request uri: https://localhost:7066/api/users/login
+2023-07-13 22:25:00.384 +02:00 [INF] Request finished HTTP/2 POST https://localhost:7068/api/users/login application/json 71 - 400 58 application/json;+charset=utf-8 193.6443ms
+2023-07-13 22:25:00.384 +02:00 [INF] Request finished HTTP/2 POST https://localhost:7068/api/users/login application/json 71 - 400 58 application/json;+charset=utf-8 193.6443ms
+2023-07-13 22:25:30.649 +02:00 [INF] Request starting HTTP/2 OPTIONS https://localhost:7068/api/users/login - -
+2023-07-13 22:25:30.649 +02:00 [INF] Request starting HTTP/2 OPTIONS https://localhost:7068/api/users/login - -
+2023-07-13 22:25:30.649 +02:00 [INF] CORS policy execution successful.
+2023-07-13 22:25:30.649 +02:00 [INF] CORS policy execution successful.
+2023-07-13 22:25:30.650 +02:00 [INF] Request finished HTTP/2 OPTIONS https://localhost:7068/api/users/login - - - 204 - - 1.5014ms
+2023-07-13 22:25:30.650 +02:00 [INF] Request finished HTTP/2 OPTIONS https://localhost:7068/api/users/login - - - 204 - - 1.5014ms
+2023-07-13 22:25:30.655 +02:00 [INF] Request starting HTTP/2 POST https://localhost:7068/api/users/login application/json 72
+2023-07-13 22:25:30.655 +02:00 [INF] Request starting HTTP/2 POST https://localhost:7068/api/users/login application/json 72
+2023-07-13 22:25:30.655 +02:00 [INF] CORS policy execution successful.
+2023-07-13 22:25:30.655 +02:00 [INF] CORS policy execution successful.
+2023-07-13 22:25:30.655 +02:00 [INF] requestId: 0HMS3RRPDLJ8K:0000000B, previousRequestId: no previous request id, message: EndpointRateLimiting is not enabled for /api/users/login
+2023-07-13 22:25:30.655 +02:00 [INF] requestId: 0HMS3RRPDLJ8K:0000000B, previousRequestId: no previous request id, message: EndpointRateLimiting is not enabled for /api/users/login
+2023-07-13 22:25:30.655 +02:00 [INF] requestId: 0HMS3RRPDLJ8K:0000000B, previousRequestId: no previous request id, message: No authentication needed for /api/users/login
+2023-07-13 22:25:30.655 +02:00 [INF] requestId: 0HMS3RRPDLJ8K:0000000B, previousRequestId: no previous request id, message: No authentication needed for /api/users/login
+2023-07-13 22:25:30.655 +02:00 [INF] requestId: 0HMS3RRPDLJ8K:0000000B, previousRequestId: no previous request id, message: /api/users/login route does not require user to be authorised
+2023-07-13 22:25:30.655 +02:00 [INF] requestId: 0HMS3RRPDLJ8K:0000000B, previousRequestId: no previous request id, message: /api/users/login route does not require user to be authorised
+2023-07-13 22:25:31.015 +02:00 [INF] requestId: 0HMS3RRPDLJ8K:0000000B, previousRequestId: no previous request id, message: 200 (OK) status code, request uri: https://localhost:7066/api/users/login
+2023-07-13 22:25:31.015 +02:00 [INF] requestId: 0HMS3RRPDLJ8K:0000000B, previousRequestId: no previous request id, message: 200 (OK) status code, request uri: https://localhost:7066/api/users/login
+2023-07-13 22:25:31.015 +02:00 [INF] Request finished HTTP/2 POST https://localhost:7068/api/users/login application/json 72 - 200 350 application/json;+charset=utf-8 360.4199ms
+2023-07-13 22:25:31.015 +02:00 [INF] Request finished HTTP/2 POST https://localhost:7068/api/users/login application/json 72 - 200 350 application/json;+charset=utf-8 360.4199ms
+2023-07-13 22:25:33.171 +02:00 [INF] Request starting HTTP/2 OPTIONS https://localhost:7068/api/users/3 - -
+2023-07-13 22:25:33.171 +02:00 [INF] Request starting HTTP/2 OPTIONS https://localhost:7068/api/users/3 - -
+2023-07-13 22:25:33.171 +02:00 [INF] CORS policy execution successful.
+2023-07-13 22:25:33.171 +02:00 [INF] CORS policy execution successful.
+2023-07-13 22:25:33.171 +02:00 [INF] Request finished HTTP/2 OPTIONS https://localhost:7068/api/users/3 - - - 204 - - 0.4808ms
+2023-07-13 22:25:33.171 +02:00 [INF] Request finished HTTP/2 OPTIONS https://localhost:7068/api/users/3 - - - 204 - - 0.4808ms
+2023-07-13 22:25:33.173 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7068/api/users/3 application/json -
+2023-07-13 22:25:33.173 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7068/api/users/3 application/json -
+2023-07-13 22:25:33.173 +02:00 [INF] CORS policy execution successful.
+2023-07-13 22:25:33.173 +02:00 [INF] CORS policy execution successful.
+2023-07-13 22:25:33.173 +02:00 [INF] requestId: 0HMS3RRPDLJ8K:0000000F, previousRequestId: no previous request id, message: EndpointRateLimiting is not enabled for /api/users/{id}
+2023-07-13 22:25:33.173 +02:00 [INF] requestId: 0HMS3RRPDLJ8K:0000000F, previousRequestId: no previous request id, message: EndpointRateLimiting is not enabled for /api/users/{id}
+2023-07-13 22:25:33.173 +02:00 [INF] requestId: 0HMS3RRPDLJ8K:0000000F, previousRequestId: no previous request id, message: No authentication needed for /api/users/3
+2023-07-13 22:25:33.173 +02:00 [INF] requestId: 0HMS3RRPDLJ8K:0000000F, previousRequestId: no previous request id, message: No authentication needed for /api/users/3
+2023-07-13 22:25:33.173 +02:00 [INF] requestId: 0HMS3RRPDLJ8K:0000000F, previousRequestId: no previous request id, message: /api/users/{id} route does not require user to be authorised
+2023-07-13 22:25:33.173 +02:00 [INF] requestId: 0HMS3RRPDLJ8K:0000000F, previousRequestId: no previous request id, message: /api/users/{id} route does not require user to be authorised
+2023-07-13 22:25:33.293 +02:00 [INF] requestId: 0HMS3RRPDLJ8K:0000000F, previousRequestId: no previous request id, message: 200 (OK) status code, request uri: https://localhost:7066/api/users/3
+2023-07-13 22:25:33.293 +02:00 [INF] requestId: 0HMS3RRPDLJ8K:0000000F, previousRequestId: no previous request id, message: 200 (OK) status code, request uri: https://localhost:7066/api/users/3
+2023-07-13 22:25:33.300 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7068/api/users/3 application/json - - 200 83362 application/json;+charset=utf-8 127.3338ms
+2023-07-13 22:25:33.300 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7068/api/users/3 application/json - - 200 83362 application/json;+charset=utf-8 127.3338ms
+2023-07-13 22:25:35.814 +02:00 [INF] Request starting HTTP/2 OPTIONS https://localhost:7068/api/products/all - -
+2023-07-13 22:25:35.814 +02:00 [INF] Request starting HTTP/2 OPTIONS https://localhost:7068/api/products/all - -
+2023-07-13 22:25:35.814 +02:00 [INF] CORS policy execution successful.
+2023-07-13 22:25:35.814 +02:00 [INF] CORS policy execution successful.
+2023-07-13 22:25:35.814 +02:00 [INF] Request finished HTTP/2 OPTIONS https://localhost:7068/api/products/all - - - 204 - - 0.6903ms
+2023-07-13 22:25:35.814 +02:00 [INF] Request finished HTTP/2 OPTIONS https://localhost:7068/api/products/all - - - 204 - - 0.6903ms
+2023-07-13 22:25:35.816 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7068/api/products/all application/json -
+2023-07-13 22:25:35.816 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7068/api/products/all application/json -
+2023-07-13 22:25:35.816 +02:00 [INF] CORS policy execution successful.
+2023-07-13 22:25:35.816 +02:00 [INF] CORS policy execution successful.
+2023-07-13 22:25:35.816 +02:00 [INF] requestId: 0HMS3RRPDLJ8K:00000013, previousRequestId: no previous request id, message: EndpointRateLimiting is not enabled for /api/products/all
+2023-07-13 22:25:35.816 +02:00 [INF] requestId: 0HMS3RRPDLJ8K:00000013, previousRequestId: no previous request id, message: EndpointRateLimiting is not enabled for /api/products/all
+2023-07-13 22:25:35.816 +02:00 [INF] requestId: 0HMS3RRPDLJ8K:00000013, previousRequestId: no previous request id, message: No authentication needed for /api/products/all
+2023-07-13 22:25:35.816 +02:00 [INF] requestId: 0HMS3RRPDLJ8K:00000013, previousRequestId: no previous request id, message: No authentication needed for /api/products/all
+2023-07-13 22:25:35.817 +02:00 [INF] requestId: 0HMS3RRPDLJ8K:00000013, previousRequestId: no previous request id, message: /api/products/all route does not require user to be authorised
+2023-07-13 22:25:35.817 +02:00 [INF] requestId: 0HMS3RRPDLJ8K:00000013, previousRequestId: no previous request id, message: /api/products/all route does not require user to be authorised
+2023-07-13 22:25:38.285 +02:00 [INF] requestId: 0HMS3RRPDLJ8K:00000013, previousRequestId: no previous request id, message: 200 (OK) status code, request uri: https://localhost:7108/api/products/all
+2023-07-13 22:25:38.286 +02:00 [INF] requestId: 0HMS3RRPDLJ8K:00000013, previousRequestId: no previous request id, message: 200 (OK) status code, request uri: https://localhost:7108/api/products/all
+2023-07-13 22:25:38.289 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7068/api/products/all application/json - - 200 174491 application/json;+charset=utf-8 2472.8546ms
+2023-07-13 22:25:38.289 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7068/api/products/all application/json - - 200 174491 application/json;+charset=utf-8 2472.8546ms
+2023-07-13 22:25:41.971 +02:00 [INF] Request starting HTTP/2 OPTIONS https://localhost:7068/api/orders/history-/ - -
+2023-07-13 22:25:41.971 +02:00 [INF] Request starting HTTP/2 OPTIONS https://localhost:7068/api/orders/history-/ - -
+2023-07-13 22:25:41.971 +02:00 [INF] CORS policy execution successful.
+2023-07-13 22:25:41.971 +02:00 [INF] CORS policy execution successful.
+2023-07-13 22:25:41.971 +02:00 [INF] Request finished HTTP/2 OPTIONS https://localhost:7068/api/orders/history-/ - - - 204 - - 0.5490ms
+2023-07-13 22:25:41.971 +02:00 [INF] Request finished HTTP/2 OPTIONS https://localhost:7068/api/orders/history-/ - - - 204 - - 0.5490ms
+2023-07-13 22:25:41.973 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7068/api/orders/history-/ application/json -
+2023-07-13 22:25:41.973 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7068/api/orders/history-/ application/json -
+2023-07-13 22:25:41.973 +02:00 [INF] CORS policy execution successful.
+2023-07-13 22:25:41.973 +02:00 [INF] CORS policy execution successful.
+2023-07-13 22:25:41.973 +02:00 [INF] requestId: 0HMS3RRPDLJ8K:00000017, previousRequestId: no previous request id, message: EndpointRateLimiting is not enabled for /api/orders/{id}
+2023-07-13 22:25:41.973 +02:00 [INF] requestId: 0HMS3RRPDLJ8K:00000017, previousRequestId: no previous request id, message: EndpointRateLimiting is not enabled for /api/orders/{id}
+2023-07-13 22:25:41.973 +02:00 [INF] requestId: 0HMS3RRPDLJ8K:00000017, previousRequestId: no previous request id, message: No authentication needed for /api/orders/history-/
+2023-07-13 22:25:41.973 +02:00 [INF] requestId: 0HMS3RRPDLJ8K:00000017, previousRequestId: no previous request id, message: No authentication needed for /api/orders/history-/
+2023-07-13 22:25:41.973 +02:00 [INF] requestId: 0HMS3RRPDLJ8K:00000017, previousRequestId: no previous request id, message: /api/orders/{id} route does not require user to be authorised
+2023-07-13 22:25:41.973 +02:00 [INF] requestId: 0HMS3RRPDLJ8K:00000017, previousRequestId: no previous request id, message: /api/orders/{id} route does not require user to be authorised
+2023-07-13 22:25:42.032 +02:00 [INF] requestId: 0HMS3RRPDLJ8K:00000017, previousRequestId: no previous request id, message: 400 (Bad Request) status code, request uri: https://localhost:7108/api/orders/history-/
+2023-07-13 22:25:42.032 +02:00 [INF] requestId: 0HMS3RRPDLJ8K:00000017, previousRequestId: no previous request id, message: 400 (Bad Request) status code, request uri: https://localhost:7108/api/orders/history-/
+2023-07-13 22:25:42.032 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7068/api/orders/history-/ application/json - - 400 246 application/problem+json;+charset=utf-8 59.8242ms
+2023-07-13 22:25:42.032 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7068/api/orders/history-/ application/json - - 400 246 application/problem+json;+charset=utf-8 59.8242ms
+2023-07-13 22:25:43.440 +02:00 [INF] Request starting HTTP/2 OPTIONS https://localhost:7068/api/orders/history-buyer/3 - -
+2023-07-13 22:25:43.440 +02:00 [INF] Request starting HTTP/2 OPTIONS https://localhost:7068/api/orders/history-buyer/3 - -
+2023-07-13 22:25:43.441 +02:00 [INF] CORS policy execution successful.
+2023-07-13 22:25:43.441 +02:00 [INF] CORS policy execution successful.
+2023-07-13 22:25:43.441 +02:00 [INF] Request finished HTTP/2 OPTIONS https://localhost:7068/api/orders/history-buyer/3 - - - 204 - - 0.4423ms
+2023-07-13 22:25:43.441 +02:00 [INF] Request finished HTTP/2 OPTIONS https://localhost:7068/api/orders/history-buyer/3 - - - 204 - - 0.4423ms
+2023-07-13 22:25:43.443 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7068/api/orders/history-buyer/3 application/json -
+2023-07-13 22:25:43.443 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7068/api/orders/history-buyer/3 application/json -
+2023-07-13 22:25:43.443 +02:00 [INF] CORS policy execution successful.
+2023-07-13 22:25:43.443 +02:00 [INF] CORS policy execution successful.
+2023-07-13 22:25:43.443 +02:00 [INF] requestId: 0HMS3RRPDLJ8K:0000001B, previousRequestId: no previous request id, message: EndpointRateLimiting is not enabled for /api/orders/{id}
+2023-07-13 22:25:43.443 +02:00 [INF] requestId: 0HMS3RRPDLJ8K:0000001B, previousRequestId: no previous request id, message: EndpointRateLimiting is not enabled for /api/orders/{id}
+2023-07-13 22:25:43.443 +02:00 [INF] requestId: 0HMS3RRPDLJ8K:0000001B, previousRequestId: no previous request id, message: No authentication needed for /api/orders/history-buyer/3
+2023-07-13 22:25:43.443 +02:00 [INF] requestId: 0HMS3RRPDLJ8K:0000001B, previousRequestId: no previous request id, message: No authentication needed for /api/orders/history-buyer/3
+2023-07-13 22:25:43.443 +02:00 [INF] requestId: 0HMS3RRPDLJ8K:0000001B, previousRequestId: no previous request id, message: /api/orders/{id} route does not require user to be authorised
+2023-07-13 22:25:43.443 +02:00 [INF] requestId: 0HMS3RRPDLJ8K:0000001B, previousRequestId: no previous request id, message: /api/orders/{id} route does not require user to be authorised
+2023-07-13 22:25:43.891 +02:00 [INF] requestId: 0HMS3RRPDLJ8K:0000001B, previousRequestId: no previous request id, message: 200 (OK) status code, request uri: https://localhost:7108/api/orders/history-buyer/3
+2023-07-13 22:25:43.891 +02:00 [INF] requestId: 0HMS3RRPDLJ8K:0000001B, previousRequestId: no previous request id, message: 200 (OK) status code, request uri: https://localhost:7108/api/orders/history-buyer/3
+2023-07-13 22:25:43.897 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7068/api/orders/history-buyer/3 application/json - - 200 879607 application/json;+charset=utf-8 454.1373ms
+2023-07-13 22:25:43.897 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7068/api/orders/history-buyer/3 application/json - - 200 879607 application/json;+charset=utf-8 454.1373ms
